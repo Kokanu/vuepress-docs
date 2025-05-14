@@ -75,7 +75,6 @@ export default defineUserConfig({
 
   // Convert every word preceded by $ into a gloss
   extendsMarkdown: (md) => {
-    md.use(markdownItContainer, "translation")
     md.use(markdownItRegex, {
       name: 'dictionary',
       regex: /\$(\w+)/,
