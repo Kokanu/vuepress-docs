@@ -2,10 +2,10 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import markdownItRegex from 'markdown-it-regex'
-import markdownItContainer from 'markdown-it-container'
 
 export default defineUserConfig({
   lang: 'en-US',
+  base: '/vuepress-docs/',
 
   title: 'Kokanu',
   description: 'The minimal IAL.',
@@ -68,7 +68,7 @@ export default defineUserConfig({
       ]
     },
 
-    repo: 'Kokanu/kokanu-guide',
+    repo: 'Kokanu/vuepress-docs',
   }),
 
   bundler: viteBundler(),
