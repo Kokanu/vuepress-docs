@@ -27,7 +27,7 @@ features:
   - title: Minimalism
     details: Kokanu has a minimal vocabulary and a simple but fully expressive grammar for greater ease of learning.
 
-footer: TODO - Add footer of some kind
+footer: Documentation made by the Kokanu community.
 ---
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page

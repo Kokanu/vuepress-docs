@@ -13,30 +13,37 @@ There are other writing systems used by some, but these two writing systems are 
 
 ## Pronunciation chart
 
+
 ### Consonants
-| Likanu     | Latin | IPA | English pronunciation |
+
+Sounds by Peter Isotalo on Wikimedia Commons, under CC BY-SA 3.0.
+
+| Likanu     | Latin | IPA | Pronunciation |
 |------------|-------|-----|------------------------|
-|ʜ           |p      |/p/  | P as in **p**in        |
-|ʌ           |t      |/t/  | T as in **t**ea        |
-|x           |k      |/k/  | K as in loo**k**       |
-|ɕ           |w      |/w/  | W as in **w**ire       |
-|ʋ           |l      |/l/  | L as in **l**ight      |
-|ɂ           |j      |/j/  | Y as in **y**es        |
-|ɞ           |m      |/m/  | M as in **m**e         |
-|ƨ, ◌̄        |n      |/n/  | N as in **n**ight      |
-|ɤ           |s      |/s/  | S as in **s**un        |
-|ɛ           |c      |/ʧ/  | Ch as in **ch**ange    |
-|ɵ           |h      |/h/  | H as in **h**at        |
+|ʜ           |p      |/p/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/5/51/Voiceless_bilabial_plosive.ogg" type="audio/ogg"></audio>|
+|ʌ           |t      |/t/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/0/02/Voiceless_alveolar_plosive.ogg" type="audio/ogg"></audio>|
+|x           |k      |/k/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Voiceless_velar_plosive.ogg" type="audio/ogg"></audio>|
+|ɕ           |w      |/w/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Voiced_labio-velar_approximant.ogg" type="audio/ogg"></audio>|
+|ʋ           |l      |/l/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Alveolar_lateral_approximant.ogg" type="audio/ogg"></audio>|
+|ɂ           |j      |/j/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Palatal_approximant.ogg" type="audio/ogg"></audio>|
+|ɞ           |m      |/m/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg" type="audio/ogg"></audio>|
+|ƨ, ◌̄        |n      |/n/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg" type="audio/ogg"></audio>|
+|ɤ           |s      |/s/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Voiceless_alveolar_sibilant.ogg" type="audio/ogg"></audio>|
+|ɛ           |c      |/t͡ʃ/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/9/97/Voiceless_palato-alveolar_affricate.ogg" type="audio/ogg"></audio>|
+|ɵ           |h      |/h/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/d/da/Voiceless_glottal_fricative.ogg" type="audio/ogg"></audio>|
 |o           |(none) |/ /  | (not pronounced)       |
 
 ### Vowels
-| Likanu     | Latin | IPA | English pronunciation |
+
+Sounds by Denelson83 on Wikimedia Commons, under CC BY-SA 3.0.
+
+| Likanu     | Latin | IPA | Pronunciation |
 |------------|-------|-----|------------------------|
-|(unwritten) |a      |/a/  | A as in c**a**t        |
-|ȷ           |e      |/e/  | E as in g**e**t        |
-|ı           |i      |/i/  | Ee as in s**ee**       |
-|ʃ           |o      |/o/  | O as in d**o**g        |
-|ſ           |u      |/u/  | Oo as in p**oo**l      |
+|(unwritten) |a      |/a/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/6/65/Open_front_unrounded_vowel.ogg" type="audio/ogg"></audio>|
+|ȷ           |e      |/e/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg" type="audio/ogg"></audio>|
+|ı           |i      |/i/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/9/91/Close_front_unrounded_vowel.ogg" type="audio/ogg"></audio>|
+|ʃ           |o      |/o/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg" type="audio/ogg"></audio>|
+|ſ           |u      |/u/  |<audio controls preload="none"><source src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg" type="audio/ogg"></audio>|
 
 ## Writing Likanu
 Likanu is the script made for Kokanu. It is written left-to-right, top-to-bottom, and it has no capital letters. Instead, angle brackets (**‹ ›**) are used to indicate names.
