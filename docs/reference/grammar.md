@@ -9,21 +9,6 @@ The essential details to get a grasp on Kokanu grammar and start exploring how t
 
 This guide assumes you have some familiarity with the Kokanu vocabulary. Words that directly affect the grammar are explained here in the guide, but other words used in the example sentences will not. You **click** on any Kokanu word to see a definition of the word.
 
-* * *
-
-Pronunciation
--------------
-
-The letters **p**, **t**, **k**, **w**, **l**, **m**, **n**, **s**, and **h** are all pronounced the same as their equivalents in the IPA and in English.
-
-The letter **j** is pronounced like its equivalent in the IPA, which is the sound of the letter **y** in “yellow”. The letter **c** is pronounced like ​​/tʃ/ in the IPA, which is the sound of the digraph **ch** in “chat”.
-
-The vowels **a**, **e**, **i**, **o**, and **u** are pronounced the same as their equivalents in the IPA. Spanish is a common example of a language with all these sounds. The only two that are pronounced on their own in English are **i**, like the digraph **ee** in “see”, and **o** like the **o** in “cold”. The letter **u** is pronounced like the end of diphthong in the word \`tow\`, similar to the English exclamation “oooo”, with the tongue resting completely. The letter **a** is close to the **a** in the word “ash” or the **a** in “malt”  but with the tongue much more relaxed, not raised like in "ash" or pushed back like in "malt". The letter **e** is close to the **e** in “get” but with the tongue more raised like **i** in "see", around the halfway point between the two.    
-
-For those that cannot pronounce some of these sounds exactly, there shouldn't be a problem as long as each one is pronounced differently from all the others. The sounds of the language are limited and spaced out in the mouth such that each letter can be approximated in a variety of ways without sounding too much like any other letter. Ask in the discord for help if you struggle with any of the pronunciations, and you will likely find a pronunciation that works for you.
-
-* * *
-
 Base Forms
 ----------
 
