@@ -14,27 +14,27 @@ A verb's tense tells you the position in time that the action occurred from the 
 
 ### Past
 
-Use the word $minuli in a verb clause to indicate that the action occurred "previously":
+Use the word $matin in a verb clause to indicate that the action occurred "previously":
 
-$kuku $le $kosan **minuli** $in $niwa $namu. “The bird built a nest.”
+$kuku $le $kosan **matin** $in $niwa $namu. “The bird built a nest.”
 
-$mi $le $tun **minuli**. "I did (it)." (lit. I do previously)
+$mi $le $tun **matin**. "I did (it)." (lit. I do previously)
 
 ### Present
 
-Use the word $iputu in a verb clause to indicate that the action occurred "currently":
+Use the word $kenca in a verb clause to indicate that the action occurred "currently":
 
-$kuku $le $kosan **iputu** $in $niwa $namu. “The bird is building a nest.”
+$kuku $le $kosan **kenca** $in $niwa $namu. “The bird is building a nest.”
 
-$mi $le $tun $iputu "I do (it)." (lit. I do currently)
+$mi $le $tun $kenca "I do (it)." (lit. I do currently)
 
 ### Future
 
-Use the word $putuci in a verb clause to indicate that the action occurs "next":
+Use the word $melon in a verb clause to indicate that the action occurs "next":
 
-$kuku $le $kosan **putuci** $in $niwa $namu. “The bird is going to build a nest.”
+$kuku $le $kosan **melon** $in $niwa $namu. “The bird is going to build a nest.”
 
-$mi $le $tun $putuci "I will do (it)." (lit. I do next(ly))
+$mi $le $tun $melon "I will do (it)." (lit. I do next(ly))
 
 * * *
 
@@ -49,13 +49,13 @@ This **imperfective** aspect expresses actions or states that are incomplete and
 
 $mi $le $makan **conca**. "I am eating."
 
-$ja $le $lo $wiki **conca** $minuli. "They were running fast."
+$ja $le $lo $wiki **conca** $matin. "They were running fast."
 
 ### Currently Happening (Progressive)
 
-This **imperfective** aspect expresses actions or states that are incomplete and are in progress at the present moment. Use the words $conca and $iputu in a verb clause to indicate that the action or state is "currently ongoing":
+This **imperfective** aspect expresses actions or states that are incomplete and are in progress at the present moment. Use the words $conca and $kenca in a verb clause to indicate that the action or state is "currently ongoing":
 
-$mi $le pata conca iputu "I am currently reading"
+$mi $le pata conca kenca "I am currently reading"
 
 ### Starting (Inceptive/Ingressive)
 
@@ -73,15 +73,15 @@ inpali $le $pijen $tepu in kula "The flowers started to bloom"
 
 This **imperfective** aspect refers to the end of an action or a state. It is the inverse of the **inchoative** aspect. Use the modifier $konje to indicate that the state or action is "stopping" or "finishing".
 
-pawo $le $kota $konje in tenkin "The dog stopped barking"
+pawo $le $kota $konje in sema "The dog stopped barking"
 
 ### Limited (Delimitative/Durative)
 
-This **imperfective** aspect is used to describe to a situation that lasts for a limited amount of time. Use the $ke thematic relation as "until" and $konje with a quantity of time to indicate that the action has a specific duration the goes until the ending. Alternatively, you could use the sun thematic relation as "starting from" and $tepu with a quantity of time for the opposite effect.
+This **imperfective** aspect is used to describe to a situation that lasts for a limited amount of time. Use the $ki thematic relation as "until" and $konje with a quantity of time to indicate that the action has a specific duration the goes until the ending. Alternatively, you could use the sun thematic relation as "starting from" and $tepu with a quantity of time for the opposite effect.
 
-mi $le patun un le $kota $ke $konje je jati ten "I stayed and talked for some time" (lit. I am still and talking until the end of some time)
+mi $le patun un le $kota $ki $konje je jati ten "I stayed and talked for some time" (lit. I am still and talking until the end of some time)
 
-niju mi le makan sun tepu je ha osa "We've been eating for two hours" (lit. Many of us are eating from the beginning of two hours)
+lan mi le makan sun tepu je ha osa "We've been eating for two hours" (lit. Many of us are eating from the beginning of two hours)
 
 ### Repetition (Iterative)
 
@@ -93,7 +93,7 @@ ja le pa hapijo je wan cunpu an kumon je niwa "He knocked one time on the door"
 
 This **imperfective** aspect describes an event that is being applied to a group of entities one after another. It can be an experiencer of a non-base verb or the object of a base verb (patient/theme/stimulus). In Kokanu, you would use a $wija clause to describe the manner of the event which can include a description of a distributive action.
 
-$ja $le $kota $ke $non $nin **wija te ke wan nin an wan ten** "He talks to the group, one person at a time"
+$ja $le $kota $ki $non $nin **wija te ke wan nin an wan ten** "He talks to the group, one person at a time"
 
 ### Frequentative
 

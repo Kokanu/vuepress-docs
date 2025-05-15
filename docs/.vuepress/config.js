@@ -54,15 +54,15 @@ export default defineUserConfig({
             'hon.md',
             'hu.md',
             'ka.md',
-            'ke.md',
+            'ki.md',
             'la.md',
             'lun.md',
             'peko.md',
             'pijen.md',
-            'si.md',
+            'se.md',
             'so.md',
             'sun.md',
-            'we.md'
+            'wi.md'
           ]
         }
       ]

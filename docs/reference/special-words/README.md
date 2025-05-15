@@ -3,18 +3,18 @@
 There are a few special words in Kokanu that work in different ways than what you may expect.
 
 ## Prepositions
-* [so - comparisons](special-words/so.md)
-* [sun - "from"](special-words/sun.md)
-* [ke - "to"](special-words/ke.md)
+* [so - comparisons](so.md)
+* [sun - "from"](sun.md)
+* [ke - "to"](ke.md)
 
 ## Verbs
-* [si - "to be"](special-words/si.md)
-* [pijen - "to become"](special-words/pijen.md)
+* [se - "to be"](se.md)
+* [pijen - "to become"](pijen.md)
 
 ## Particles/Other
-* [ka - interrogative particle](special-words/ka.md)
-* [hon - context particle](special-words/hon.md)
-* [la - exclamation](special-words/la.md)
-* [lun - causative](special-words/lun.md)
-* [peko - please](special-words/peko.md)
-* [we - coupling negator](special-words/we.md)
+* [ka - interrogative particle](ka.md)
+* [hon - context particle](hon.md)
+* [la - exclamation](la.md)
+* [lun - causative](lun.md)
+* [peko - please](peko.md)
+* [wi - coupling negator](wi.md)

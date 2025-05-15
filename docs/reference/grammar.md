@@ -33,7 +33,7 @@ Verbs are marked by the particles $le and $o.
 
 $men $mi $le $makan “I eat”
 
-**Nouns** are marked by the **prepositions**, like $men, $in, $ke, and $wija
+**Nouns** are marked by the **prepositions**, like $men, $in, $ki, and $wija
 
 $men $mi $le $makan $in $makan “I eat food”
 
@@ -47,9 +47,9 @@ Check out the [Word Derivations](grammar/word-derivations.md) guide for more inf
 
 ### Relations between action and noun phrases
 
-The structure of a Kokanu sentence is formed from an **action phrase**, marked by $le or $o, surrounded by **noun phrases** which relate to the action in some way. $men marks a **noun phrase** which is the **agent** of the action. $in marks a **noun phrase** which is the object of the action. $ke marks a **noun phrase** which is the recipient of the action. $wija marks a **noun phrase** which is the instrument of the action. The **action phrases** and **noun phrases** can be placed in any order as long as they are marked properly.
+The structure of a Kokanu sentence is formed from an **action phrase**, marked by $le or $o, surrounded by **noun phrases** which relate to the action in some way. $men marks a **noun phrase** which is the **agent** of the action. $in marks a **noun phrase** which is the object of the action. $ki marks a **noun phrase** which is the recipient of the action. $wija marks a **noun phrase** which is the instrument of the action. The **action phrases** and **noun phrases** can be placed in any order as long as they are marked properly.
 
-$wija $moto $in $makan $le $anta $men $mi “I prepare food using fire”, “I cook food”
+$wija $moto $in $makan $le $tajali $men $mi “I prepare food using fire”, “I cook food”
 
 When the subject is at the _start_ of a sentence, however, $men can be dropped.
 
@@ -90,11 +90,11 @@ $kuwosi $wan “first fruit”
 
 $wan $kuwosi “one fruit”
 
-$tope $niju “very good”
+$tope $lan “very good”
 
-$niju $tope “several goodnesses”
+$lan $tope “several goodnesses”
 
-$niju $mi “we”
+$lan $mi “we”
 
 The word $je is similar to the word “of” in English. The word following it is always derived as a **noun**.
 
@@ -141,7 +141,7 @@ $nin $ta $mi $le $suki $in "person that I like", where $in indicates the role of
 
 Any **preposition** can be used to make this relation.
 
-$jan $ta $mi $le $lo $ke "place that I go to"
+$jan $ta $mi $le $lo $ki "place that I go to"
 
 $jon $ta $mi $le $tun $in $ne $wija "tool that I do this with/using"
 
@@ -165,11 +165,11 @@ For more information check out our TODO guide.
 
 ### Coupling Word Particles
 
-$we and $mu are particles that apply to the next word only, creating a "coupling". $we negates **modifiers**
+$wi and $mu are particles that apply to the next word only, creating a "coupling". $wi forces **modifiers**
 
-$sikin $we $konen “improbable event”
+$sikin $wi no $konen “improbable event”
 
-$kuwosi $we $makan “inedible fruit”
+$kuwosi $wi no $makan “inedible fruit”
 
 For more information, check out our $Coupling Modifier Negator guide.
 

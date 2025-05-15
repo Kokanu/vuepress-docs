@@ -18,7 +18,7 @@ $nanku - 4 (four)
 
 $lima - 5 (five)
 
-$lijo - 6 (six)
+$loku - 6 (six)
 
 $setan - 7 (seven)
 
@@ -44,7 +44,7 @@ $san $tiju $ha "three tens and two, 32"
 
 For numbers over 100, $sijen acts exactly like $tiju.
 
-$lima $sijen $lijo "five hundreds and six, 506"
+$lima $sijen $loku "five hundreds and six, 506"
 
 $setan sijen ha tiju saka "seven hundreds and two tens and nine, 729"
 
@@ -65,7 +65,7 @@ It’s important to think of $con as “thousand to the power of...” rather t
 
 $nanku $tiju $san **$con $wan** "43,000"
 $nanku $tiju $san **$con $wan** $tan $wan "43,001"
-$san **$con $ha**, $tan $nanku $sijen $nanku $tiju $lijo **$con $wan**, $tan $setan $tiju $etu "3,446,078"
+$san **$con $ha**, $tan $nanku $sijen $nanku $tiju $loku **$con $wan**, $tan $setan $tiju $etu "3,446,078"
 
 $nula is used for "zero", though, like in English, it doesn't appear in compound whole number words.
 
@@ -74,15 +74,15 @@ Cardinals and Ordinal Numbers
 
 **Cardinal numbers** are placed **before a noun**. These are used for counting **how many** or **how much** of something there is.
 
-$mi $le $junja $in **$san** **$pawo** "I have **three dogs**"
+$mi $le $han $in **$san** **$pawo** "I have **three dogs**"
 
-$mi $le $tun **$tiju** **$etu** **$osa** **$minuli** "I have been working for **eighteen hours**
+$mi $le $tun **$tiju** **$etu** **$osa** **$matin** "I have been working for **eighteen hours**
 
 **Ordinal numbers** are placed **after the noun** These are used to specify the position of an item in a series, like "fourth" or "seventeenth".
 
 **$pawo $ha** $le $tope $ani "**The second dog** is the best"
 
-**$san $ten** $putuci $je **$osa** ****$tiju** $etu** $le $conca "It is 18:03" (literally "**three minutes** after the **eighteenth hour** have passed")
+**$san $ten** $melon $je **$osa** ****$tiju** $etu** $le $conca "It is 18:03" (literally "**three minutes** after the **eighteenth hour** have passed")
 
 Therefore, when telling time, $san $osa is used to mean "three hours", and "$osa $san" to mean "three o'clock", literally "third hour".
 
@@ -118,7 +118,7 @@ $opotu $je $san "-3"
 
 $opotu $je $nanku $osa $je $tiju "-4/10"
 
-$opotu $je $lijo $pintu $saka $saka "-6.99"
+$opotu $je $loku $pintu $saka $saka "-6.99"
 
 Mathematical Operations
 -----------------------
@@ -129,7 +129,7 @@ Addition
 
 2 + 3
 
-$te $tene $in $san $ke $ha "giving 3 to 2"
+$te $tene $in $san $ki $ha "giving 3 to 2"
 
 $te $pon $ta $ha $le $unitu $kan $san "combining 2 with 3"
 
@@ -155,7 +155,7 @@ Multiplication
 
 $te $tun $in $ha $non $je $lima - "creating 2 groups of 5"
 
-$te $lun $niju $in $ha $wija $lima "to make-many 2 with 5"
+$te $lun $lan $in $ha $wija $lima "to make-many 2 with 5"
 
 2 \* 5 = 10
 
@@ -179,8 +179,8 @@ Exponentiation
 
 6³
 
-$te $lun $niju $in $lijo $wija $sa $an $san $ten - "to make-many 6 using itself 3 times"
+$te $lun $lan $in $loku $wija $sa $an $san $ten - "to make-many 6 using itself 3 times"
 
 6³ = 216
 
-$san $mita $saman $je $lijo $le $ha $sijen $tiju $lijo "3 identical bunches of 6 is 216"
+$san $mita $saman $je $loku $le $ha $sijen $tiju $loku "3 identical bunches of 6 is 216"

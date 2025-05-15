@@ -4,4 +4,4 @@ The preposition **sun** marks the **origin** or **source**, roughly equivalent 
 
 $mi $le $lo **sun** $insu $mi. "I am leaving my house"
 
-$mi $le $alu $minuli **sun** $tu $in $kuwosi. \- "I received a fruit from you"
+$mi $le $alu $matin **sun** $tu $in $kuwosi. \- "I received a fruit from you"

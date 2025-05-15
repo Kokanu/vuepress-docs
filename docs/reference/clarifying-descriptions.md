@@ -24,7 +24,7 @@ $pawo **$cenpo** **$mi** $le $tope.<br>
 $in $makan $satu $canu $cenpo $le $makan.<br>
 "A **large** **ice** cream is eaten."  
 
-> in (((makan satu) canu) niju) le makan.
+> in (((makan satu) canu) lan) le makan.
 
 **Noun phrase**: *makan satu canu cenpo*
 
@@ -36,11 +36,11 @@ So how would you instead say "a _very cold_ candy"? For that, we need to _regrou
 
 The **preposition** marker je is used for **genitive** relationships. Think of the **genitive** as relating one thing as an attribute to another. The best equivalence in English is the word "of". The words that are directly after the marker are a new **noun phrase** that is some kind of attribute of the **noun phrase** directly preceding the marker.  For this reason, the **genitive** **preposition** marker is also considered a **regrouping** marker.
 
-$nin $tope $niju - "many good people"  
+$nin $tope $lan - "many good people"  
   
-$nin $je $tope $niju - literally "person (or people) of much goodness", or "a very good person"
+$nin $je $tope $lan - literally "person (or people) of much goodness", or "a very good person"
 
-By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ which now begins a new **noun phrase** which is further modified by $niju. This new **noun phrase** (_much goodness_) is now an attribute of the preceding **noun phrase** (_person_).
+By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ which now begins a new **noun phrase** which is further modified by $lan. This new **noun phrase** (_much goodness_) is now an attribute of the preceding **noun phrase** (_person_).
 
 * * *
 
@@ -62,11 +62,11 @@ $pata $je $kun $je $pa $enteken $hunsi (lit. document of quality of red cover)
 
 Specifies the preceding phrase as being owned or possessed by the attached genitive phrase. "belonging to" or "possessed by" are English equivalents.
 
-$mu $tenkin $je $canwa "ear belonging to an animal" (lit. ear of animal)
+$mu $sema $je $canwa "ear belonging to an animal" (lit. ear of animal)
 
-You can clarify that a genitive relationship is descriptive by using $junja:
+You can clarify that a genitive relationship is descriptive by using $han:
 
-$mu $tenkin $je $junja $je $canwa (lit. ear of possession of animal)
+$mu $sema $je $han $je $canwa (lit. ear of possession of animal)
 
 #### Familial Genitive
 
@@ -74,9 +74,9 @@ Specifies the preceding phrase as having a familial relationship with the attach
 
 $matuwa $je $matuwa $mi "mother related to my mother" (lit. mother of my mother)
 
-You can clarify a genitive relationship is familial by using $sanpanti:
+You can clarify a genitive relationship is familial by using $lije:
 
-$matuwa $je $sanpanti $je $matuwa $mi (lit. mother of relation of my mother)
+$matuwa $je $lije $je $matuwa $mi (lit. mother of relation of my mother)
 
 #### Partitive Genitive
 
@@ -96,9 +96,9 @@ Specifies the attached genitive phrase as being an attribute or innate quality o
 
 $insu $je $hela "sacred building" (lit. building of sacredness) 
 
-You can clarify a genitive relationship is attributive by using $kun alone or $junja and $kun:
+You can clarify a genitive relationship is attributive by using $kun alone or $han and $kun:
 
-$insu $je $junja $je $kun $je $hela (lit. building of possession of quality of sacredness)
+$insu $je $han $je $kun $je $hela (lit. building of possession of quality of sacredness)
 
 #### Attributed Genitive
 
@@ -114,19 +114,19 @@ You could clarify this genitive relationship using $kun again although some dir
 
 $je $kun $je $niku (lit. weakness of quality of muscles)
 
-You could clarify this genitive relationship using si $limijen:
+You could clarify this genitive relationship using se $limijen:
 
-$je $si $limijen $je $niku (lit. weakness of inner existence of muscles)
+$je $se $limijen $je $niku (lit. weakness of inner existence of muscles)
 
 #### Genitive of Material
 
 Specifies the preceding phrase as being made of a material. "made out of" or "consisting of" are equivalent English expressions.
 
-$lantan $je $namu $kijata "vehicle made out of hard wood" (lit. vehicle of hard wood)
+$lantan $je $namu $kijeta "vehicle made out of hard wood" (lit. vehicle of hard wood)
 
-You can clarify a genitive relationship is material by using $mata:
+You can clarify a genitive relationship is material by using $niju:
 
-$lantan $je $mata $je $namu $kijata (lit. vehicle of material of hard wood)
+$lantan $je $niju $je $namu $kijeta (lit. vehicle of material of hard wood)
 
 #### Genitive of Content
 
@@ -134,9 +134,9 @@ Specifies the preceding phrase as containing within itself the attached genitive
 
 $non $pani $je $micin "lake containing fish" (lit. water body of fish)
 
-You can clarify a genitive relationship is material by using $junja $limijen:
+You can clarify a genitive relationship is material by using $han $limijen:
 
-$non $pani $je $junja $limijen $je $micin (lit. water body of inner possession of fish)
+$non $pani $je $han $limijen $je $micin (lit. water body of inner possession of fish)
 
 #### Epexegetical Genitive
 
@@ -198,7 +198,7 @@ $pani $nase $hunsi $je $pumi Chanpen "wine out of Champagne" (lit. red intoxica
   
 $namu $je $insu $cune "wood derived from the old building" (lit. wood of old building)
 
-You can clarify that a genitive relationship is Source by using a subordinate clause with si and $sun:
+You can clarify that a genitive relationship is Source by using a subordinate clause with se and $sun:
 
 $namu $je $te $sun $insu $cune (lit. wood of which is from old building)
 
@@ -218,19 +218,19 @@ $san $neje $je $mita $je $tiju $jone (lit. three horses of value of ten goats)
 
 Specifies the time or duration of the preceding phrase. "during", "at", "within", "for" are equivalent English expressions. The attached genitive phrase must contain concepts of time or duration.
 
-$tun $je $etu $osa $lana "work for eight hours" (lit. action of eight day parts)  
+$tun $je $etu $osa $kin "work for eight hours" (lit. action of eight day parts)  
   
 $ten $te $makan, $je $osa $setan "breakfast at seven o'clock" (lit. time of eating of the seventh hour)  
   
-$lo $je $nelo $osa $je $lana "movement during the night" (lit. movement of the dark part of the day)
+$lo $je $nelo $osa $je $kin "movement during the night" (lit. movement of the dark part of the day)
 
 You can clarify that a genitive relationship is Time by using ten:
 
-$tun $je $ten $je $etu $osa $lana (lit. action of time of eight day parts)
+$tun $je $ten $je $etu $osa $kin (lit. action of time of eight day parts)
 
 You can also clarify this relationship using a subordinate clause and an:
 
-$lo $je $te $an $nelo $osa $je $lana (lit. movement of which is at the dark part of day)
+$lo $je $te $an $nelo $osa $je $kin (lit. movement of which is at the dark part of day)
 
 #### Genitive of Place
 
@@ -238,7 +238,7 @@ Specifies a vague local relation to the preceding phrase. "in", "at", "through",
 
 $niwa $je $honja "cabin in the woods" (lit. residence of the wilderness)  
   
-$mi $le $lo $je $pumi $pani $ke $sinsi "I travel through the marsh to the city" (lit. I am moving of wet land to the city)
+$mi $le $lo $je $pumi $pani $ki $sinsi "I travel through the marsh to the city" (lit. I am moving of wet land to the city)
 
 You can clarify that a genitive relationship is Place by using $jan:
 
@@ -332,11 +332,11 @@ $jan $je $insu $je $makan - "restaurant location", grouped as "(place of (the h
 
 When using je after a verb, the je\-phrase acts like an **adverbial phrase**, just like any other modifier would on a verb. Adverbial phrases can be used to describe several different genitive relationships.
 
-$mi $le $kota $je $tenkin $niju - "I talk **loudly**", literally "I talk **of much volume**"
+$mi $le $kota $je $sema $lan - "I talk **loudly**", literally "I talk **of much volume**"
 
 Due to context playing a major part in our understanding of Kokanu sentences, this sentence wouldn't be perceived as saying "I talk **about** much volume". The phrase "of much volume" describes **the manner in which the talking occurs**. This attached genitive phrase describes something that would typically be construed as being a detail of manner (Genitive of Means) instead of discussion material (Objective Genitive). If you want to clarify that you are talking "about" something, you can use the verb husu:
 
-$mi $le $kota $je $husu $je $tenkin $niju (lit. I talk of concern of much volume)
+$mi $le $kota $je $husu $je $sema $lan (lit. I talk of concern of much volume)
 
 ### Collapsing Noun Phrases
 
@@ -365,11 +365,11 @@ $jan $je $kawa $wa $je $insu $je $makan - "restaurant bathroom" ((place of dirt
 
 Here's a larger example of this interplay between the two particles.
 
-$insu $je $makan $wa $cenpo $hunsi $je $tope $niju $wa $ta $mi $le $suki $in \$ $ja \ $je $makan 'restaurant' (lit. place of food)
+$insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa $ta $mi $le $suki $in \$ $ja \ $je $makan 'restaurant' (lit. place of food)
 2.  $insu $je $makan $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa
 3.  $insu $je $makan $wa $cenpo 'big restaurant', as $cenpo _sees_ insu-je-makan-wa  
     **Note:** $insu $je $makan $cenpo is 'place of big food', which is not the same
 4.  $insu $je $makan $wa $cenpo $hunsi 'red big restaurant', as $hunsi _sees_ insu-je-makan-wa $cenpo
-5.  $insu $je $makan $wa $cenpo $hunsi $je $tope $niju 'very-good red big restaurant', as $je $tope $niju _sees_ insu-je-makan-wa $cenpo $hunsi and acts on all of it because from its perspective, it's only acting on one chain (like how $je $tope $niju would also act on meja $cenpo $hunsi as that is only one chain)
-6.  $insu $je $makan $wa $cenpo $hunsi $je $tope $niju $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa-cenpo-hunsi-je-tope-niju-wa
-7.  $insu $je $makan $wa $cenpo $hunsi $je $tope $niju $wa $ta $mi $le $suki $in \$ $ja \ $mi $le $suki $in \$ [ja \] _sees_ insu-je-makan-wa-cenpo-hunsi-je-tope-niju-wa
+5.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan 'very-good red big restaurant', as $je $tope $lan _sees_ insu-je-makan-wa $cenpo $hunsi and acts on all of it because from its perspective, it's only acting on one chain (like how $je $tope $lan would also act on meja $cenpo $hunsi as that is only one chain)
+6.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa-cenpo-hunsi-je-tope-lan-wa
+7.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa $ta $mi $le $suki $in \$ $ja \ $mi $le $suki $in \$ [ja \] _sees_ insu-je-makan-wa-cenpo-hunsi-je-tope-lan-wa

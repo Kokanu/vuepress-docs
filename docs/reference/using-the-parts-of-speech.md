@@ -39,7 +39,7 @@ _Additionally, some uses of subject-less sentences are just continuations of an 
 The particle **o** works the same way as $le, marking the **verb**, except that it turns the statement into a **recommendation**, **suggestion**, or what the speaker believes **should** happen.
 
 *   $ja $o $makan $in $kuwosi - "They should eat fruit"
-*   $nin $o $tene $in $kuwosi $ke $ja - "Someone should give them fruit"
+*   $nin $o $tene $in $kuwosi $ki $ja - "Someone should give them fruit"
 *   $mi $o $makan $in $ukama... - "I should eat a vegetable..."
 
 ### **Subject-less suggestions**
@@ -74,7 +74,7 @@ There is a subject marking particle men which is only needed if you place the su
 *   $pawo $mi $le $tope "My dog is good"
 *   $mi $le $makan $in $kuwosi $mi "I am eating my fruit"
 *   $meja $ne $le $cina "This cat is small"
-*   $meja $mi $le $makan $niju "My cat eats a lot"
+*   $meja $mi $le $makan $lan "My cat eats a lot"
 
 ### Genitive Particles
 
@@ -111,11 +111,11 @@ Unlike the je particle, this one causes the collapse of any amount of open je ph
 
 ### Force Modifier Derivation
 
-You can force the modifier derivation of verbs and nouns by using the verb derivation of the base modifier $si. Click on the word to learn more.
+You can force the modifier derivation of verbs and nouns by using the verb derivation of the base modifier $se. Click on the word to learn more.
 
 ### Changing State
 
-We have the power to describe current state using $si, to describe a changing state, you can use the verb $pijen. Click on the word to learn more.
+We have the power to describe current state using $se, to describe a changing state, you can use the verb $pijen. Click on the word to learn more.
 
 **Using Thematic Relations**
 ----------------------------
@@ -138,7 +138,7 @@ $an
 
 ō
 
-**an** $lana $minuli $men $mi $le $canu
+**an** $kin $matin $men $mi $le $canu
 
 $in
 
@@ -150,9 +150,9 @@ $kan
 
 x̄
 
-$mi $le $lo **kan** $nin $suki $mi $ke $jan $te $si $po $konpa
+$mi $le $lo **kan** $nin $suki $mi $ki $jan $te $se $po $konpa
 
-$ke
+$ki
 
 xȷ
 
@@ -162,7 +162,7 @@ $men
 
 ɞ̄ȷ
 
-$le $si **men** $mi
+$le $se **men** $mi
 
 $nenka
 
@@ -174,7 +174,7 @@ $po
 
 ʜʃ
 
-$mi $le $tun $minuli $in $ne **po** $tu
+$mi $le $tun $matin $in $ne **po** $tu
 
 $so
 
@@ -198,7 +198,7 @@ $hon
 
 ɕ̄ı
 
-$ja $o $jatan $in $makan **hon** $niju $lana $te $no $junja $in $nula
+$ja $o $jatan $in $makan **hon** $lan $kin $te $no $han $in $nula
 
 Using Particles
 ---------------
@@ -263,9 +263,9 @@ $te
 
 ʌȷ
 
-$mi $le $lo $ke $jan $je **te** $pese
+$mi $le $lo $ki $jan $je **te** $pese
 
-$we
+$wi
 
 ɕȷ
 
