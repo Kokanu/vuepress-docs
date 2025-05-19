@@ -365,7 +365,7 @@ $jan $je $kawa $wa $je $insu $je $makan - "restaurant bathroom" ((place of dirt
 
 Here's a larger example of this interplay between the two particles.
 
-1. $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa $ta $mi $le $suki $in \$ $ja \ $je $makan 'restaurant' (lit. place of food)
+1. $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa $ta $mi $le $suki $in \ $ja $je $makan 'restaurant' (lit. place of food)
 2.  $insu $je $makan $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa
 3.  $insu $je $makan $wa $cenpo 'big restaurant', as $cenpo _sees_ insu-je-makan-wa  
     **Note:** $insu $je $makan $cenpo is 'place of big food', which is not the same
