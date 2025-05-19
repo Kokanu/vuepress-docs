@@ -11,21 +11,21 @@ Kokanu's grammar allows for extreme flexibility when it comes to the vocabulary.
 Base Nouns
 ----------
 
-Base nouns are very simple to convert into verbs and modifiers. When a **noun** is used as a **verb**, it just means the phrase "to be \$the noun\ means "person"
+Base nouns are very simple to convert into verbs and modifiers. When a **noun** is used as a **verb**, it just means the phrase "to be the noun". For example, for the noun "person":
 *   As a **verb**, it means "is a person" or "to be a person"
 *   As a **modifier**, it means "of a person"
 
 Base Modifiers
 --------------
 
-Base modifiers are also quite easy to convert. When a **modifier** is used as a **noun**, it becomes the **abstract object** of the **modifier**. Think of it like adding "-ness" to the word. When used as a **verb**, it also just means "to be \$the modifier\ means "cold"
+Base modifiers are also quite easy to convert. When a **modifier** is used as a **noun**, it becomes the **abstract object** of the **modifier**. Think of it like adding "-ness" to the word. When used as a **verb**, it also just means "to be the modifier". For example, for the modifier "cold":
 *   As a **noun**, it means "coldness"
 *   As a **verb**, it means "is cold" or "to be cold"
 
 Base Verbs
 ----------
 
-Base verbs are the trickiest of the three, but still not very tough. When a verb is used as a **noun**, it becomes the **generic object** of the **verb**: the most basic object you would normally interact with using the **verb**. For example, the generic object of "to sit-on" would be "chair" or "seat". The generic object of "to use" would be "tool". When used as a modifier, it means "\$generic object\ means "to eat" or "to consume"
+Base verbs are the trickiest of the three, but still not very tough. When a verb is used as a **noun**, it becomes the **generic object** of the **verb**: the most basic object you would normally interact with using the **verb**. For example, the generic object of "to sit-on" would be "chair" or "seat". The generic object of "to use" would be "tool". For example, for the verb "eat":
 *   As a **noun**, it means "food"
 *   As a **modifier**, it means "food-like", or "edible"
 
