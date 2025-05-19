@@ -29,7 +29,7 @@ Base verbs are the trickiest of the three, but still not very tough. When a verb
 *   As a **noun**, it means "food"
 *   As a **modifier**, it means "food-like", or "edible"
 
-When used as a **modifier**, the idea of "resembling \[the generic object\]" doesn't necessarily mean resembling in looks. Rather, it requires considering what quality or qualities make that object unique in the context of its base verb. For example, the thing that makes food be food-like is that it is able to be eaten, regardless of how it looks. Something that is seat-like simply means that it can be sat upon (or maybe that it is intended to be sat upon), not that it has four legs and a back and looks like the stereotypical idea of a chair.
+When used as a **modifier**, the idea of "resembling the generic object" doesn't necessarily mean resembling in looks. Rather, it requires considering what quality or qualities make that object unique in the context of its base verb. For example, the thing that makes food be food-like is that it is able to be eaten, regardless of how it looks. Something that is seat-like simply means that it can be sat upon (or maybe that it is intended to be sat upon), not that it has four legs and a back and looks like the stereotypical idea of a chair.
 
 * * *
 
