@@ -171,6 +171,7 @@ Using Connectors
 Lastly, there are the connectors. **Connectors** are words that organize _multiple_ sentences, clauses or individual words together into a compound form with different connective meanings depending on which connector was used. For example, $un is a connector expressing that the multiple elements provided should be taken together or in addition to each other.
 
 | **Connector** | **$Likanu** | **Example** |
+| - | - | - |
 | $un | ōſ |
 | $ili | oıʋı |
 | $lekin | ʋȷx̄ı |
