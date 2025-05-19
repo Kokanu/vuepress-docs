@@ -128,77 +128,19 @@ These words do not act like content words and (they cannot be derived into noun,
 
 * * *
 
-**Marker**
-
-$Likanu
-
-**Example Sentence**
-
-$an
-
-ō
-
-**an** $kin $matin $men $mi $le $canu
-
-$in
-
-ōı
-
-$tu $le $makan **in** $kuwosi
-
-$kan
-
-x̄
-
-$mi $le $lo **kan** $nin $suki $mi $ki $jan $te $se $po $konpa
-
-$ki
-
-xȷ
-
-$nin $le $lo **ke**$
-
-$men
-
-ɞ̄ȷ
-
-$le $se **men** $mi
-
-$nenka
-
-ƨ̄ȷx
-
-$mi $le $pasan **nenka** $ne
-
-$po
-
-ʜʃ
-
-$mi $le $tun $matin $in $ne **po** $tu
-
-$so
-
-ɤʃ
-
-$mi $le $ju $mese $te $makan **so** $te $antomi
-
-$sun
-
-ɤ̄ſ
-
-$sin $na $le $lo **sun** $honja
-
-$wija
-
-ɕıɂ
-
-$tu $le $kela $in $kela $kiju **wija** $jon $kela $mi
-
-$hon
-
-ɕ̄ı
-
-$ja $o $jatan $in $makan **hon** $lan $kin $te $no $han $in $nula
+| **Marker** | $Likanu | **Example Sentence** |
+| - | - | - |
+| $an | ō | **an** $kin $matin $men $mi $le $canu |
+| $in | ōı | $tu $le $makan **in** $kuwosi |
+| $kan | x̄ | $mi $le $lo **kan** $nin $suki $mi $ki $jan $te $se $po $konpa |
+| $ki | xı | $nin $le $lo **ke**$ |
+| $men | ɞ̄ȷ | $le $se **men** $mi |
+| $nenka | ƨ̄ȷx | $mi $le $pasan **nenka** $ne |
+| $po | ʜʃ | $mi $le $tun $matin $in $ne **po** $tu |
+| $so | ɤʃ | $mi $le $ju $mese $te $makan **so** $te $antomi |
+| $sun | ɤ̄ſ | $sin $na $le $lo **sun** $honja |
+| $wija | ɕıɂ | $tu $le $kela $in $kela $kiju **wija** $jon $kela $mi |
+| $hon | ɕ̄ı | $ja $o $jatan $in $makan **hon** $lan $kin $te $no $han $in $nula |
 
 Using Particles
 ---------------
