@@ -41,69 +41,13 @@ $mi $le $tun $melon "I will do (it)." (lit. I do next(ly))
 Aspect
 ------
 
+**WIP: we need to add in mulu and luka, and i think we should also remove the perfective/imperfective stuff (throughout this section)**
+
 A verb's aspect tells you the flow of time during which the action occurred from the perspective of the speaker/writer. The main categories of aspect are **perfective** and **imperfective**. 
 - A **perfective** aspect looks at an action or state as being completed or whole (without detail of the internal flow of the event).
 - An **imperfective** aspect looks at an action or state as being in an unfinished or partial state (focusing on internal detail of the flow of the event instead of the event as a whole).
 
 This may seem confusing and in fact some languages group aspect and tense together. Kokanu sentences are fundamentally **aspectless** which means there is no special changes that you make to a verb to indicate the aspect. Instead, Kokanu encourages you to try to rely on context, often times it is all that is needed for your readers/listeners to understand your intended aspect. If that's not enough, Kokanu does offer some clarifying words that can be used adverbially in a way that informs the aspect of the sentence.
-
-### In Progress (Continuous)
-
-This **imperfective** aspect expresses actions or states that are incomplete and still in progress. Some languages consider this aspect to mean _current state_ whereas **progressive** aspect denotes current action. In other languages, these are part of the same aspect. Use the word $conca in a verb clause to indicate that an action or state is "ongoing":
-
-$mi $le $makan **conca**. "I am eating."
-
-$ja $le $lo $wiki **conca** $matin. "They were running fast."
-
-### Currently Happening (Progressive)
-
-This **imperfective** aspect expresses actions or states that are incomplete and are in progress at the present moment. Use the words $conca and $kenca in a verb clause to indicate that the action or state is "currently ongoing":
-
-$mi $le pata conca kenca "I am currently reading"
-
-### Starting (Inceptive/Ingressive)
-
-This **imperfective** aspect expresses actions that are incomplete and just beginning. Use the word $tepu in a verb clause to indicate that the action is "starting":
-
-$mi $le lo wiki $tepu "I started to run"
-
-### Becoming (Inchoative)
-
-This **imperfective** aspect expresses states that are just starting to be. Use the verb $pijen modified by $tepu, and include your new state as the theme (direct object) of the verb to indicate that the state is "starting":
-
-inpali $le $pijen $tepu in kula "The flowers started to bloom"
-
-### Stopping (Cessative)
-
-This **imperfective** aspect refers to the end of an action or a state. It is the inverse of the **inchoative** aspect. Use the modifier $konje to indicate that the state or action is "stopping" or "finishing".
-
-pawo $le $kota $konje in sema "The dog stopped barking"
-
-### Limited (Delimitative/Durative)
-
-This **imperfective** aspect is used to describe to a situation that lasts for a limited amount of time. Use the $ki thematic relation as "until" and $konje with a quantity of time to indicate that the action has a specific duration the goes until the ending. Alternatively, you could use the sun thematic relation as "starting from" and $tepu with a quantity of time for the opposite effect.
-
-mi $le patun un le $kota $ki $konje je jati ten "I stayed and talked for some time" (lit. I am still and talking until the end of some time)
-
-lan mi le makan sun tepu je ha osa "We've been eating for two hours" (lit. Many of us are eating from the beginning of two hours)
-
-### Repetition (Iterative)
-
-This **imperfective** aspect describes the repetition of an event observed from the perspective of a single occasion within the repetition. There's not a clear-cut way to formulate this aspect in Kokanu but you can use je wan cunpu "of one repetition" or a hon context clause to give sentences a similar meaning.
-
-ja le pa hapijo je wan cunpu an kumon je niwa "He knocked one time on the door"
-
-### Distributive
-
-This **imperfective** aspect describes an event that is being applied to a group of entities one after another. It can be an experiencer of a non-base verb or the object of a base verb (patient/theme/stimulus). In Kokanu, you would use a $wija clause to describe the manner of the event which can include a description of a distributive action.
-
-$ja $le $kota $ki $non $nin **wija te ke wan nin an wan ten** "He talks to the group, one person at a time"
-
-### Frequentative
-
-This **frequentative** is used to indicate repeated, habitual, or iterative actions. Use the modifier **cunpu** to indicate that the action occurs in a recurring manner.
-
-$mi $le $lo $wiki **cunpu** "I used to run / I run (habitually)"
 
 ### Prospective
 
@@ -113,8 +57,28 @@ $kuku $le $kosan **lito** $in $niwa $namu. â€œThe bird has yet to build a nest.â
 
 $mi $le $kota lito "I haven't started speaking / I'm about to start speaking"
 
-### Habitual
+### Starting (Inceptive/Ingressive)
 
-### Aorist
+This **imperfective** aspect expresses actions that are incomplete and just beginning. Use the word $tepu in a verb clause to indicate that the action is "starting":
 
-### Momentane
+$mi $le lo wiki $tepu "I started to run"
+
+### In Progress (Continuous)
+
+This **imperfective** aspect expresses actions or states that are incomplete and still in progress. Use the word $conca in a verb clause to indicate that an action or state is "ongoing":
+
+$mi $le $makan **conca**. "I am eating."
+
+$ja $le $lo $wiki **conca** $matin. "They were running fast."
+
+### Stopping (Cessative)
+
+This **imperfective** aspect refers to the end of an action or a state. Use the modifier $konje to indicate that the state or action is "stopping" or "finishing".
+
+pawo $le $kota $konje in sema "The dog stopped barking"
+
+### Frequentative
+
+This **frequentative** is used to indicate repeated, habitual, or iterative actions. Use the modifier **cunpu** to indicate that the action occurs in a recurring manner.
+
+$mi $le $lo $wiki **cunpu** "I used to run / I run (habitually)"
