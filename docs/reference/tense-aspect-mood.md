@@ -41,7 +41,11 @@ $mi $le $tun $melon "I will do (it)." (lit. I do next(ly))
 Aspect
 ------
 
-A verb's aspect tells you the flow of time during which the action occurred from the perspective of the speaker/writer. The main categories of aspect are **perfective** and **imperfective**. A **perfective** aspect looks at an action or state as being completed or whole (without detail of the internal flow of the event). An **imperfective** aspect looks at an action or state as being in an unfinished or partial state (focusing on internal detail of the flow of the event instead of the event as a whole).  This may seem confusing and in fact some languages group aspect and tense together. Kokanu sentences are fundamentally **aspectless** which means there is no special changes that you make to a verb to indicate the aspect. Instead, Kokanu encourages you to try to rely on context, often times it is all that is needed for your readers/listeners to understand your intended aspect. If that's not enough, Kokanu does offer some clarifying words that can be used adverbially in a way that informs the aspect of the sentence.
+A verb's aspect tells you the flow of time during which the action occurred from the perspective of the speaker/writer. The main categories of aspect are **perfective** and **imperfective**. 
+- A **perfective** aspect looks at an action or state as being completed or whole (without detail of the internal flow of the event).
+- An **imperfective** aspect looks at an action or state as being in an unfinished or partial state (focusing on internal detail of the flow of the event instead of the event as a whole).
+
+This may seem confusing and in fact some languages group aspect and tense together. Kokanu sentences are fundamentally **aspectless** which means there is no special changes that you make to a verb to indicate the aspect. Instead, Kokanu encourages you to try to rely on context, often times it is all that is needed for your readers/listeners to understand your intended aspect. If that's not enough, Kokanu does offer some clarifying words that can be used adverbially in a way that informs the aspect of the sentence.
 
 ### In Progress (Continuous)
 
