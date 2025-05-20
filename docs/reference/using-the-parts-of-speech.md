@@ -147,8 +147,6 @@ Using Particles
 
 The glue holding sentences together are the grammatical particles. **Particles** are words that don't have meaning on their own, but are used to affect other parts of the sentence. For example, $le is a particle because it doesn't mean anything on its own, but it affects the next word. Kokanu uses particles like le and ta to modify the structure of sentences in various ways.
 
-Here is the reformatted version of your data as a table:
-
 | **Particle** | **$Likanu** | **Example**                                     |
 | ------------ | ------------ | ----------------------------------------------- |
 | **$la**     | ʋ            | $tu $o $no $tun $in $na **la**.           |
