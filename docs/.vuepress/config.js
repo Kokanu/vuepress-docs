@@ -7,7 +7,6 @@ export default defineUserConfig({
   lang: 'en-US',
   title: 'Kokanu',
   description: 'The minimal IAL.',
-
   theme: defaultTheme({
     logo: '/images/logo.svg',
 
