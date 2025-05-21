@@ -35,7 +35,6 @@ export default defineUserConfig({
             'README.md',
             'how-kokanu-is-being-developed.md',
             'pronunciation.md',
-            'grammar.md',
             'clarifying-descriptions.md',
             'word-derivations.md',
             'using-the-parts-of-speech.md',
