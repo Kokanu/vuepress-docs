@@ -7,11 +7,8 @@ import markdownItAttrs from 'markdown-it-attrs'
 
 export default defineUserConfig({
   lang: 'en-US',
-  base: '/vuepress-docs/',
-
   title: 'Kokanu',
   description: 'The minimal IAL.',
-
   theme: defaultTheme({
     logo: '/images/logo.svg',
     externalLinkIcon: false,

@@ -91,7 +91,7 @@ N M M M M
 
 #### Using je
 
-\$Noun\_
+$Noun\_
 
 **$huwa je** $inpali $hunsi **je** $joli $cina "seed of the little-benefit red flower"  
 a **je** is _isolating_ to just the most recent noun in the chain
@@ -101,7 +101,7 @@ a **je** is _isolating_ to just the most recent noun in the chain
 
 #### Using wa
 
-\$Noun\ \$Modifier\ je** $inpali $hunsi **wa** $joli $cina "seed of red flower of little benefit"  
+$Noun\ $Modifier\ je** $inpali $hunsi **wa** $joli $cina "seed of red flower of little benefit"  
 a **wa** is _encompassing_ across the entire chain
 
 *   "$huwa ($inpali $hunsi)" red-flower seed
@@ -128,154 +128,38 @@ These words do not act like content words and (they cannot be derived into noun,
 
 * * *
 
-**Marker**
-
-$Likanu
-
-**Example Sentence**
-
-$an
-
-ō
-
-**an** $kin $matin $men $mi $le $canu
-
-$in
-
-ōı
-
-$tu $le $makan **in** $kuwosi
-
-$kan
-
-x̄
-
-$mi $le $lo **kan** $nin $suki $mi $ki $jan $te $se $po $konpa
-
-$ki
-
-xȷ
-
-$nin $le $lo **ke**$
-
-$men
-
-ɞ̄ȷ
-
-$le $se **men** $mi
-
-$nenka
-
-ƨ̄ȷx
-
-$mi $le $pasan **nenka** $ne
-
-$po
-
-ʜʃ
-
-$mi $le $tun $matin $in $ne **po** $tu
-
-$so
-
-ɤʃ
-
-$mi $le $ju $mese $te $makan **so** $te $antomi
-
-$sun
-
-ɤ̄ſ
-
-$sin $na $le $lo **sun** $honja
-
-$wija
-
-ɕıɂ
-
-$tu $le $kela $in $kela $kiju **wija** $jon $kela $mi
-
-$hon
-
-ɕ̄ı
-
-$ja $o $jatan $in $makan **hon** $lan $kin $te $no $han $in $nula
+| **Marker** | $Likanu | **Example Sentence** |
+| - | - | - |
+| $an | ō | **an** $kin $matin $men $mi $le $canu |
+| $in | ōı | $tu $le $makan **in** $kuwosi |
+| $kan | x̄ | $mi $le $lo **kan** $nin $suki $mi $ki $jan $te $se $po $konpa |
+| $ki | xı | $nin $le $lo **ke**$ |
+| $men | ɞ̄ȷ | $le $se **men** $mi |
+| $nenka | ƨ̄ȷx | $mi $le $pasan **nenka** $ne |
+| $po | ʜʃ | $mi $le $tun $matin $in $ne **po** $tu |
+| $so | ɤʃ | $mi $le $ju $mese $te $makan **so** $te $antomi |
+| $sun | ɤ̄ſ | $sin $na $le $lo **sun** $honja |
+| $wija | ɕıɂ | $tu $le $kela $in $kela $kiju **wija** $jon $kela $mi |
+| $hon | ɕ̄ı | $ja $o $jatan $in $makan **hon** $lan $kin $te $no $han $in $nula |
 
 Using Particles
 ---------------
 
 The glue holding sentences together are the grammatical particles. **Particles** are words that don't have meaning on their own, but are used to affect other parts of the sentence. For example, $le is a particle because it doesn't mean anything on its own, but it affects the next word. Kokanu uses particles like le and ta to modify the structure of sentences in various ways.
 
-**Particle**
-
-**$Likanu**
-
-**Example**
-
-$la
-
-ʋ
-
-$tu $o $no $tun $in $na **la**.
-
-$je
-
-ɂȷ
-
-$na $le **je** $lantan **je** $matuwa $mi.
-
-$le
-
-ʋȷ
-
-$pawo **le** $ju $in $te $makan.
-
-$mu
-
-ɞſ
-
-$ja $le **mu** $makan $cenpo.
-
-$no
-
-ƨʃ
-
-$mi $le **no** $suki $in $na.
-
-$o
-
-oʃ
-
-**o** $no $tun $conca
-
-$peko
-
-ʜȷxʃ
-
-$o $akala $in $na $po $mi, **peko**.
-
-$ta
-
-ʌ
-
-$ja $le $nin **ta** $mi $le $kela $kan
-
-$te
-
-ʌȷ
-
-$mi $le $lo $ki $jan $je **te** $pese
-
-$wi
-
-ɕȷ
-
- 
-
-$lun
-
-ʋ̄ſ
-
-$ja $le **lun** $pasu $in $pata.
+| **Particle** | **$Likanu** | **Example**                                     |
+| ------------ | ------------ | ----------------------------------------------- |
+| **$la**     | ʋ            | $tu $o $no $tun $in $na **la**.           |
+| **$je**     | ɂȷ           | $na $le **je** $lantan **je** $matuwa $mi. |
+| **$le**     | ʋȷ           | $pawo **le** $ju $in $te $makan.           |
+| **$mu**     | ɞſ           | $ja $le **mu** $makan $cenpo.               |
+| **$no**     | ƨʃ           | $mi $le **no** $suki $in $na.              |
+| **$o**      | oʃ           | **o** $no $tun $conca                        |
+| **$peko**   | ʜȷxʃ         | $o $akala $in $na $po $mi, **peko**.      |
+| **$ta**     | ʌ            | $ja $le $nin **ta** $mi $le $kela $kan   |
+| **$te**     | ʌȷ           | $mi $le $lo $ki $jan $je **te** $pese    |
+| **$wi**     | ɕȷ           | *(no example provided)*                         |
+| **$lun**    | ʋ̄ſ          | $ja $le **lun** $pasu $in $pata.           |
 
 _Click on each particle to go to an in-depth description of how to use it._
 
@@ -284,34 +168,11 @@ Using Connectors
 
 Lastly, there are the connectors. **Connectors** are words that organize _multiple_ sentences, clauses or individual words together into a compound form with different connective meanings depending on which connector was used. For example, $un is a connector expressing that the multiple elements provided should be taken together or in addition to each other.
 
-**Connector**
-
-**$Likanu**
-
-**Example**
-
-$un
-
- 
-
- 
-
-$ili
-
- 
-
- 
-
-$lekin
-
- 
-
- 
-
-$tan
-
- 
-
- 
+| **Connector** | **$Likanu** | **Example** |
+| - | - | - |
+| $un | ōſ |
+| $ili | oıʋı |
+| $lekin | ʋȷx̄ı |
+| $tan | ʌ̄ |
 
 _Click on each connector to go to an in-depth description of how it can be used._
