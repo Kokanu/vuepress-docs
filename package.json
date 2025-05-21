@@ -10,6 +10,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:update-package": "pnpm dlx vp-update"
   },
+  
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.20",
     "@vuepress/theme-default": "2.0.0-rc.88",
