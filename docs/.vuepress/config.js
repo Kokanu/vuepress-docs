@@ -2,6 +2,8 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import markdownItRegex from 'markdown-it-regex'
+import markdownItBracketedSpans from 'markdown-it-bracketed-spans'
+import markdownItAttrs from 'markdown-it-attrs'
 
 export default defineUserConfig({
   lang: 'en-US',
@@ -12,6 +14,7 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     logo: '/images/logo.svg',
+    externalLinkIcon: false,
 
     navbar: [
       '/',
@@ -79,8 +82,11 @@ export default defineUserConfig({
       name: 'dictionary',
       regex: /\$(\w+)/,
       replace: (match) => {
-        return `<a href="https://dictionary.kokanu.com/${match}?lang=en">${match}</a>`
+        return `<a href="https://dictionary.kokanu.com/${match}?lang=en" style="text-decoration:none">${match}</a>`
       }
     })
+
+    md.use(markdownItBracketedSpans)
+    md.use(markdownItAttrs)
   }
 })

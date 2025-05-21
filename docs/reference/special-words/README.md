@@ -5,7 +5,7 @@ There are a few special words in Kokanu that work in different ways than what yo
 ## Prepositions
 * [so - comparisons](so.md)
 * [sun - "from"](sun.md)
-* [ke - "to"](ke.md)
+* [ke - "to"](ki.md)
 
 ## Verbs
 * [se - "to be"](se.md)

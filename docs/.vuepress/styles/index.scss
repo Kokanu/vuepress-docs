@@ -1,0 +1,21 @@
+:root {
+    --translation-red: #884444;
+    --translation-yellow: #888844;
+    --translation-green: #448844;
+    --translation-blue: #444488;
+    --translation-magenta: #884488;
+}
+
+[data-theme="dark"] {
+    --translation-red: #ff8888;
+    --translation-yellow: #ffff88;
+    --translation-green: #88ff88;
+    --translation-blue: #8888ff;
+    --translation-magenta: #ff88ff;
+}
+
+.red {color: var(--translation-red) !important}
+.yellow {color: var(--translation-yellow) !important}
+.green {color: var(--translation-green) !important}
+.blue {color: var(--translation-blue) !important}
+.magenta {color: var(--translation-magenta) !important}
