@@ -5,7 +5,6 @@ import markdownItRegex from 'markdown-it-regex'
 
 export default defineUserConfig({
   lang: 'en-US',
-
   title: 'Kokanu',
   description: 'The minimal IAL.',
 
