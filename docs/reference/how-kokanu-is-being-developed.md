@@ -71,9 +71,11 @@ Necessity, commonness and length of compound to be based on precedent and other 
 Note: This clause is to be used the least, and only for special examples that simplify a huge swath of compounds
 Example: Words such as pixel, speck, (chemical) atom, cell all can be represented in Kokanu by saying smallest indivisible part of X. If that becomes a single word, we simplify all of those concepts. We therefore added a word for the smallest indivisble particle/atom, now sala.
 
-### ʜſɛ̄ſ ɂȷ ʜ̄ȷ xıxſɕ､ ʜſɛ̄ſ ɂȷ ‹oʌʃ x̄ʌ› | pucun je pen kikuwa, pucun je Ato Kanta | The Ato Kanta Clause
+### ʜſɛ̄ſ ɂȷ ʜ̄ȷ xıxſɕ､ ʜſɛ̄ſ ɂȷ ‹oʌʃ x̄ʌ› | pucun je pen kikuwa, pucun je Ato Kanti | The Ato Kanti Clause
 *If a necessary/common concept has a representation in Kokanu, but it is technically correct, and not how people actually see/rationalize that concept, vocabulary is needed to fix that*
 
 Necessity and commonality based on precedent. Generally, the concept should be cross culturally important
 
 Best examples are in the name, internally used in the server. Ato was to be represented by a moving structure, Kanti as artistic sounds. But these are both overtly technical representations and not necessarily how people rationalize these things (vehicles and music).
+
+Note: Ato and kanti are both no longer official words. See lantan and kanta.
