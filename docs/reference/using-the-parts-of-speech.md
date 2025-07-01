@@ -120,8 +120,6 @@ We have the power to describe current state using $se, to describe a changing st
 **Using Thematic Relations**
 ----------------------------
 
-!$
-
 **Thematic Relation Markers** are words that allow you to connect a **noun phrase** to the **verb** or "action" of the sentence by means of a (thematic) relationship. Each relationship is unique, thematic, and describes _what_, _why_, _when_, _where_ or _how_ the **noun phrase** is interpreted inside of the sentence (in relation to the **verb**). See the diagram for the thematic relation that each marker provides.
 
 These words do not act like content words and (they cannot be derived into noun, verb, modifier forms) and content words can never work like thematic relation markers. You can place a thematic relation clause in any position in the sentence, although some thematic relations are more clear either prefixing or postfixing the main clause.
@@ -130,7 +128,7 @@ These words do not act like content words and (they cannot be derived into noun,
 
 | **Marker** | $Likanu | **Example Sentence** |
 | - | - | - |
-| $an | ō | **an** $kin $matin $men $mi $le $canu |
+| $pi | ʜı | **pi** $kin $matin $men $mi $le $canu |
 | $in | ōı | $tu $le $makan **in** $kuwosi |
 | $kan | x̄ | $mi $le $lo **kan** $nin $suki $mi $ki $jan $te $se $po $konpa |
 | $ki | xı | $nin $le $lo **ke**$ |
@@ -149,17 +147,17 @@ The glue holding sentences together are the grammatical particles. **Particles**
 
 | **Particle** | **$Likanu** | **Example**                                     |
 | ------------ | ------------ | ----------------------------------------------- |
-| **$la**     | ʋ            | $tu $o $no $tun $in $na **la**.           |
-| **$je**     | ɂȷ           | $na $le **je** $lantan **je** $matuwa $mi. |
-| **$le**     | ʋȷ           | $pawo **le** $ju $in $te $makan.           |
-| **$mu**     | ɞſ           | $ja $le **mu** $makan $cenpo.               |
-| **$no**     | ƨʃ           | $mi $le **no** $suki $in $na.              |
+| **$la**     | ʋ            | $tu $o $no $tun $in $na **la**           |
+| **$je**     | ɂȷ           | $na $le **je** $lantan **je** $matuwa $mi |
+| **$le**     | ʋȷ           | $pawo **le** $ju $in $te $makan           |
+| **$mu**     | ɞſ           | $ja $le **mu** $makan $cenpo               |
+| **$no**     | ƨʃ           | $mi $le **no** $suki $in $na              |
 | **$o**      | oʃ           | **o** $no $tun $conca                        |
-| **$peko**   | ʜȷxʃ         | $o $akala $in $na $po $mi, **peko**.      |
+| **$peko**   | ʜȷxʃ         | $o $akala $in $na $po $mi, **peko**      |
 | **$ta**     | ʌ            | $ja $le $nin **ta** $mi $le $kela $kan   |
 | **$te**     | ʌȷ           | $mi $le $lo $ki $jan $je **te** $pese    |
-| **$wi**     | ɕȷ           | *(no example provided)*                         |
-| **$lun**    | ʋ̄ſ          | $ja $le **lun** $pasu $in $pata.           |
+| **$wi**     | ɕȷ           | $na $sin $le **wi** $no $makan           |
+| **$lun**    | ʋ̄ſ          | $ja $le **lun** $pasu $in $pata           |
 
 _Click on each particle to go to an in-depth description of how to use it._
 
@@ -170,9 +168,9 @@ Lastly, there are the connectors. **Connectors** are words that organize _multip
 
 | **Connector** | **$Likanu** | **Example** |
 | - | - | - |
-| $un | ōſ |
-| $ili | oıʋı |
-| $lekin | ʋȷx̄ı |
-| $tan | ʌ̄ |
+| $un | ōſ |  $mi **un** $tu $o $lo $ki $na $insu $je $makan |
+| $ili | oıʋı |  $lan $nin $le $han $in $pawo **ili** $meja  |
+| $lekin | ʋȷx̄ı |  $mi $le $ju $te $lo $ki $niwa $tu, **lekin** $mi $le $no $nan $pi $kenca |
+| $tan | ʌ̄ | $ja $le $pata $in $pata, **tan** $le $lika $in $ta $ja $le $ikasi $matin $in |
 
 _Click on each connector to go to an in-depth description of how it can be used._
