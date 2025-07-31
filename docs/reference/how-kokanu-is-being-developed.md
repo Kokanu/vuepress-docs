@@ -78,4 +78,6 @@ Necessity and commonality based on precedent. Generally, the concept should be c
 
 Best examples are in the name, internally used in the server. Ato was to be represented by a moving structure, Kanti as artistic sounds. But these are both overtly technical representations and not necessarily how people rationalize these things (vehicles and music).
 
-Note: Ato and kanti are both no longer official words. See lantan and kanta.
+::: warning
+$ato and $kanti are both no longer official words. See $lantan and $kanta.
+:::
