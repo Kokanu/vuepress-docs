@@ -19,4 +19,4 @@ Some words in Kokanu have special functions.
 
 ## Derivational markers
 * [lun - causative](lun.md)
-* [wi - coupling negator](wi.md)
+* [wi - modifier forcing](wi.md)
