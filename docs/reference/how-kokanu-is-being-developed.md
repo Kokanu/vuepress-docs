@@ -7,11 +7,11 @@ description: Explanation of the Kokanu development process
 # How Kokanu is being Developed
 
 ## Past
-While the seeds of Kokanu were first planted in mid 2020 as Toki Ma, early development was chaotic and crowd-sourced. It was in mid 2021 when development was internally moved to a more structured mechanism on a different discord server and a stable draft was published.
+While the seeds of Kokanu were first planted in mid 2020 as Toki Ma, early development was chaotic and crowd-sourced. It was in mid 2021 when development was internally moved to a more structured mechanism on a different Discord server and a stable draft was published.
 
 Ever since 2021, to now, 2025, a lot of work is put in to practice, and iterate on the language.
 
-In 2023, for example, the entire vocabulary of the language was reworked, mostly because the parent language toki pona did not have vocabulary that met the principle of Neutrality. This is also when "toki ma" was changed into Kokanu, an abbreviation "te kota kan usen", meaning "To talk with each another".
+In 2023, for example, the entire vocabulary of the language was reworked, mostly because the parent language toki pona did not have vocabulary that met the principle of Neutrality. This is also when "toki ma" was changed into Kokanu, an abbreviation "te kota kan usen", meaning "To talk with each other".
 
 ## The Discord Committee
 Decisions are taken by the Discord Committee. Anyone can join to be a member ([Discord Invite](https://discord.gg/fMAfGRkGvQ))
@@ -72,7 +72,7 @@ Note: This clause is to be used the least, and only for special examples that si
 Example: Words such as pixel, speck, (chemical) atom, cell all can be represented in Kokanu by saying smallest indivisible part of X. If that becomes a single word, we simplify all of those concepts. We therefore added a word for the smallest indivisble particle/atom, now sala.
 
 ### ʜſɛ̄ſ ɂȷ ʜ̄ȷ xıxſɕ､ ʜſɛ̄ſ ɂȷ ‹oʌʃ x̄ʌ› | pucun je pen kikuwa, pucun je Ato Kanti | The Ato Kanti Clause
-*If a necessary/common concept has a representation in Kokanu, but it is technically correct, and not how people actually see/rationalize that concept, vocabulary is needed to fix that*
+*If a necessary/common concept has a representation in Kokanu, and it is technically correct, but not how people actually see/rationalize that concept, vocabulary is needed to fix that*
 
 Necessity and commonality based on precedent. Generally, the concept should be cross culturally important
 
