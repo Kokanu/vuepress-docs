@@ -161,7 +161,7 @@ The **preposition** at the end of the clause is called a "dangling preposition",
 Alternatively, unlike in English, the clause can be written out as a full sentence, where $ja refers back to the noun being modified. 
 
 |Likanu|Latin script|
-|-|-|-|
+|-|-|
 | ƨ̄ı ʌ ōı ɂ ɞ̄ȷ ɞı ʋȷ ɤſxı | nin ta in ja men mi le suki |
 | ƨ̄ı ʌ ɞı ōı ɂ ʋȷ ɤſxı | nin ta mi in ja le suki |
 | ƨ̄ı ʌ ɞı ʋȷ ɤſxı ōı ɂ | nin ta mi le suki in ja |
@@ -171,7 +171,7 @@ In the last example, $ja can be dropped from the end, leaving the dangling prepo
 In any case, the clause must end with a comma if more follows.
 
 |Likanu|Latin script|
-|-|-|-|
+|-|-|
 | xſɕʃɤı ʌ ƨ̄ı ʋȷ ɞx̄ ōı､ ʋȷ ʌʃʜȷ: | kuwosi ta nin le makan in, le tope. |
 
 * * *
