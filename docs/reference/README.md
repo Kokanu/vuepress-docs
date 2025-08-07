@@ -100,8 +100,8 @@ The word $je is similar to the word “of” in English. The word following it i
 
 |Likanu|Latin script|English|
 |------|------------|-------|
-| ʌıʜ [ɞx̄]{.yellow} | tipa [makan]{.yellow} | “[edible]{.yellow} box”
-| ʌıʜ [ɂȷ]{.magenta} [ɞx̄]{.yellow} | tipa [je]{.magenta} [makan]{.yellow} | [food]{.yellow} box”, “[lunch]{.yellow}box |
+| ʌıʜ [ɞx̄]{.yellow} | tipa [makan]{.yellow} | [edible]{.yellow} box
+| ʌıʜ [ɂȷ]{.magenta} [ɞx̄]{.yellow} | tipa [je]{.magenta} [makan]{.yellow} | [food]{.yellow} box, [lunch]{.yellow}box |
 | xſɕʃɤı [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [ha]{.yellow} [mi]{.magenta} | [my]{.magenta} [second]{.yellow} fruit |
 | xſɕʃɤı [ɂȷ]{.green} [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [je]{.green} [ha]{.yellow} [mi]{.magenta} | [us]{.magenta} [two]{.yellow}[’s]{.green} fruit |
 
