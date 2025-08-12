@@ -30,6 +30,8 @@ $tiju - 10 (ten)
 
 $sijen - 100 (hundred)
 
+$con - 1000 (thousand)
+
 When building phrases to express numbers, number words that follow $tiju don't act as modifiers, as would normally be the case in Kokanu, they simply add a unit number on.
 
 $tiju $ha "ten and two, 12"
@@ -48,24 +50,46 @@ $lima $sijen $loku "five hundreds and six, 506"
 
 $setan sijen ha tiju saka "seven hundreds and two tens and nine, 729"
 
-Forming Numbers 1000 and larger
+Forming large Numbers
 -------------------------------
 
-Powers of a thousand (thousand, million, billion, trillion, etc.) are expressed with $con, followed by an exponent. For example,
+Large numbers are expressed by $hen, meaning 10^, followed by an exponent. For example:
 
-$con $wan "one thousand"
+$hen $wan "ten"
 
-$con $ha "one million"
+$hen $san "one thousand"
 
-$con $san "one billion"
+$hen $loku "one million"
 
-$con $nanku "one trillion"
+$hen $saka "one billion"
 
-It’s important to think of $con as “thousand to the power of...” rather than just “thousand”. If $con is used multiple times, each thousands group must be seperated by $tan, "then", in the same places where the comma goes in the numerals.
+This -like $tiju, $sijen and $con - can be multiplied by some number:
 
-$nanku $tiju $san **$con $wan** "43,000"
-$nanku $tiju $san **$con $wan** $tan $wan "43,001"
-$san **$con $ha**, $tan $nanku $sijen $nanku $tiju $loku **$con $wan**, $tan $setan $tiju $etu "3,446,078"
+$lima $tiju $san $hen $san "fifty three times one thousand; 53,000"
+
+Multiple of those blocks can be used, separated by a $hu or comma:
+
+$etu $sijen $saka $tiju $setan $hen $loku $hu $lima $sijen $loku $tiju $nanku $hen $san $hu $ha $sijen $san $tiju $wan ('897,564,231'; analogous to Western system)
+
+But as there is no dependency on digit groups of three, they can be reorganized to work accordingly to other systems:
+
+$etu $hen $etu $hu $saka $con $setan $sijen $lima $tiju $loku $hen $nanku $hu $nanku $con $ha $sijen $san $tiju $wan ('8,9756,4231'; analogous to Eastern system)
+
+They don't even have to be uniform:
+
+$etu $tiju $saka $hen $setan $hu $setan $tiju $lima $hen $lima $hu $loku $tiju $nanku $hen $san $hu $ha $sijen $san $tiju $wan ('89,75,64,231'; analogous to Indian system)
+
+Scientific notation is also possible:
+
+$etu $pintu $hu $saka $setan $lima $loku $nanku $tu $san $wan $hen $etu (8,97564231*10^8)
+
+The hu is necessary to distinguish between a new number block and big exponents:
+
+$lima $sijen $loku $tiju $nanku $hen $san $hu $sijen $san $tiju $wan (564,131) 
+
+in contrast to 
+
+$lima $sijen $loku $tiju $nanku $hen $san $sijen $san $tiju $wan (564*10^131; an enormous number with 131 zeros) 
 
 $nula is used for "zero", though, like in English, it doesn't appear in compound whole number words.
 
