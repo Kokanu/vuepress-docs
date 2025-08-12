@@ -1,8 +1,17 @@
 ---
 lang: en-US
-title: How Kokanu is being developed
-description: Explanation of the Kokanu development process
+title: About Kokanu
+description: Explanation of what Kokanu is, and the Kokanu development process
 ---
+
+# What is Kokanu
+Kokanu is an attempt to make an constructed [international auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language#Writing_systems). In short, a constructed International Auxiliary Language (IAL) is a constructed (non natural) language that is supposed to serve as the language that people from all around the world learn to communicate with one another. Often, these languages are supposed to be made as easy to learn as possible, while still being flexible and having maximal utility.
+
+Kokanu takes a unique approach to this problem, as outlined in our [principles](#principles). The main thing that separates Kokanu from the other attempts, is its emphasis on minimalism, apparent most in its vocabulary. A word is not added to the dictionary unless absolutely necessary. The current dictionary has less than 400 words, and so a dedicated person can learn _all_ the words with an mind-blowingly less amount of effort as compared to a natural language, or a non-minimalist constructed IAL.
+
+The minimalism in the language is inspired by [toki pona](https://en.wikipedia.org/wiki/Toki_Pona), which served as the initial source of "Toki Ma" in mid 2020. Toki Pona is a minimalist language with as low as 120 words, and has a community in the thousands of speakers. It has significantly different principles from that of an IAL, however, and as such has many gaps (some intentional, like numbers) in precise communication. With toki pona as the initial starting point, the language has developed (see [How Kokanu is being Developed](#how-kokanu-is-being-developed)) to be more aligned with our principles.
+
+Currently, we have a stable version that is guaranteed to not change till September 2026. You can learn the language on this website.
 
 # How Kokanu is being Developed
 
