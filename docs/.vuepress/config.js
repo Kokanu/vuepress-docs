@@ -33,7 +33,7 @@ export default defineUserConfig({
           text: 'Reference',
           children: [
             'README.md',
-            'how-kokanu-is-being-developed.md',
+            'basic-grammar.md',
             'pronunciation.md',
             'clarifying-descriptions.md',
             'word-derivations.md',
