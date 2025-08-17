@@ -10,6 +10,6 @@ So you have decided to learn a simple and small language to be able to speak wit
 
 0. [Pronunciation and Spelling](./pronunciation.md)  
 1. [Basic Sentences](./basic-sentences.md) (WIP)  
-2. [WIP](/error-404.md) (WIP)
+2. [Complex Sentences](/complex-sentences.md) (WIP)
 
 When a new word appears in the course, it will be **bolded**; its meaning should be obvious with the translation of the sentence; but if it is not, or if you have forgot it, look for it in [the dictionary](https://dictionary.kokanu.com).
