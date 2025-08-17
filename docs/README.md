@@ -10,6 +10,10 @@ actions:
   - text: Reference
     link: /reference/
     type: secondary
+
+  - text: Texts
+    link: /texts/
+    type: secondary
   
   - text: Dictionary
     link: https://dictionary.kokanu.com/
