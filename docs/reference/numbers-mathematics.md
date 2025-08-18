@@ -30,6 +30,8 @@ $tiju - 10 (ten)
 
 $sijen - 100 (hundred)
 
+$con - 1000 (thousand)
+
 When building phrases to express numbers, number words that follow $tiju don't act as modifiers, as would normally be the case in Kokanu, they simply add a unit number on.
 
 $tiju $ha "ten and two, 12"
@@ -38,36 +40,52 @@ Number words preceding $tiju give the number of instances of it, as with any nou
 
 $etu $tiju "eight tens, 80"
 
-Placing unit numbers before and after $tiju allows the expression of any number under 100.
+Placing unit numbers before and after $tiju allows the expression of any number up to 99.
 
 $san $tiju $ha "three tens and two, 32"
 
-For numbers over 100, $sijen acts exactly like $tiju.
+The number $sijen acts exactly like $tiju. Placing unit numbers before and after $sijen allows the expression of any number up to 999.
 
 $lima $sijen $loku "five hundreds and six, 506"
 
 $setan sijen ha tiju saka "seven hundreds and two tens and nine, 729"
 
-Forming Numbers 1000 and larger
+The number $con acts similarly. Placing unit numbers before and after $con allows the expression of any number up to 9999.
+
+$ha $con $lima "two thousands and five, 2005"
+
+$nanku $con $ha $sijen $saka $tiju $etu "four thousands and two hundreds and nine tens and eight, 4298"
+
+The number $nula is used for "zero", though, like in English, it doesn't appear in compound whole number words.
+
+
+Forming Numbers 10000 and larger
 -------------------------------
 
-Powers of a thousand (thousand, million, billion, trillion, etc.) are expressed with $con, followed by an exponent. For example,
+Powers of a 10 can also be expressed with $hen, followed by an exponent. For example,
 
-$con $wan "one thousand"
+$hen $ha "10^2, one hundred"
 
-$con $ha "one million"
+$hen $lima "10^5, one hundred thousand"
 
-$con $san "one billion"
+$hen $loku "10^6, one million"
 
-$con $nanku "one trillion"
+$hen $saka "10^9, one billion"
 
-It’s important to think of $con as “thousand to the power of...” rather than just “thousand”. If $con is used multiple times, each thousands group must be seperated by $tan, "then", in the same places where the comma goes in the numerals.
+It’s important to think of $hen as “ten to the power of...” rather than just “10” (which is $tiju). 
+If $hen is used multiple times or other digits follow it, each $hen exponent is followed by $hu. 
+But in all instances, $hu can be replaced by a verbal pause or a written comma. 
 
-$nanku $tiju $san **$con $wan** "43,000"
-$nanku $tiju $san **$con $wan** $tan $wan "43,001"
-$san **$con $ha**, $tan $nanku $sijen $nanku $tiju $loku **$con $wan**, $tan $setan $tiju $etu "3,446,078"
+**hen saka** "10^9, one billion" (Note: the number $wan does not have to precede $hen)
 
-$nula is used for "zero", though, like in English, it doesn't appear in compound whole number words.
+$lima **$hen $lima $hu**, $ha **$hen $nanku $hu**, $lima $con $loku $sijen "525,600"
+
+$san **$hen $loku**, $nanku **$hen $lima**, $nanku **$hen $nanku**, $loku $con $setan $tiju $etu "3,446,078"
+
+$etu $hen $tiju $ha "8,000,000,000,000, 8 trillion"
+
+$etu $hen $tiju, $ha "80,000,000,002, eighty billion two"
+
 
 Cardinals and Ordinal Numbers
 -----------------------------
