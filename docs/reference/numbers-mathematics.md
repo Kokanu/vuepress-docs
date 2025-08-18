@@ -64,19 +64,17 @@ Forming Numbers 10000 and larger
 
 Powers of a 10 can also be expressed with $hen, followed by an exponent. For example,
 
-$hen $ha "10^2, one hundred"
+$hen $ha "10², one hundred" (Note: the number $wan does not have to precede $hen)
 
-$hen $lima "10^5, one hundred thousand"
+$hen $lima "10⁵, one hundred thousand"
 
-$hen $loku "10^6, one million"
+$hen $loku "10⁶, one million"
 
-$hen $saka "10^9, one billion"
+$hen $saka "10⁹, one billion"
 
 It’s important to think of $hen as “ten to the power of...” rather than just “10” (which is $tiju). 
 If $hen is used multiple times or other digits follow it, each $hen exponent is followed by $hu. 
 But in all instances, $hu can be replaced by a verbal pause or a written comma. 
-
-**hen saka** "10^9, one billion" (Note: the number $wan does not have to precede $hen)
 
 $lima **$hen $lima $hu**, $ha **$hen $nanku $hu**, $lima $con $loku $sijen "525,600"
 
