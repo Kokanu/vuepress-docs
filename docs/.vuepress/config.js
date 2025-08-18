@@ -35,7 +35,7 @@ export default defineUserConfig({
           children: [
             'README.md',
             'pronunciation.md',
-            'basic-grammar.md',   
+            'basic-sentences.md',   
             'complex-sentences.md',
             // add more chapters later
           ],
