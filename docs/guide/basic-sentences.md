@@ -1,4 +1,4 @@
-# 1. Basic Grammar
+# 1. Basic Sentences
 
 ---
 

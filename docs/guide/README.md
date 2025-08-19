@@ -11,8 +11,8 @@ So you have decided to learn a simple and small language to be able to speak wit
 0. [Pronunciation and Spelling](./pronunciation.md)  
 1. [Basic Sentences](./basic-sentences.md)
 2. [Complex Sentences](./complex-sentences.md)
-3. Derivations
-4. Tense, Aspect, Mood
+3. [Derivations](./derivations.md)
+4. [Tense, Aspect, Mood](./tense_aspect_mood.md)
 5. This, that, questions and relative Clauses (na, ne, ci, ka, ta, te)
 6. Advanced Vocabulary
 7. Numbers and Maths

@@ -1,8 +1,8 @@
-# 3. Complex Sentences
+# 2. Complex Sentences
 
 ---
 
-### 3.1 Word Order
+### 2.1 Word Order
 
 Until now, we always used the word order:  
 **subject – verb – object**  
@@ -37,7 +37,7 @@ All of these have the same literal meaning. Word order in Kokanu is a **rhetoric
 
 ---
 
-### 3.2 Prepositions
+### 2.2 Prepositions
 
 Every Kokanu sentence needs a **main verb** (usually the **le-clause**).  
 Other parts are optional:  
@@ -93,7 +93,7 @@ In Kokanu, **ki** often marks the **recipient** (the indirect object).
 
 ---
 
-### 3.3 Imperative
+### 2.3 Imperative
 
 To form an imperative:  
 - Drop the **men** clause  
@@ -106,17 +106,17 @@ To specify who is addressed, use **he**:
 
 | Kokanu sentence                    | English meaning   |
 |------------------------------------|-------------------|
-| **he heje o teka ki mi**           | horse, look at me! |
+| **he neje o teka ki mi**           | horse, look at me! |
 
 ::: tip New Words
 - **o** = imperative marker (particle)  
 - **he** = vocative marker (particle, repeated here)  
-- **heje** = horse  
+- **neje** = horse  
 :::
 
 ---
 
-### 3.4 Conjunctions
+### 2.4 Conjunctions
 
 Kokanu has **four conjunctions**:  
 
