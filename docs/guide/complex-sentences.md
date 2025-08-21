@@ -131,13 +131,11 @@ They can connect **words**, **phrases**, or **sentences**.
 
 **Examples:**
 
-- **mi un tu le makan** → me and you eat  
-
-- **nin le ju in pawo cenpo ili in meja cina**  
-  → a person wants a big dog or a small cat  
-
-- **tu le pata, tan tu le makan**  
-  → you read, then you eat  
+| Kokanu sentence                              | English meaning                         |
+|----------------------------------------------|-----------------------------------------|
+| **mi un tu le makan**                        | me and you eat                          |
+| **nin le ju in pawo cenpo ili in meja cina** | a person wants a big dog or a small cat |
+| **tu le pata, tan tu le makan**              | you read, then you eat                  |
 
 ::: tip New Words
 - **un** = and (conjunction)  
