@@ -114,13 +114,13 @@ A **noun** used as a modifier means “[noun]-related,” often broadly.
 | Kokanu phrase                  | Meaning                        |
 |--------------------------------|--------------------------------|
 | **makan pawo le tope**         | the dog food is good           |
-| **mi le oton in oton sila**    | I wear head-related clothing   |
+| **mi le onton in onton sila**    | I wear head-related clothing   |
 
 ::: tip New Words
 - **makan** = food  
 - **pawo** = dog  
 - **tope** = good  
-- **oton** = to wear (clothing)  
+- **onton** = to wear (clothing)  
 - **sila** = head  
 :::
 

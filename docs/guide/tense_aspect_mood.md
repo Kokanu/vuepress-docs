@@ -132,7 +132,7 @@ The particle **o** is very versatile:
 | Kokanu phrase                         | Meaning                                 |
 |---------------------------------------|-----------------------------------------|
 | **hon tu le pata, mi le pasan**        | When you read, I am happy                 |
-| **hon mi le pata kate, mi le pasan**     | If you would read, I'd be happy (hypothetical) |
+| **hon ta tu le pata kate, men mi le pasan**     | If you would read, I'd be happy (hypothetical) |
 | **mi le suki hakiki in pawo mi**      | I really love my dog (authentic)        |
 
 ::: tip New Words

@@ -17,7 +17,7 @@ export default defineUserConfig({
       '/',
       '/guide/',
       { text: 'Reference', link: '/reference/' },
-      '/text/',
+      '/texts/',
       {
         text: 'Dictionary',
         link: 'https://dictionary.kokanu.com/'
@@ -40,6 +40,11 @@ export default defineUserConfig({
             'complex-sentences.md',
             'derivations.md',
             'tense_aspect_mood.md',
+            'questions-clauses.md',
+            'grammar-particles.md',
+            'advanced-vocabulary.md',
+            'numbers-maths.md',
+            'extra.md'
             // add more chapters later
           ],
         },
