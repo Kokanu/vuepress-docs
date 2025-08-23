@@ -52,7 +52,7 @@ It also works inside **ka-questions**:
 
 ::: tip New Words
 - **insu** = building  
-- **lipan** = away  
+- **lipan** = absent, away  
 - **kuwosi** = fruit  
 :::
 
