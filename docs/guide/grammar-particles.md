@@ -117,12 +117,12 @@ Like *la*, *no* can be placed in different spots, with nuanced changes in meanin
 | Kokanu phrase                              | Meaning                                 |
 |--------------------------------------------|-----------------------------------------|
 | **tu le lun lo in mi**                     | you move me / you cause me to move      |
-| **nin le lun pamsim in kumi**              | a person makes the plastic rectangular  |
+| **nin le lun pansin in kumi**              | a person makes the plastic rectangular  |
 
 ::: tip New Words
 - **lo** = moving  
 - **nin** = person  
-- **pamsim** = rectangle / rectangular  
+- **pansin** = rectangle / rectangular  
 - **kumi** = plastic  
 :::
 
