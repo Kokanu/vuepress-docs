@@ -114,13 +114,12 @@ Closers are: **comma (,)**, **hu**, or **wa**.
 
 | Kokanu phrase (variants)                                               | Meaning                        |
 |------------------------------------------------------------------------|--------------------------------|
-| **po ta tu le solu in kota mi, men mi le kota len**                    | I speak loud so you hear what I say |
-| **po ta tu le solu in kota mi hu men mi le kota len**                  | same meaning, with *hu* closer |
+| **po ta tu le sema in kota mi, men mi le kota len**                    | I speak loud so you hear what I say |
+| **po ta tu le sema in kota mi hu men mi le kota len**                  | same meaning, with *hu* closer |
 
 ::: tip New Words
 - **len** = strong  
 - **sema** = to hear  
-- **solu** = to ask / hear words  
 - **kota** = to say / speech  
 :::
 
