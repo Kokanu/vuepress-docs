@@ -159,7 +159,7 @@ Subtraction
 
 ʌȷ ʋ̄ſ ʋıʜƨ̄ı ƨ̄xſ ɤ̄ſ ɤȷʌ̄ - $te $lun $lipan $in $nanku $sun $setan "to make-absent 4 from 7"
 
-$te $alu $in $nanku $sun $setan "to take 4 from 7"
+ʌȷ oʋſ ōı ƨ̄xſ ɤ̄ſ ɤȷʌ̄ - $te $alu $in $nanku $sun $setan "to take 4 from 7"
 
 7 - 4 = 3
 
@@ -183,7 +183,7 @@ Division
 
 9 / 4
 
-$te $lun $panli $in $saka $wija $nanku "to cut 9 using 4"
+ʌȷ ʋ̄ſ ʜ̄ʋı ōı ɤx ɕıɂ ƨ̄xſ - $te $lun $panli $in $saka $wija $nanku "to cut 9 using 4"
 
 9 / 4 = 2.25
 
