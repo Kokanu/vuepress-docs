@@ -3,9 +3,9 @@
 Kokanu’s phonology is built for **global accessibility** while staying **very minimal**.
 It has **11 consonants** and **5 vowels**:
 
-```p, t, k, w, l, j, m, n, s, c, h```
+```p, t, k, c, w, l, j, m, n, s, h```
 
-```a, e, i, o, u```
+```a, i, e, o, u```
 
 Every syllable is short and easy to pronounce for most people, no matter their native language.
 
@@ -31,10 +31,10 @@ The consonants are pronounced like this:
 
 The Vowels are pronounced like this:
 
-* **i** — like in happ**y**
+* **i** — like in s**ee**
 * **e** — like in dr**e**ss
-* **a** — like in f**a**ther
-* **o** — like in g**o**
+* **a** — like in c**a**t
+* **o** — like in th**ou**ght
 * **u** — like in b**oo**t
 
 For people familiar with it read up on the IPA symbols below.
@@ -52,7 +52,7 @@ Each letter has a preferred IPA value, but variation is allowed to make Kokanu f
 * **⟨k⟩** – /k/ \[kʰ] or \[g] allowed
 * **⟨s⟩** – /s/ \[ʃ], \[z], \[ʒ] allowed
 * **⟨c⟩** – /t͡ʃ/, also \[t͡s] or \[d͡ʒ]
-* **⟨h⟩** – /h/
+* **⟨h⟩** – /h/ \[x] allowed
 * **⟨l⟩** – /l/
 * **⟨j⟩** – /j/
 * **⟨w⟩** – /w/ \[v], \[β], or \[ʋ] allowed
@@ -122,5 +122,5 @@ Here are some Kokanu words **borrowed from English**. They’re not identical to
 | **mani**   | money    | Same as English **MAH-nee** /ˈma.ni/                                        |
 | **no**     | no       | Like English **NOH** /no/ — short, single vowel, no diphthong               |
 | **sin**    | thing    | Like English **SEEN** /sin/ (not *thing*)                                   |
-| **he**     | hey      | **HAY** /he/ — plain vowel, no diphthong                                    |
+| **he**     | hey      | **HEH** /he/ — plain vowel, no diphthong                                    |
 | **oke**    | okay     | **OH-keh** /o.ke/ — two clean syllables                                     |

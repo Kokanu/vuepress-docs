@@ -31,18 +31,18 @@ The main verb in a sentence is usually marked by **le** (exceptions in 2.2 and 5
 
 Besides content words, Kokanu also has **pronouns**. There are five:
 
-| Pronoun | Meaning           |
-|---------|-------------------|
-| mi      | I / we            |
-| tu      | you               |
-| ja      | they / them       |
-| sa      | self              |
-| usen    | each other        |
+| Pronoun | Meaning              |
+|---------|----------------------|
+| mi      | I / we               |
+| tu      | you                  |
+| ja      | he / she / it / they |
+| sa      | self                 |
+| usen    | each other           |
 
 ::: warning
 Like any other word in Kokanu, pronouns do **not** carry grammatical information.  
 - “I / me” and “we / us” use the same word (**mi**).  
-- Likewise, there is no distinction between “he / she / it / they / them” → all use **ja**.
+- Likewise, there is no distinction between “he / him / she / her / it / they / them” → all use **ja**.
 :::
 
 ---

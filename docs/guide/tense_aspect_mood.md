@@ -135,11 +135,6 @@ The particle **o** is very versatile:
 | **hon ta tu le pata kate, men mi le pasan** | If you would read, I'd be happy (hypothetical) |
 | **mi le suki hakiki in pawo mi**            | I really love my dog (authentic)               |
 
-::: warning
-**ta** introduces a separate clause. Simply put, it allows you to split parts of the sentence from others, like "tu le pata kate" and "mi le pasan".  
-It will be explained further in chapter 5.
-:::
-
 ::: tip New Words
 - **o** = imperative / suggestive / optative marker  
 - **hon** = context / if (conditional)  
