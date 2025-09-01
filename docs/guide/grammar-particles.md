@@ -176,3 +176,107 @@ Both *mu* and *pan* turn verbs into nouns referring to agents:
 - **teka** = to see  
 - **sin saman** = same thing  
 :::
+
+### **mese and menu**
+
+*mese* genrally means "**more**", *menu* means "**less**".
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **mi le moku mese**          | I eat more      |
+| **tu le teka menu**    | You see less       |
+
+Without contect however, sentences are quite ambiguous. You could see less than someone else, less than before or just less than you want to. 
+To specify this you use **so**.
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **tu le teka menu so mi**    | You see less than me      |
+| **tu le teka menu so matin**    | You see less than before      |
+| **tu le teka menu so ta tu le ju te teka**    | You see less than you want to     |
+
+To directly **compare** two things, the second one goes between the *mese/menu* and *so*. 
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **mi le makan in menu niku so kuwosi**    | I eat less meat than fruit      |
+| **ja ne ju mese te kela so te antomi**    | He wants to rather play than sleep  |
+
+---
+
+## 6.7 **wi**
+We have already learned how word derrivations work and how to for example use noun as verbs. But we do not have full control about derivations jet. We cannot say "I'm visible". *mi le teka* would mean "I see". To express this, we need to **first** force *teka* to be a **modifier** and then use that modifier as a verb. This is done by ***wi***. *wi* takes the next word or phrase and converts it into a modifier. It is further interpreted just like a base modifier. 
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **mi le wi teka**    | I am visible      |
+| **ne nin  le wi konpute la**    | That person is computer-like!/ That person is like a computer!  |
+::: tip New Words
+- **konpute** = computer
+:::
+
+With a modifier *wi* is genreally redundant however as a particle it is negatable with *no*. 
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **mi le makan in makan wi no pikante**    | I ate non-spicy food      |
+
+The same thing goes for words that are modifiers by position:
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **mi le makan in kuwosi wi no makan**    | I ate an unedible fruit      |
+
+---
+
+## 6.8 **wen**
+**wen** does two things: on one hand - analogous to *wi* - it converts the word after it into a noun.
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **ne le wen makan**    | This is food |
+
+Coming after a noun it means "that is...".
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **mi le suki in nin wen nin suki mi**    | I like the people that are my likable people/ I like my friends |
+| **lipu wen kisa je canwa le cenpo**    | The book that is the animals story is long |
+
+---
+
+## 6.9 **wa**
+
+***wa*** is used to reorganize modifiers. It colapses the noun phrase before it, forces the word after it to be a modifier and makes it act on the whole nounphrase before it. 
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **canwa je picijo cenpo**    | animals of big feet |
+| **canwa je picijo wa cenpo**    | big animals of feet/big animals that have feet |
+
+Also *ta*/*te*-phrases can come after *wa*.
+
+**Examples:**
+
+| Kokanu phrase                        | Meaning                          |
+|--------------------------------------|----------------------------------|
+| **canwa je picijo te lo**    | animals of noving feet |
+| **canwa je picijo wa te lo**    | animals of feet that move |
