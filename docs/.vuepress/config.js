@@ -17,7 +17,7 @@ export default defineUserConfig({
       '/',
       '/guide/',
       { text: 'Reference', link: '/reference/' },
-      '/texts/',
+      { text: 'Texts', link: '/texts/' },
       {
         text: 'Dictionary',
         link: 'https://dictionary.kokanu.com/'
