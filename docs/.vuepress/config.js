@@ -42,8 +42,8 @@ export default defineUserConfig({
             'tense_aspect_mood.md',
             'questions-clauses.md',
             'grammar-particles.md',
-            'advanced-vocabulary.md',
             'numbers-maths.md',
+            'advanced-vocabulary.md',
             'extra.md'
             // add more chapters later
           ],

@@ -15,8 +15,8 @@ So you have decided to learn a simple and small language to be able to speak wit
 4. [Tense, Aspect, Mood](./tense_aspect_mood.md)
 5. [This, That, Questions, Clauses](./questions-clauses.md)
 6. [Grammar Particles](./grammar-particles.md)
-7. [Advanced Vocabulary](./advanced-vocabulary.md)
-8. [Numbers and Maths](./numbers-maths.md)
+7. [Conditionals, Numbers and Maths](./numbers-maths.md)
+8. [Advanced Vocabulary](./advanced-vocabulary.md)
 9. [Extra](./extra.md)
 
 When a new word appears in the course, it will be **bolded**; its meaning should be obvious with the translation of the sentence; but if it is not, or if you have forgot it, look for it in [the dictionary](https://dictionary.kokanu.com).
