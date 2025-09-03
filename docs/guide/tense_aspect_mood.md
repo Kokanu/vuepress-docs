@@ -120,7 +120,7 @@ The particle **o** is very versatile:
 | Kokanu phrase           | Meaning                        |
 |--------------------------|--------------------------------|
 | **o teka in mi**         | look at me! (imperative)      |
-| **lan mi o makan in kuwosi**    | let’s eat / we shall eat a fruit (suggestive) |
+| **mi o makan in kuwosi**    | let’s eat / I/we shall eat a fruit (suggestive) |
 | **o tope pi melon**      | may you be fine in the future (optative) |
 
 #### Other mood markers
