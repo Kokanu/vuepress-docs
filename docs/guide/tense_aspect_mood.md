@@ -129,11 +129,11 @@ The particle **o** is very versatile:
 - **kate** — hypothetical (“as if”, counterfactual)  
 - **hakiki** — authentic, realis (“indeed, actually”)  
 
-| Kokanu phrase                         | Meaning                                 |
-|---------------------------------------|-----------------------------------------|
-| **hon tu le pata, mi le pasan**        | When you read, I am happy                 |
-| **hon ta tu le pata kate, men mi le pasan**     | If you would read, I'd be happy (hypothetical) |
-| **mi le suki hakiki in pawo mi**      | I really love my dog (authentic)        |
+| Kokanu phrase                               | Meaning                                        |
+|---------------------------------------------|------------------------------------------------|
+| **hon ta tu le pata, men mi le pasan**      | When you read, I am happy                      |
+| **hon ta tu le pata kate, men mi le pasan** | If you would read, I'd be happy (hypothetical) |
+| **mi le suki hakiki in pawo mi**            | I really love my dog (authentic)               |
 
 ::: tip New Words
 - **o** = imperative / suggestive / optative marker  

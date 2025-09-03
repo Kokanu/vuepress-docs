@@ -96,13 +96,13 @@ The last word type are **modifiers**. As the name suggests, they **modify other 
 
 **Examples:**
 
-| Kokanu sentence                         | English meaning                |
-|-----------------------------------------|--------------------------------|
-| **mi le makan wiki in kuwosi hunsi**    | I quickly eat a red fruit      |
-| **pawo cenpo le teka in sa**            | the big dog sees itself        |
-| **insu cenpo hunsi**                    | red big building               |
-| **pawo mi**                             | my dog                         |
-| **kuwosi ja**                           | their fruit                    |
+| Kokanu sentence                         | English meaning           |
+|-----------------------------------------|---------------------------|
+| **mi le makan wiki in kuwosi hunsi**    | I quickly eat a red fruit |
+| **pawo cenpo le teka in sa**            | the big dog sees itself   |
+| **insu cenpo hunsi**                    | big red building          |
+| **pawo mi**                             | my dog                    |
+| **kuwosi ja**                           | their fruit               |
 
 ::: tip New Words
 - **wiki** = fast  
