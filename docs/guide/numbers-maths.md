@@ -10,10 +10,10 @@ Conditionals are formed by ***hon*** statements, where the verb is modified by *
 | --------------------------------------------------- | -------------------------------- |
 | hon ta mi le nan kate te makan, men mi le pasan la! | If I could eat, I would be happy |
 
-\::: tip New Words
+::: tip New Words
 
 * **nan** = to be able (an ability)
-  \:::
+  :::
 
 The *kate* is not necessary, it just indicates that something is hypothetical. If in a certain situation it feels more natural without *kate*, that is fine too.
 
@@ -133,9 +133,9 @@ The standard way to form numbers, oriented by the Western system, is to make gro
 | lima sijen loku tiju nanku hen san hu ha sijen san tiju wan                                       | 564,231     |
 | etu sijen saka tiju setan hen loku hu lima sijen loku tiju nanku hen san hu ha sijen san tiju wan | 897,564,231 |
 
-\::: warning
+::: warning
 Although this way of grouping digits is the most common one, Kokanu allows for a variety of different systems. For more information check out [Numbers and Mathematics](/reference/numbers-mathematics.html).
-\:::
+:::
 
 ### Decimals
 

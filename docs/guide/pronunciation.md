@@ -103,7 +103,7 @@ There are **no** consonant clusters and **no** final consonants other than **n**
 | **w**      | wi | we | wa | wo |    | win | wen | wan | won |     |
 
 ::: warning
-*ji*, *jin*, *wu*, and *wun* are invalid syllables.
+*ji*, *jin*, *wu*, and *wun* are invalid syllables to avoid difficulties in pronounciation.
 :::
 
 ---
@@ -124,3 +124,7 @@ Here are some Kokanu words **borrowed from English**. They’re not identical to
 | **sin**    | thing    | Like English **SEEN** /sin/ (not *thing*)                                   |
 | **he**     | hey      | **HEH** /he/ — plain vowel, no diphthong                                    |
 | **oke**    | okay     | **OH-keh** /o.ke/ — two clean syllables                                     |
+
+::: warning
+A words meaning in Kokanu might slightly differ from it's original meaning. ***oke*** for example in it's base form means "to accept" not "okay".
+:::
