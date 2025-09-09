@@ -80,7 +80,7 @@ The number after it is just added.
 | ha sijen saka | two hundred plus nine; 209         |
 | etu con setan | eight thousand plus seven; 8,007   |
 
-The number before and after *sijen* and *con* can also be compound numbers.
+The number *sijen* and *con* can also be compound numbers.
 
 **Examples:**
 
@@ -89,7 +89,7 @@ The number before and after *sijen* and *con* can also be compound numbers.
 | setan sijen ha tiju nanku         | seven hundred and two times ten and four; 724       |
 | lima con loku sijen san tiju loku | five thousand and six hundred and thirty-six; 5,636 |
 
-The number before ***con*** could theoretically be a compound number too, but numbers larger than 9,999 should not be formed that way.
+::: warning The number before ***tiju***, ***sijen*** and ***con*** can **not** be compound numbers and must be a **digit**. Unlike in english, a number like "twenty thousand" with the intuitive translation *ha tiju con* is not possible. :::
 
 ### Large Numbers
 
