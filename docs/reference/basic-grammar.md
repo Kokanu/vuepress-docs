@@ -151,15 +151,15 @@ $nin $ta $mi $le $suki might seem like a direct translation from English "person
 
 |Likanu|Latin script|English|
 |-|-|-|
-| ɞı ʋȷ ɤſxı ōı ƨ̄ı: | mi le suki in nin. | I like the person. (sentence) |
-| ƨ̄ı ʌ ɞı ʋȷ ɤſxı ōı | nin ta mi le suki in | person that I like (noun phrase) |
+| [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı ƨ̄ı]{.blue}: | [mi]{.red} [le suki]{.green} [in nin]{.blue}. | [I]{.red} [like]{.green} the [person]{.blue}. (sentence) |
+| ƨ̄ı ʌ [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı]{.blue} | nin ta [mi]{.red} [le suki]{.green} [in]{.blue} | person that [I]{.red} [like]{.green} (noun phrase) |
 
 Any **preposition** can be used to make this relation.
 
 |Likanu|Latin script|English|
 |-|-|-|
-| ɂ̄ ʌ ɞı ʋȷ ʋʃ xı | jan ta mi le lo ki | a place that I go to |
-| ɂ̄ʃ ʌ ɞı ʋȷ ʌ̄ſ ōı ƨȷ ɕıɂ | jon ta mi le tun in ne wija | the tool that I do this with |
+|[ɂ̄ ʌ [ɞı]{.red} [ʋȷ ʋʃ]{.green} [xı]{.yellow} | jan ta [mi]{.red} [le lo]{.green} [ki]{.yellow} | a place that [I]{.red} [go]{.green} [to]{.yellow} |
+| ɂ̄ʃ ʌ [ɞı]{.red} [ʋȷ ʌ̄ſ]{.green} [ōı ƨȷ]{.blue} [ɕıɂ]{.yellow} | jon ta [mi]{.red} [le tun]{.green} [in ne]{.blue} [wija]{.yellow} | the tool that [I]{.red} [do]{.green} [this]{.blue} [with]{.yellow} |
 
 The **preposition** at the end of the clause is called a "dangling preposition", and it's the preposition that would have been used on the modified noun in a normal sentence, e.g. "**the place** that I go **to**," "I go **to the place**" 
 
@@ -167,9 +167,9 @@ Alternatively, unlike in English, the clause can be written out as a full senten
 
 |Likanu|Latin script|
 |-|-|
-| ƨ̄ı ʌ ōı ɂ ɞ̄ȷ ɞı ʋȷ ɤſxı | nin ta in ja men mi le suki |
-| ƨ̄ı ʌ ɞı ōı ɂ ʋȷ ɤſxı | nin ta mi in ja le suki |
-| ƨ̄ı ʌ ɞı ʋȷ ɤſxı ōı ɂ | nin ta mi le suki in ja |
+| ƨ̄ı ʌ [ōı ɂ]{.blue} [ɞ̄ȷ ɞı]{.red} [ʋȷ ɤſxı]{.green} | [nin]{.red} ta [in ja]{.blue} [men mi]{.red} [le suki]{.green} |
+| ƨ̄ı ʌ [ɞı]{.red} [ōı ɂ]{.blue} [ʋȷ ɤſxı]{.green} | [nin]{.red} ta [mi]{.red} [in ja]{.blue} [le suki]{.green} |
+| ƨ̄ı ʌ [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı ɂ]{.blue} | [nin]{.red} ta [mi]{.red} [le suki]{.green} [in ja]{.blue} |
 
 In the last example, $ja can be dropped from the end, leaving the dangling preposition, which is how it's always done in English.
 
