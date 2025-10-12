@@ -56,7 +56,7 @@ When the subject is at the _start_ of a sentence, however, $men can be dropped.
 | [ɞ̄ȷ ɞı]{.red} [ʋȷ ɞx̄]{.green}: | [men mi]{.red} [le makan]{.green}. |
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green}: | [mi]{.red} [le makan]{.green}. |
 
-**Prepositions**, $le, and $o can be negated by placing $no after them. $no does not serve any other function.
+**Prepositions**, $le, and $o can be negated by placing $no after them. $no can also be used to negate specific attributes when combined with particles, which will be explained later.
 
 These three sentences mean the same thing but have different emphasis:
 
@@ -68,17 +68,22 @@ These three sentences mean the same thing but have different emphasis:
 
 Conjunctions in Kokanu can be between nouns in a phrase, or between sentences.
 
+However, the "un", meaning "and", is not required like it is in English in phrases where two nouns of the same function are next to each other (e.g. Me **and** you go to the park). "un" may be used on its own, the preposition may be repeated, or both strategies may be combined. "un" may still be used to connect sentences together like in English.
+
 |Likanu|Latin script|English|
 |-|-|-|
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} **ōſ**{.yellow} [oſxɞ]{.blue}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [ukama]{.blue}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [vegetables]{.blue}. |
+| [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı **ōı** oſxɞ]{.blue}: | [mi]{.red} [le makan]{.green} [in kuwosi **in** ukama]{.blue}. | [I]{.red} [eat]{.green} [fruits **and** vegetables]{.blue}. |
+| [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} [**ōſ**]{.yellow} [**ōı** oſxɞ]{.blue}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [**in** ukama]{.blue}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [vegetables]{.blue}. |
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} **ōſ**{.yellow} [ɞı]{.red} [ʋȷ ʋʃ]{.green} [ɤ̄ſ ƨȷ ɂ̄]{.magenta}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [mi]{.red} [le lo]{.green} [sun ne jan]{.magenta}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [I]{.red} [leave]{.green} ([this place]{.magenta}). |
 
-An imperative statement is created by replacing a **subject** + $le with just $o (no subject).
+An imperative statement is created by replacing a **subject** + $le with just $o (no subject). They are interpreted as commands when there is no subject, however are interpreted as suggestions when there is one.
 
 |Likanu|Latin script|English|
 |-|-|-|
 | [ʌſ]{.red} [ʋȷ ʋʃ]{.green}: | [tu]{.red} [le lo]{.green}. | [You]{.red} [move]{.green}. |
 | [oʃ ʋʃ]{.green}ʭ | [o lo]{.green}! | [Move]{.green}! |
+| [ʌſ]{.red} [oʃ ʋʃ]{.green}ʭ | [tu]{.red} [o lo]{.green}! | [You]{.red} [should move]{.green}! |
 
 For more information, see [Using the Parts of Speech](using-the-parts-of-speech.md).
 
@@ -133,8 +138,8 @@ $ta functions like $te, except that it doesn't mark the first word that follows 
 
 |Likanu|Latin script|English|
 |-|-|-|
-| ʌ ɞı ʋȷ ɞx̄ ōı xſɕʃɤı､ ʋȷ ʌʃʜȷ: | ta mi le makan in kuwosi, le tope. | It's good that I eat fruit. |
-| ɞı ʋȷ ʜ̄ʃ ʌ ʌſ ʋȷ ʜɤ̄: | mi le pon ta tu le pasan. | I cause that you are happy. / I make you happy. |
+| ʌ [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [ta mi]{.red} [le makan]{.green} [in kuwosi]{.blue}, [le tope]{.green}. | [It]{.red}'[s{.green} good] that [I]{.red} [eat]{.green} [fruit]{.blue}. |
+| {ɞı}[.red] [ʋȷ ʜ̄ʃ]{.green} ʌ [ʌſ]{.red} [ʋȷ ʜɤ̄]{.green}: | [mi]{.red} [le pon]{.green} ta [tu]{.red} [le pasan]{.green}. | [I]{.red} [cause]{.green} that [you]{.red} [are happy]{.green}. / [I]{.red} [make]{.green} [you]{.red} [happy]{.green}. |
 
 When $ta does modify a noun, it is more complicated. $te tells you that the noun being modified is the **subject** of the following clause, $ta doesn't say anything about the role of the noun being modified in the clause.
 
@@ -142,7 +147,7 @@ $nin $ta $mi $le $suki might seem like a direct translation from English "person
 
 |Likanu|Latin script|English|
 |-|-|-|
-| ƨ̄ı ʌ ɞı ʋȷ ɤſxı ōı | nin ta mi le suki in | person that I like ($in indicates the role of $nin in the **relative clause**) |
+| [ƨ̄ı] ʌ [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı]{.blue} | [nin] ta [mi]{.red} [le suki]{.red} [in]{.blue} | [person]{.red} that [I]{.red} [like]{.green} ($in indicates the role of $nin in the **relative clause**) |
 
 |Likanu|Latin script|English|
 |-|-|-|
@@ -172,7 +177,7 @@ In any case, the clause must end with a comma if more follows.
 
 |Likanu|Latin script|
 |-|-|
-| xſɕʃɤı ʌ ƨ̄ı ʋȷ ɞx̄ ōı､ ʋȷ ʌʃʜȷ: | kuwosi ta nin le makan in, le tope. |
+| [xſɕʃɤı]{.red} ʌ [ƨ̄ı]{.red} [ʋȷ ɞx̄]{.green} [ōı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [kuwosi]{.red} ta [nin]{.red} [le makan]{.green} [in]{.blue}, [le tope]{.green}. |
 
 * * *
 
