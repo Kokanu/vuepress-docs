@@ -177,27 +177,6 @@ Both *mu* and *pan* turn verbs into nouns referring to agents:
 - **sin saman** = same thing  
 :::
 
-## 6.6 **mese**, **menu**, and **so**
-
-### **so**
-
-*so* is used for **comparisons**. It puts two things in contrast or shows similarity.
-
-**Examples:**
-
-| Kokanu phrase                     | Meaning                      |
-| --------------------------------- | ---------------------------- |
-| **mi le kanisa sone so tu**       | I think differently than you |
-| **mi le teka in sin saman so tu** | I see the same thing as you  |
-
-\::: tip New Words
-
-* **sone** = different
-* **kanisa** = to think
-* **teka** = to see
-* **sin saman** = same thing
-  \:::
-
 ### **mese and menu**
 
 *mese* generally means "**more**", *menu* means "**less**".
