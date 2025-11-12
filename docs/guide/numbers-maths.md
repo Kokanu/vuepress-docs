@@ -73,27 +73,27 @@ The number before *tiju*, *sijen* or *con* multiplies it.
 
 **Examples:**
 
-| Kokanu    | English                    |
-| --------- | -------------------------- |
-| loku tiju | five times ten / fifty; 50 |
-| ha sijen  | two hundred; 200           |
-| etu con   | eight thousand; 8,000      |
+| Kokanu    | English                     |
+|-----------|-----------------------------|
+| loku tiju | six times ten; 60           |
+| ha sijen  | two times hundred; 200      |
+| etu con   | eight times thousand; 8,000 |
 
 The number after it is just added.
 
-| Kokanu        | English                            |
-| ------------- | ---------------------------------- |
-| loku tiju san | fifty plus three / fifty-three; 53 |
-| ha sijen saka | two hundred plus nine; 209         |
-| etu con setan | eight thousand plus seven; 8,007   |
+| Kokanu        | English                          |
+|---------------|----------------------------------|
+| loku tiju san | sixty plus three; 63             |
+| ha sijen saka | two hundred plus nine; 209       |
+| etu con setan | eight thousand plus seven; 8,007 |
 
 The number before and after *sijen* and *con* can also be compound numbers.
 
 **Examples:**
 
 | Kokanu                            | English                                             |
-| --------------------------------- | --------------------------------------------------- |
-| setan sijen ha tiju nanku         | seven hundred and two times ten and four; 724       |
+| --------------------------------- |-----------------------------------------------------|
+| setan sijen ha tiju nanku         | seven hundred and twenty-four; 724                  |
 | lima con loku sijen san tiju loku | five thousand and six hundred and thirty-six; 5,636 |
 
 The number before ***con*** could theoretically be a compound number too, but numbers larger than 9,999 should not be formed that way.
@@ -125,8 +125,8 @@ After the *hen*-expression we can also add something. For this purpose a *hu* or
 **Examples:**
 
 | Kokanu                                | English                  |
-| ------------------------------------- | ------------------------ |
-| ha hen san hu loku sijen wan          | 2\*10^3 + 301; 2,301     |
+| ------------------------------------- |--------------------------|
+| ha hen san hu loku sijen wan          | 2\*10^3 + 601; 2,601     |
 | etu hen nanku, wan tiju setan         | 8\*10^4 + 17; 80,017     |
 | lima hen loku, ha sijen lima tiju san | 5\*10^6 + 253; 5,000,253 |
 
@@ -202,9 +202,9 @@ There are two common expressions for subtraction:
 ### Multiplication
 
 | Kokanu                           | English                                    |
-| -------------------------------- | ------------------------------------------ |
+|----------------------------------| ------------------------------------------ |
 | te tun in ha non je san          | make 2 groups of 3; 2\*3                   |
-| te lun lan in ha wija lima       | to make-many 2 with 3; 2\*3                |
+| te lun lan in ha wija san        | to make-many 2 with 3; 2\*3                |
 | te tun in pansin wija ha kan san | to make a rectangle with a 2 and a 3; 2\*3 |
 
 ### Division
