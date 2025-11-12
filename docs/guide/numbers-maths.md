@@ -32,13 +32,20 @@ To describe a multitude of things, they go before the word they describe.
 **Examples:**
 
 | Kokanu            | English                                 |
-| ----------------- | --------------------------------------- |
+|-------------------| --------------------------------------- |
 | jati meja         | some cats                               |
-| lan heje          | many horses                             |
+| lan neje          | many horses                             |
 | ani suwina        | all pigs                                |
 | momu le lan makan | the cow eats a lot / the cow eats often |
 
-ToDo: after the word
+When used after a word, these words turn into modifiers describing the intensity of the modified word.
+
+| Kokanu              | English                         |
+|---------------------|---------------------------------|
+| meja jati           | somewhat cat-like               |
+| wiki lan            | very fast                       |
+| tope ani            | best                            |
+| ani nin o pasan lan | all people should be very happy |
 
 ## 7.3 Forming Numbers
 
