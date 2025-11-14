@@ -125,10 +125,14 @@ After the *hen*-expression we can also add something. For this purpose a *hu* or
 **Examples:**
 
 | Kokanu                                | English                  |
-| ------------------------------------- |--------------------------|
+|---------------------------------------|--------------------------|
 | ha hen san hu loku sijen wan          | 2\*10^3 + 601; 2,601     |
-| etu hen nanku, wan tiju setan         | 8\*10^4 + 17; 80,017     |
+| etu hen nanku, (wan) tiju setan       | 8\*10^4 + 17; 80,017     |
 | lima hen loku, ha sijen lima tiju san | 5\*10^6 + 253; 5,000,253 |
+
+::: warning
+***wan*** is optional before larger numbers like *tiju*, *sijen*, and *con*.
+:::
 
 The standard way to form numbers, oriented by the Western system, is to make groups of three digits and multiply them by a power of ten.
 
