@@ -84,6 +84,22 @@ oȷʌſ **ɵ̄ȷ ʌıɂſ ɵ** - $etu $hen $tiju $ha "8,000,000,000,000, 8 trill
 
 oȷʌſ **ɵ̄ȷ ʌıɂſ** ､ ɵ - $etu $hen $tiju, $ha "80,000,000,002, eighty billion two"
 
+Grouping the digits in groups of three like this is the standard Western way of doing it, but it is not the only one. Since simple numbers can be formed with one to four digits, the number of digits grouped together can also range from one to four.
+
+Examples:
+
+$etu $sijen $saka $tiju $setan $hen $loku $hu $lima $sijen $loku $tiju $nanku $hen $san $hu $ha $sijen $san $tiju $wan ('897,564,231'; analogous to the Western system)
+
+$etu $hen $etu $hu $saka $con $setan $sijen $lima $tiju $loku $hen $nanku $hu $nanku $con $ha $sijen $san $tiju $wan ('8,9756,4231'; analogous to the Eastern system)
+
+The groups don’t even have to be uniform:
+
+$etu $tiju $saka $hen $setan $hu $setan $tiju $lima $hen $lima $hu $loku $tiju $nanku $hen $san $hu $ha $sijen $san $tiju $wan ('89,75,64,231'; analogous to the Indian system)
+
+Scientific notation is also possible:
+
+$etu $pintu $hu $saka $setan $lima $loku $nanku $tu $san $wan $hen $etu (8,97564231*10^8)
+
 
 Cardinals and Ordinal Numbers
 -----------------------------
