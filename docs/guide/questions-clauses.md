@@ -39,13 +39,16 @@ By replacing the item of inquiry with **ci**, any interrogative can be formed.
 | **ja le makan konje nenka ci?**  | Why do they stop eating?         |
 | **pawo le antomi pi ci?**        | Where/When does the dog sleep?   |
 
-Sometimes **ci** can be placed after a word instead of before to signify that it's asking for an adjective, instead of a word:
+Sometimes, **ci** can be placed after a word to signify that it's asking for an adjective, instead of a word:
 
 | Kokanu phrase                        | Meaning                               |
 |--------------------------------------|---------------------------------------|
 | **pawo le antomi pi jan ci?**        | The dog is asleep at a *what* place? |
+| **pawo le antomi pi ci jan?**        | Where is the dog asleep? |
 | **pawo le antomi pi ten ci?**        | The dog is asleep at a *what* time? |
+| **pawo le antomi pi ci ten?**        | When is the dog asleep? |
 | **canwa ci le makan in makan mi?**        | A *what* animal ate my food? |
+| **ci canwa le makan in makan mi?**        | What animal ate my food? |
 
 ::: tip New Words
 - **loso** = bad  
