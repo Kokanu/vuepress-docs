@@ -38,13 +38,13 @@ By replacing the item of inquiry with **ci**, any interrogative can be formed.
 | **ja le makan konje nenka ci?**  | Why do they stop eating?         |
 | **pawo le antomi pi ci?**        | Where/When does the dog sleep?   |
 
-Sometimes **ci** can be used as a modifier for more precision:
+Sometimes **ci** can be used like **na** and **ne** for more precision:
 
 | Kokanu phrase                        | Meaning                               |
 |--------------------------------------|---------------------------------------|
-| **pawo le antomi pi jan ci?**        | At which place does the dog sleep? / Where does the dog sleep? |
-| **pawo le antomi pi ten ci?**        | At which time does the dog sleep? / When does the dog sleep? |
-| **canwa ci le makan in makan mi?**   | Which animal ate my food?             |
+| **pawo le antomi pi ci jan?**        | At which place does the dog sleep? / Where does the dog sleep? |
+| **pawo le antomi pi ci ten?**        | At which time does the dog sleep? / When does the dog sleep? |
+| **ci canwa le makan in makan mi?**   | Which animal ate my food?             |
 
 ::: tip New Words
 - **loso** = bad  
@@ -164,10 +164,10 @@ Clauses can be closed in multiple ways, sometimes stacking multiple closers to a
 
 | Kokanu phrase (variants)                                               | Meaning                                  |
 |------------------------------------------------------------------------|------------------------------------------|
-| **nenka ta tu le cuma hon ta mi le koman, mi le kujo**                  | I am sad because you leave when I come   |
-| **nenka ta tu le cuma hon ta mi le koman,, mi le kujo**             | (same, but multiple , used)        |
-| **nenka ta tu le cuma hon ta mi le koman hu, mi le kujo**             | (same, but hu used)        |
-| **nenka ta tu le cuma hon ta mi le koman hu hu mi le kujo**             | (same, but multiple hu used)        |
+| **nenka ta tu le cuma hon ta mi le koman, men mi le kujo**                  | I am sad because you leave when I come   |
+| **nenka ta tu le cuma hon ta mi le koman,, men mi le kujo**             | (same, but multiple , used)        |
+| **nenka ta tu le cuma hon ta mi le koman hu, men mi le kujo**             | (same, but hu used)        |
+| **nenka ta tu le cuma hon ta mi le koman hu hu men mi le kujo**             | (same, but multiple hu used)        |
 
 ---
 

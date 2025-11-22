@@ -96,7 +96,10 @@ The number *sijen* and *con* can also be compound numbers.
 | setan sijen ha tiju nanku         | seven hundred and twenty-four; 724                  |
 | lima con loku sijen san tiju loku | five thousand and six hundred and thirty-six; 5,636 |
 
-::: warning The number before ***tiju***, ***sijen*** and ***con*** can **not** be compound numbers and must be a **digit**. Unlike in english, a number like "twenty thousand" with the intuitive translation *ha tiju con* is not possible. :::
+::: warning The number before ***tiju***, ***sijen*** and ***con*** can **not** be compound numbers and must be a **digit**. Unlike in english, a number like "twenty thousand" with the intuitive translation *ha tiju con* is not possible.
+:::
+
+---
 
 ### Large Numbers
 
@@ -131,7 +134,7 @@ After the *hen*-expression we can also add something. For this purpose a *hu* or
 | lima hen loku, ha sijen lima tiju san | 5\*10^6 + 253; 5,000,253 |
 
 ::: warning
-***wan*** is optional before larger numbers like *tiju*, *sijen*, and *con*.
+***wan*** is optional before larger numbers like *tiju*, *sijen*, and *con*. 
 :::
 
 The standard way to form numbers, oriented by the Western system, is to make groups of three digits and multiply them by a power of ten.
