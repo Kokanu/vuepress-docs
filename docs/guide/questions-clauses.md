@@ -20,8 +20,9 @@ Kokanu has three demonstratives: **ne**, **na**, and **ci**.
 | **mi le suki in na pawo** | I like that dog           |
 
 ::: warning
-Demonstratives **always precede** the word they modify:  
-→ *mi le suki in na pawo* (not *in pawo na*).
+Demonstratives only go after the word they modify **if they are replacing an adjective**. Otherwise, demonstratives **always go before the word they modify**:  
+*mi le makan in **kuwosi na*** → "I eat **that kind of** apple"
+*mi le suki **in na pawo*** → "I like that dog" (not *in pawo na*)
 :::
 
 ---
@@ -38,13 +39,13 @@ By replacing the item of inquiry with **ci**, any interrogative can be formed.
 | **ja le makan konje nenka ci?**  | Why do they stop eating?         |
 | **pawo le antomi pi ci?**        | Where/When does the dog sleep?   |
 
-Sometimes **ci** can be used like **na** and **ne** for more precision:
+Sometimes **ci** can be placed after a word instead of before to signify that it's asking for an adjective, instead of a word:
 
 | Kokanu phrase                        | Meaning                               |
 |--------------------------------------|---------------------------------------|
-| **pawo le antomi pi ci jan?**        | At which place does the dog sleep? / Where does the dog sleep? |
-| **pawo le antomi pi ci ten?**        | At which time does the dog sleep? / When does the dog sleep? |
-| **ci canwa le makan in makan mi?**   | Which animal ate my food?             |
+| **pawo le antomi pi jan ci?**        | The dog is asleep at a *what* place? |
+| **pawo le antomi pi ten ci?**        | The dog is asleep at a *what* time? |
+| **canwa ci le makan in makan mi?**        | A *what* animal ate my food? |
 
 ::: tip New Words
 - **loso** = bad  
