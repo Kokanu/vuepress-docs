@@ -16,7 +16,8 @@ export default defineUserConfig({
     navbar: [
       '/',
       '/guide/',
-      '/reference/',
+      { text: 'Reference', link: '/reference/' },
+      { text: 'Texts', link: '/texts/' },
       {
         text: 'Dictionary',
         link: 'https://dictionary.kokanu.com/'
@@ -28,6 +29,27 @@ export default defineUserConfig({
     ],
 
     sidebar: {
+      '/guide/': [
+        {
+          text: 'Guide',
+          collapsible: true,
+          children: [
+            'README.md',
+            'pronunciation.md',
+            'basic-sentences.md',   
+            'complex-sentences.md',
+            'derivations.md',
+            'tense_aspect_mood.md',
+            'questions-clauses.md',
+            'grammar-particles.md',
+            'numbers-maths.md',
+            'advanced-vocabulary.md',
+            'extra.md'
+            // add more chapters later
+          ],
+        },
+      ],
+      
       '/reference/': [
         {
           text: 'Reference',
