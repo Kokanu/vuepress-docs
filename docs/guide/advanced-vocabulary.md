@@ -28,13 +28,13 @@ Kokanu expresses directiones as base nouns. There are six base directions:
 | malo  | (the) up      |
 | kali  | (the) down    |
 
-They are used and drived just like any other noun. 
+They are used and derived just like any other noun. 
 
 **Examples:**
 
 | Kokanu         | English   |
 |----------------|-----------|
-| Malija le pi pije tu  |Maria is behind you |
+| Malija le pi pice tu  |Maria is behind you |
 | nin malo le nan te teka in lan | the person above is able to see a lot   |
 
 ### Cardinal Directions
