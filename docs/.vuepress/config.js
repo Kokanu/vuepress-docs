@@ -94,10 +94,10 @@ export default defineUserConfig({
             'README.md',
             'lanki-je-lipu-namu.md'
             // add more texts later
-          ],
-        },
+          ]
+        }
       ]
-    }
+    },
 
     repo: 'Kokanu/vuepress-docs',
   }),
