@@ -8,7 +8,6 @@ description: Example text for people learning Kokanu.
 
 <details>
   <summary><strong>Kokanu (Latin)</strong></summary>
-  
 ## nenka ci men lanki je lipu namu le sone pi konje je ten tuko?
 pi lan ten je jutu men lipu namu le lunti. lekin pi konje je ten tuko men lanki ja le pijen in sepo ili hunsi, un pi ten canu men ja le lipan! nenka ci la?
 
