@@ -1,7 +1,7 @@
 ---
 lang: en-US
-title: About Kokanu
-description: Explanation of what Kokanu is, and the Kokanu development process
+title: Example Texts
+description: List of example texts written in Kokanu.
 ---
 
 # Example Texts
