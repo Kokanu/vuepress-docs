@@ -96,7 +96,7 @@ export default defineUserConfig({
             // add more texts later
           ],
         },
-      ],
+      ]
     },
 
     repo: 'Kokanu/vuepress-docs',
