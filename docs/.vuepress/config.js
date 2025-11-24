@@ -86,16 +86,6 @@ export default defineUserConfig({
             'wi.md'
           ]
         }
-      ],
-      '/texts/': [
-        {
-          text: 'Texts',
-          children: [
-            'README.md',
-            'lanki-je-lipu-namu.md'
-            // add more texts later
-          ]
-        }
       ]
     },
 
