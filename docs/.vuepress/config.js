@@ -97,7 +97,7 @@ export default defineUserConfig({
           ],
         },
       ]
-    },
+    }
 
     repo: 'Kokanu/vuepress-docs',
   }),
