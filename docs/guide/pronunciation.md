@@ -41,7 +41,6 @@ For people familiar with it read up on the IPA symbols below.
 
 <details>
   <summary><strong>International Phonetic Alphabet (IPA)</strong></summary>
-### International Phonetic Alphabet (IPA)
 
 Each letter has a preferred IPA value, but variation is allowed to make Kokanu friendly to a wide range of native-language accents:
 
@@ -69,7 +68,7 @@ Some vowel or consonant pairs that sound very similar across languages are never
 
 ### Stress
 
-Stress is **always** on the **first syllable** of a word.
+Correct stress is not required to be understood, but it is recommended to stress the **first syllable** of a word.
 
 **pe**ko — **PEH**-ko meaning hello/bye/please/thank you/sorry  
 **ma**ni — **MAH**-ni meaning money
