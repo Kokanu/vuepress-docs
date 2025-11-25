@@ -8,29 +8,21 @@ description: Describing digits, numbers and basic operations in Kokanu
 
 These are the words that all numbers in Kokanu are built from: 
 
-ɕ̄ - $wan "one, 1"
-
-ɵ - $ha "two, 2"
-
-ɤ̄ - $san "three, 3"
-
-ƨ̄xſ - $nanku "four, 4"
-
-ʋıɞ - $lima "five, 5"
-
-ʋʃxſ - $loku "six, 6"
-
-ɤȷʌ̄ - $setan "seven, 7"
-
-oȷʌſ - $etu "eight, 8"
-
-ɤx - $saka "nine, 9"
-
-ʌıɂſ - $tiju "ten, 10"
-
-ɤıɂ̄ȷ - $sijen "(one) hundred, 100"
-
-ɛ̄ʃ - $con "(one) thousand, 1000"
+| Likanu | Latin Script | Numeral | English |
+|--------|--------------|---------|---------|
+| ɕ̄      | $wan         | 1       | one     |
+| ɵ      | $ha          | 2       | two     |
+| ɤ̄      | $san         | 3       | three   |
+| ƨ̄xſ    | $nanku       | 4       | four    |
+| ʋıɞ    | $lima        | 5       | five    |
+| ʋʃxſ   | $loku        | 6       | six     |
+| ɤȷʌ̄    | $setan       | 7       | seven   |
+| oȷʌſ   | $etu         | 8       | eight   |
+| ɤx     | $saka        | 9       | nine    |
+| ʌıɂſ   | $tiju        | 10      | ten     |
+| ɤıɂ̄ȷ   | $sijen       | 100     | hundred |
+| ɛ̄ʃ     | $con         | 1000    | thousand|
+| ɵ̄ȷ     | $hen         | x10^    | times ten to the power of |
 
 When building phrases to express numbers, number words that follow ʌıɂſ $tiju don't act as modifiers, as would normally be the case in Kokanu, they simply add a unit number on.
 
