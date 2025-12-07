@@ -187,8 +187,10 @@ $wi and $mu are markers that apply to an arbitrary amount of words (often one, b
 
 |Likanu|Latin script|English|
 |-|-|-|
-| ɤıx̄ı ɕı ƨʃ xʃƨ̄ȷ | sikin wi no konen | improbable event |
-| ɤıx̄ı ɕı ƨʃ xʃƨ̄ȷ | kuwosi wi no makan | inedible fruit |
+| ɤıx̄ı xʃƨ̄ȷ{.yellow} | sikin konen{.yellow} | probable event |
+| ɤıx̄ı ɕı{.green} ƨʃ{.magenta} xʃƨ̄ȷ{.yellow} | sikin wi{.green} no{.magenta} konen{.yellow} | improbable event |
+| xſɕʃɤı ɞx̄{.yellow} | kuwosi makan{.yellow} | edible fruit |
+| xſɕʃɤı ɕı{.green} ƨʃ{.magenta} ɞx̄{.yellow} | kuwosi wi{.green} no{.magenta} mkaan{.yellow} | inedible fruit |
 
 For more information, see [the page on wi](special-words/wi.md).
 
