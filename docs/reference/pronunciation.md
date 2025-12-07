@@ -7,7 +7,7 @@ description: Reference for Kokanu phonology and orthography
 
 Currently, Kokanu is written in two main writing systems:
 - Latin script: This writing system is familiar to many people and easily used in many situations, but it is not culturally neutral and gives an advantage to people who already know the writing system.
-- Likanu: This is a new writing system created for Kokanu. While it is designed to work in almost every situation that supports Unicode, it may be difficult to use for people who do not have access to a Likanu keyboard. However, it is culturally neutral and fits well with Kokanu's syllable structure.
+- Likanu: This is a new writing system created for Kokanu. While it is designed to work in almost every situation that supports Unicode, it may be difficult to use for people who do not have access to a Likanu keyboard. However, it is culturally neutral and fits well with Kokanu's syllable structure. (and it's also fun!)
 
 There are other writing systems used by some, but these two writing systems are the only ones with official status.
 
