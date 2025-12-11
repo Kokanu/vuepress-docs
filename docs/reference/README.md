@@ -5,13 +5,13 @@ description: Explanation of what Kokanu is, and the Kokanu development process
 ---
 
 # What is Kokanu
-Kokanu is an attempt to make a constructed [international auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language#Writing_systems). In short, a constructed International Auxiliary Language (IAL) is a constructed (non natural) language that is supposed to serve as the language that people from all around the world learn to communicate with one another. Often, these languages are supposed to be made as easy to learn as possible, while still being flexible and having maximal utility.
+Kokanu is an attempt to make a constructed [international auxiliary language](https://en.wikipedia.org/wiki/International_auxiliary_language#Writing_systems). In short, a constructed International Auxiliary Language (IAL) is a constructed (non-natural) language that is supposed to serve as the language that people from all around the world learn to communicate with one another. Often, these languages are supposed to be made as easy to learn as possible, while still being flexible and having maximal utility.
 
-Kokanu takes a unique approach to this problem, as outlined in our [principles](#principles). The main thing that separates Kokanu from the other attempts, is its emphasis on minimalism, apparent most in its vocabulary. A word is not added to the dictionary unless absolutely necessary. The current dictionary has less than 400 words, and so a dedicated person can learn _all_ the words with an mind-blowingly less amount of effort as compared to a natural language, or a non-minimalist constructed IAL.
+Kokanu takes a unique approach to this problem, as outlined in our [principles](#principles). The main thing that separates Kokanu from the other attempts is its emphasis on minimalism, apparent most in its vocabulary. A word is not added to the dictionary unless absolutely necessary. The current dictionary has less than 400 words, and so a dedicated person can learn _all_ the words with a mind-blowingly less amount of effort as compared to a natural language, or a non-minimalist constructed IAL.
 
-The minimalism in the language is inspired by [toki pona](https://en.wikipedia.org/wiki/Toki_Pona), which served as the initial source of "Toki Ma" in mid 2020. Toki Pona is a minimalist language with as low as 120 words, and has a community in the thousands of speakers. It has significantly different principles from that of an IAL, however, and as such has many gaps (some intentional, like numbers) in precise communication. With toki pona as the initial starting point, the language has developed (see [How Kokanu is being Developed](#how-kokanu-is-being-developed)) to be more aligned with our principles.
+The minimalism in the language is inspired by [toki pona](https://en.wikipedia.org/wiki/Toki_Pona), which served as the initial source of "Toki Ma" in mid 2020. Toki Pona is a minimalist language with as low as 120 words, and has a community in the thousands of speakers. It has significantly different principles from that of an IAL however, and as such has many gaps (some intentional, like numbers) in precise communication. With toki pona as the initial starting point, the language has developed (see [How Kokanu is being Developed](#how-kokanu-is-being-developed)) to be more aligned with our principles.
 
-Currently, we have a stable version that is guaranteed to not change till September 2026. You can learn the language on this website.
+Currently, we have a stable version that is guaranteed to not change until September 2026. You can learn the language on this website!
 
 # How Kokanu is being Developed
 
@@ -20,7 +20,7 @@ While the seeds of Kokanu were first planted in mid 2020 as Toki Ma, early devel
 
 Ever since 2021, to now, 2025, a lot of work is put in to practice, and iterate on the language.
 
-In 2023, for example, the entire vocabulary of the language was reworked, mostly because the parent language toki pona did not have vocabulary that met the principle of Neutrality. This is also when "toki ma" was changed into Kokanu, an abbreviation "te kota kan usen", meaning "To talk with each other".
+In 2023, for example, the entire vocabulary of the language was reworked, mostly because the parent language toki pona did not have vocabulary that met the principle of Neutrality. This is also when "toki ma" was changed into Kokanu, an abbreviation "te kota kan usen", meaning "to talk with each other".
 
 ## The Discord Committee
 Decisions are taken by the Discord Committee. Anyone can join to be a member ([Discord Invite](https://discord.gg/fMAfGRkGvQ))
@@ -30,10 +30,9 @@ There are ongoing talks in the committee to add more sub-structure, but as of no
 The current plan to a stable beta release, as voted on by the Discord Committee in early 2025, is as such:
 - Finish Grammar discussions (DONE)
 - Finalize Grammar till Beta release (DONE)
-- Finish Vocabulary and Word-Labelling discussions (IN PROGRESS, Estimated to be done in April 2025)
-
-- Finalize an Alpha Release (for limited use only, vocab and labelling to be changed)
-- Extensively use Alpha version of Kokanu
+- Finish Vocabulary and Word-Labelling discussions (DONE)
+- Finalize an Alpha Release (DONE)
+- Extensively use Alpha version of Kokanu (IN PROGRESS, Alpha period will be over by September 2026)
 - Create a whole host of vocab/labelling discussions based on usage
 - Iterate through the new discussions in a high throughput manner
 - Finalize and release a Beta version of Kokanu
@@ -68,7 +67,7 @@ These discussions are still very subjective, but these rules give a structure to
 
 Necessity and preciseness are based on precedent and other words that are admitted under normal clause.
 
-For example, we did not have a word for think, we needed to say some compound "feel" or "know" or "head". So we added a word for think (this word is now kanisa)
+For example, we did not have a word for think, we needed to say some compound "feel" or "know" or "head". So we added a word for think. (this word is now kanisa)
 
 Note: This does not mean the word needs to be said in a single word or a short compound.
 
