@@ -107,22 +107,25 @@ Like *la*, *no* can be placed in different spots, with nuanced changes in meanin
 
 ## 6.4 **lun**
 
-*lun* only comes before **intransitive verbs**.  
+*lun* converts any content word into a verb meaning either "to make [X] [content word]" *or* "to make [X] [content word]-like". Whichever of those meanings is used depends on context, however when used with base nouns or base modifiers, it usually means the same thing as their base.
 
 **Formula:**  
-**lun [intransitive verb] in [x]** → “to make [x] [verb]” / “to cause [x] to [verb]”
+**lun [content word] in [X]** → “to make [X] [content word]/[content word]-like”
 
 **Examples:**
 
 | Kokanu phrase                              | Meaning                                 |
 |--------------------------------------------|-----------------------------------------|
-| **tu le lun lo in mi**                     | you move me / you cause me to move      |
-| **nin le lun pansin in kumi**              | a person makes the plastic rectangular  |
+| **tu le lun lo in mi**                     | you move me / you cause me to be moving      |
+| **nin le lun pansin in kumi**              | a person makes the plastic a square  |
+| **mi le lun makan in sin**              | I make the thing food/edible  |
+
+Notice here how **lun lo** means “to cause to be moving” and not “to be cause to be movement”. Also notice how **lun pansin** means “to cause to be a rectangle” and not “to cause to be rectangle-like”. Although both of these things *can* mean the other (i.e. **lun lo** can technically grammatically mean “to cause to be movement”), they very rarely do. However, since base verbs don't have this property, whether they mean “to cause to be [noun meaning]” or “to cause to be [modifier meaning]” is entirely up to context. If further disambiguation is needed, *wi* and *wen* can be used, which will be described later.
 
 ::: tip New Words
 - **lo** = moving  
 - **nin** = person  
-- **pansin** = rectangle / rectangular  
+- **pansin** = rectangle
 - **kumi** = plastic  
 :::
 
