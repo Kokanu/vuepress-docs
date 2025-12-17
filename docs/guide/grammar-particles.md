@@ -237,7 +237,7 @@ To directly **compare** two things, the second one goes between *mese/menu* and 
 ## 6.7 **wi**
 
 We have already learned how word derivations work and how, for example, to use nouns as verbs. But we do not yet have full control over derivations. We cannot say "I'm visible" directly. *mi le teka* would mean "I see".
-To express "I am visible", we need to **first** force *teka* to be a **modifier** and then use that modifier as a verb. This is done with ***wi***. *wi* takes the next word or phrase and converts it into a modifier. It is then interpreted just like a base modifier.
+To express "I am visible", we need to **first** force *teka* to be a **modifier** and then use that modifier as a verb. This is done with ***wi***. *wi* takes the next word or phrase and converts it into a base modifier. It is then interpreted just like how a base modifier would be.
 
 **Examples:**
 
@@ -245,10 +245,12 @@ To express "I am visible", we need to **first** force *teka* to be a **modifier*
 | --------------------------- | --------------------------------------------------------------- |
 | **mi le wi teka**           | I am visible                                                    |
 | **ne nin le wi konpute la** | That person is computer-like! / That person is like a computer! |
+| **wi makan le wi sankan** | Edibility is important |
 
 \::: tip New Words
 
 * **konpute** = computer
+* **sankan** = important
   \:::
 
 With a modifier, *wi* is generally redundant. However, as a particle, it can be negated with *no*.
