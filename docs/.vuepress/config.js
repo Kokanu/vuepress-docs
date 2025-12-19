@@ -100,7 +100,8 @@ export default defineUserConfig({
     },
 
     repo: 'Kokanu/vuepress-docs',
-    editLinkPattern: ':repo/-/edit/:branch/:path',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path',
   }),
 
   bundler: viteBundler(),
