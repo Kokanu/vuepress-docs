@@ -120,12 +120,16 @@ Like *la*, *no* can be placed in different spots, with nuanced changes in meanin
 | **nin le lun pansin in kumi**              | a person makes the plastic a square  |
 | **mi le lun makan in sin**              | I make the thing food/edible  |
 
-Notice here how **lun lo** means “to cause to be moving” and not “to be cause to be movement”. Also notice how **lun pansin** means “to cause to be a rectangle” and not “to cause to be rectangle-like”. Although both of these things *can* mean the other (i.e. **lun lo** can technically grammatically mean “to cause to be movement”), they very rarely do. *lo* is a base modifier, and *pansin* is a base noun, so most of the time, *lun lo* will be interpreted in the modifier way, and *lun pansin* will be interpreted in the noun way. However, since base verbs don't have this property, whether they mean “to cause to be [noun meaning]” or “to cause to be [modifier meaning]” is entirely up to context. If further disambiguation is needed, *wi* and *wen* can be used. The exact reasons for why *wi* and *wen* can be used in this way will be shown later when you learn how both of them actually work.
+Notice here how **lun lo** means “to cause to be moving” and not “to be cause to be movement”. Also notice how **lun pansin** means “to cause to be a rectangle” and not “to cause to be rectangle-like”. Although both of these things *can* mean the other (i.e. **lun lo** can technically grammatically mean “to cause to be movement”), they very rarely do. Since base verbs don't have a default lean, whether they mean “to cause to be [noun meaning]” or “to cause to be [modifier meaning]” is entirely up to context.
+
+In any case, if further disambiguation is needed, *wi* and *wen* can be used. The exact reasons for why *wi* and *wen* can be used in this way will be shown later when you learn how both of them actually work.
 
 | Kokanu phrase                              | Meaning                                 |
 |--------------------------------------------|-----------------------------------------|
 | **mi le lun wen lo in ja**                     | I cause it to be movement      |
 | **nin le lun wi pansin in kumi**              | a person makes the plastic square-like  |
+| **ja le lun wen makan in pata**                     | they turn the document into food      |
+| **ja le lun wi makan in pata**                     | they make the document edible     |
 
 ::: tip New Words
 - **lo** = moving  
