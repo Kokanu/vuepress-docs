@@ -100,6 +100,7 @@ export default defineUserConfig({
     },
 
     repo: 'Kokanu/vuepress-docs',
+    docsRepo: 'Kokanu/vuepress-docs/docs',
   }),
 
   bundler: viteBundler(),
