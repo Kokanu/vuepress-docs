@@ -107,7 +107,7 @@ Like *la*, *no* can be placed in different spots, with nuanced changes in meanin
 
 ## 6.4 **lun**
 
-*lun* converts any content word into a verb meaning either "to make [X] [content word]" *or* "to make [X] [content word]-like". Whichever of those meanings is used depends on context, however when used with base nouns or base modifiers, it usually means the same thing as their base.
+*lun* converts any content word into a verb meaning either "to make [X] [content word]" (noun meaning) *or* "to make [X] [content word]-like" (modifier meaning). Whichever of those meanings is used depends on context, however when used with base nouns or base modifiers, it usually means the same thing as their base.
 
 **Formula:**  
 **lun [content word] in [X]** → “to make [X] [content word]/[content word]-like”
@@ -120,7 +120,7 @@ Like *la*, *no* can be placed in different spots, with nuanced changes in meanin
 | **nin le lun pansin in kumi**              | a person makes the plastic a square  |
 | **mi le lun makan in sin**              | I make the thing food/edible  |
 
-Notice here how **lun lo** means “to cause to be moving” and not “to be cause to be movement”. Also notice how **lun pansin** means “to cause to be a rectangle” and not “to cause to be rectangle-like”. Although both of these things *can* mean the other (i.e. **lun lo** can technically grammatically mean “to cause to be movement”), they very rarely do. However, since base verbs don't have this property, whether they mean “to cause to be [noun meaning]” or “to cause to be [modifier meaning]” is entirely up to context. If further disambiguation is needed, *wi* and *wen* can be used. The exact reasons for why *wi* and *wen* can be used in this way will be shown later when you learn how both of them actually work.
+Notice here how **lun lo** means “to cause to be moving” and not “to be cause to be movement”. Also notice how **lun pansin** means “to cause to be a rectangle” and not “to cause to be rectangle-like”. Although both of these things *can* mean the other (i.e. **lun lo** can technically grammatically mean “to cause to be movement”), they very rarely do. *lo* is a base modifier, and *pansin* is a base noun, so most of the time, *lun lo* will be interpreted in the modifier way, and *lun pansin* will be interpreted in the noun way. However, since base verbs don't have this property, whether they mean “to cause to be [noun meaning]” or “to cause to be [modifier meaning]” is entirely up to context. If further disambiguation is needed, *wi* and *wen* can be used. The exact reasons for why *wi* and *wen* can be used in this way will be shown later when you learn how both of them actually work.
 
 | Kokanu phrase                              | Meaning                                 |
 |--------------------------------------------|-----------------------------------------|
@@ -250,7 +250,7 @@ To express "I am visible", we need to **first** force *teka* to be a **modifier*
 | --------------------------- | --------------------------------------------------------------- |
 | **mi le wi teka**           | I am visible                                                    |
 | **ne nin le wi konpute la** | That person is computer-like! / That person is like a computer! |
-| **wi makan le wi sankan** | Edibility is important |
+| **wi makan le sankan** | Edibility is important |
 
 \::: tip New Words
 
