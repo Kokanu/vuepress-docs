@@ -24,29 +24,56 @@ $pawo **$cenpo** **$mi** $le $tope.<br>
 $in $makan $satu $canu $cenpo $le $makan.<br>
 "A **large** **ice** cream is eaten."  
 
-> in (((makan satu) canu) lan) le makan.
+> in (((makan satu) canu) cenpo) le makan.
 
 **Noun phrase**: *makan satu canu cenpo*
 
 Modifiers chain together and are attributes for the **entire preceding phrase**, not just the previous modifier. *satu* applies to *makan*, *canu* applies to *makan **satu***, so now *cenpo* applies to the entire phrase *makan satu canu*, not just to *canu*.
 
-So how would you instead say "a _very cold_ candy"? For that, we need to _regroup_ the modifiers using the **genitive preposition** marker $je.
+So how would you instead say "a _very cold_ candy"? For that, we need to _regroup_ the modifiers using the **base-modifier forcing derivational marker** $wi.
 
-### Genitive Preposition
+### wi Regrouping
 
-The **preposition** marker je is used for **genitive** relationships. Think of the **genitive** as relating one thing as an attribute to another. The best equivalence in English is the word "of". The words that are directly after the marker are a new **noun phrase** that is some kind of attribute of the **noun phrase** directly preceding the marker.  For this reason, the **genitive** **preposition** marker is also considered a **regrouping** marker.
+The derivational marker $wi is used to convert words into their modifier meaning, and make them a base modifier. This is already explained on $wi's page, so it will not be explained in detail here. However, another ability of $wi is the ability to regroup modifiers. Any words that modify the word that comes after $wi, first apply to the $wi word, get converted into their modifier meaning, and then get applied to the rest of the phrase. What this means is that you can modify modifiers with what are essentialy adverbs, as they modify the modifier that is getting applied to the noun phrase.
 
-$nin $tope $lan - "many good people"  
+Therefore, the grouping for a sentence like:
+$mi $in $sin $wi $tope $lan $le $suki.
+"I like the very good thing."
+
+Would be this:
+> mi in (sin (wi tope (lan))) le suki.
+
+This allows quantity words to be able to define the intensity of certain adjectives. Here are a few examples:
+
+wi tope jati - "somewhat good"
+wi tope lan - "very good"
+wi tope menu - "less good"
+wi tope mese - "more good / better"
+wi tope ani - "the most good / best"
+
+This kind of modification may also be done with $je, the genitive marker. In a very similar way to how $wi works, if quantity words saying intensity come after the word that $je regroups, it will be assumed that that word is being modified by those quantity words, and is acting as a modifier.
+
+$sin $je $tope $lan, while grammatically meaning "the thing of very goodness", semantically is basically the same as saying $sin **$wi** $tope $lan, but just with a different particle.
+
+However, if a quantity word does *not* come after a word after $je, it is not interpreted as this way. $je is not just a regrouping particle, but is instead a genitive marker.
+
+### Genitive Marker
+
+The **genitive** marker $je is used for **genitive** relationships. Think of the **genitive** as relating one thing as an attribute to another. The best equivalence in English is the word "of". The words that are directly after the marker are a new **noun phrase** that is some kind of attribute of the **noun phrase** directly preceding the marker.  For this reason, the **genitive** marker is also considered a **regrouping** marker.
+
+$lan $nin $tope - "many good people"  
   
 $nin $je $tope $lan - literally "person (or people) of much goodness", or "a very good person"
 
-By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ which now begins a new **noun phrase** which is further modified by $lan. This new **noun phrase** (_much goodness_) is now an attribute of the preceding **noun phrase** (_person_).
+By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ which now begins a new **noun phrase** which is further modified by $lan. This new **noun phrase** (_much goodness_) is now an attribute of the preceding **noun phrase** (_person_). Keep in mind, $wi may also be used here for this same purpose.
+
+However, unlike $je, $wi cannot be chained to itself.
 
 * * *
 
 ### Kinds of Genitive Attribution
 
-Using the genitive preposition marker is also good for creating many different relationships between two **noun phrases**. What these relationships are differs depending on the context and the words chosen. All of the below genitive relationships were gathered from various forms of genitive attribution from around the world. Not every example is directly translated into English and often English makes use of alternative prepositions like "with", "by", and "for". Kokanu only has those kinds of prepositions attached to a main or subordinate clause of a sentence (essentially, they must be tied to a verb). But equipped with the simple $je preposition, context and supporting word choices, you can effectively communicate all of these genitive relations. If after all of that, your listener/reader still does not understand, you can make use of clarifying words to clarify the specific meaning you were trying to achieve.
+Using the genitive marker marker is also good for creating many different relationships between two **noun phrases**. What these relationships are differs depending on the context and the words chosen. All of the below genitive relationships were gathered from various forms of genitive attribution from around the world. Not every example is directly translated into English and often English makes use of alternative prepositions like "with", "by", and "for". Kokanu only has those kinds of prepositions attached to a main or subordinate clause of a sentence (essentially, they must be tied to a verb). But equipped with the simple $je marker, context and supporting word choices, you can effectively communicate all of these genitive relations. If after all of that, your listener/reader still does not understand, you can make use of clarifying words to clarify the specific meaning you were trying to achieve.
 
 #### Descriptive Genitive
 
@@ -322,7 +349,7 @@ $mi $un $Ocota $le $amo $in $usen (lit. I and God love each other)
 
 ### Chains of je
 
-Unlike modifiers, a noun phrase containing multiple genitive prepositional markers do not chain onto each other from _left to right_. It is considered an _immediate_ relationship between the two noun phrases on either side of the marker and so chaining occurs from _right to left_ with each successive completed je-phrase being attached to the noun or $je within the outer phrase (to the left).
+Unlike modifiers, a noun phrase containing multiple genitive markers do not chain onto each other from _left to right_. It is considered an _immediate_ relationship between the two noun phrases on either side of the marker and so chaining occurs from _right to left_ with each successive completed je-phrase being attached to the noun or $je within the outer phrase (to the left).
 
 $niwa $je $matuwa $je $matuwa $mi - "My grandparent's house", grouped as "(house of (the parent of my parent))"  
   
@@ -332,11 +359,11 @@ $jan $je $insu $je $makan - "restaurant location", grouped as "(place of (the h
 
 When using je after a verb, the je\-phrase acts like an **adverbial phrase**, just like any other modifier would on a verb. Adverbial phrases can be used to describe several different genitive relationships.
 
-$mi $le $kota $je $sema $lan - "I talk **loudly**", literally "I talk **of much volume**"
+$mi $le $kota $wi $sema $lan - "I talk **loudly**", literally "I talk **of much volume**"
 
 Due to context playing a major part in our understanding of Kokanu sentences, this sentence wouldn't be perceived as saying "I talk **about** much volume". The phrase "of much volume" describes **the manner in which the talking occurs**. This attached genitive phrase describes something that would typically be construed as being a detail of manner (Genitive of Means) instead of discussion material (Objective Genitive). If you want to clarify that you are talking "about" something, you can use the verb husu:
 
-$mi $le $kota $je $husu $je $sema $lan (lit. I talk of concern of much volume)
+$mi $le $kota $je $husu $wi $sema $lan (lit. I talk of concern of much volume)
 
 ### Collapsing Noun Phrases
 
@@ -350,7 +377,7 @@ $jan $je $kawa $je $insu $je $makan - "place of restaurant garbage"...?
 
 Grouped as "place of (dirtiness of (building of food))"
 
-There's another preposition marker called the noun phrase collapsing preposition marker ( $wa ). It can be used to resolve this problem. $wa _collapses_ the part of a noun phrase before it and treats it as if it is one complete noun phrase.
+There's another particle called the noun phrase collapsing particle: $wa. It can be used to resolve this problem. $wa _collapses_ the part of a noun phrase before it and treats it as if it is one complete noun phrase. This means that adding modifiers, genitive markers, and anything else that you can do with a regular noun phrase, you can do with a noun phrase collapsed by $wa. $wa can also do this with $wi.
 
 There are a few rules that you must understand to make proper usage of wa:
 
@@ -358,8 +385,8 @@ There are a few rules that you must understand to make proper usage of wa:
 *   A $ta / $te clause directly after $wa is to be interpreted as a **relative clause**, not a **subordinate clause**.
 *   It causes the **modifier** (or chain) or **relative clause** after it to act on all (or any amount) of the previous elements of the chain before it.
 *   The two markers can be combined as $wa $je and be used to have a content word in its **noun** form act on the whole of the chain before it.
-*   This marker _does not regroup_ like the genitive preposition marker.
-*   You cannot negate a wa particle just as you cannot insert negations inside of a modifier chain.
+*   This marker _does not regroup_ like the genitive marker.
+*   You cannot negate a $wa particle just as you cannot insert negations inside of a modifier chain.
 
 $jan $je $kawa $wa $je $insu $je $makan - "restaurant bathroom" ((place of dirtiness) of (building of food))
 
