@@ -67,8 +67,6 @@ $nin $je $tope $lan - literally "person (or people) of much goodness", or "a ver
 
 By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ which now begins a new **noun phrase** which is further modified by $lan. This new **noun phrase** (_much goodness_) is now an attribute of the preceding **noun phrase** (_person_). Keep in mind, $wi may also be used here for this same purpose.
 
-However, unlike $je, $wi cannot be chained to itself.
-
 * * *
 
 ### Kinds of Genitive Attribution
