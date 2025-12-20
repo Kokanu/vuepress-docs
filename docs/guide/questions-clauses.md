@@ -131,7 +131,8 @@ Closers are: **comma (,)**, **hu**, or **wa**.
 
 ### **Relative Clauses**
 
-A *ta*-clause follows the word it describes. Inside, **ja** refers back to that word.
+A *ta*-clause follows the word it describes. Inside, **ja** refers back to that word. If the clause ends with a sole **ja** in a preposition, that **ja** can be dropped.
+A relative clause must describe the relation between the clause and the word that it describes. "nin ta mi le suki" is incomplete, because it doesn't explain how "mi le suki" and "nin" are related to each other. The correct way would be "nin ta mi le suki in (ja)".
 
 **Examples:**
 
