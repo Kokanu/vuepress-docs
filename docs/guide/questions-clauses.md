@@ -177,9 +177,16 @@ Clauses can be closed in multiple ways, sometimes stacking multiple closers to a
 
 ### **Indirect Questions**
 
-Indirect questions are formed by replacing **ta** with **ka**:
+Indirect questions are formed by adding **ka** into a *ta*-clause. Just like with regular questions, it can go at the beginning and at the end of the clause. ::: warning
+If your sentence ends with **ka** at the end of a *ta*-clause, some ambiguity can arise. Make sure to close the *ta*-clause in order to ask a regular question, or put *ka* at the start of the sentence or clause instead to avoid this.
+:::
 
-- *tu le solu ka mi le makan* → “You ask whether I eat.”
+| Kokanu phrase                      | Meaning                      |
+|------------------------------------|------------------------------|
+| **tu le solu ta ka mi le makan** |  You ask whether I eat.  |
+| **mi le no wisan ta ka mi le suki in na nin** | I don't know whether I like that person. |
+| **mi le no wisan ta mi le suki in na nin ka** | I don't know whether I like that person. |
+| **mi le no wisan ta mi le suki in na nin hu, ka** | Do I not know that I like that person? |
 
 ---
 
