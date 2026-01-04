@@ -171,9 +171,13 @@ Specifies the attached genitive phrase as being another separate way to to expla
 
 $tene $je $makan "gift which is food" (lit. gift of food)
 
-You can clarify this genitive relationship by using a subordinate clause in the attached genitive phrase:
+You can clarify this genitive relationship by using a subordinate clause:
 
-$nin Alese $je $te $nin $suki $je $mi "Alice, which is a friend of mine" (lit. person Alice of which they are a likable person of me)
+$Alese $te $nin $suki $je $mi "Alice, which is a friend of mine" (lit. person Alice of which they are a likable person of me)
+
+Or by using $wen:
+
+$nin $wen $pan $tomiwa $je $salila $le $teka $in $muku $mi "the person that is a doctor looks at my mouth"
 
 #### Genitive of Destination/Purpose
 
@@ -183,7 +187,7 @@ $pata $je $nin $neso "children's books" (lit. documents of young people)
 
 You can clarify this genitive relationship by using a subordinate clause with an inner po clause:
 
-$pata $je $te $po $nin $neso (lit. document that is existing for young people)
+$pata $te $po $nin $neso (lit. document that exists for young people)
 
 #### Genitive of Production
 
@@ -205,6 +209,12 @@ You can clarify that a genitive relationship is Product by using $mu $pon:
 
 $tasuwi $lo $je $mu $pon $je $osole (lit. moving picture of causer of fear)
 
+Or by using a subordinate clause
+
+$tasuwi $lo ($je)* $te $pon $in $osole (lit. moving picture that causes fear)
+
+*je doesn't change the meaning much semantically, but may change it pragmatically. Adding "je" has the connotation of the moving picture generally causing fear, whereas dropping "te" has more of a connotation that the moving picture is causing fear *right now*, or at some other referenced point of time within the conversation (whatever that might be without the context). This is a general rule that applies to "je te" vs just "te" formations when using subordinate clauses on a noun phrase
+
 #### Genitive of Separation
 
 Specifies that the preceding phrase is separate from the attached genitive phrase. "out of", "away from" ,or simply "from" are equivalent English expressions.
@@ -213,7 +223,7 @@ $tula $tula $je $ja "far from them" (lit. far distance of them)
   
 $lipan $je $ukama $honja "clear from wild plants" (lit. absence of wild plants)
 
-You can clarify that a genitive relationship is Separation by using a subordinate clause with pijen and $sun:
+You can clarify that a genitive relationship is separation by using a subordinate clause with $pijen and $sun:
 
 $lipan $je $te $pijen $sun $ukama $honja (lit. absence of which is becoming from wild plants)
 
@@ -227,7 +237,7 @@ $namu $je $insu $cune "wood derived from the old building" (lit. wood of old bui
 
 You can clarify that a genitive relationship is Source by using a subordinate clause with se and $sun:
 
-$namu $je $te $sun $insu $cune (lit. wood of which is from old building)
+$namu $te $sun $insu $cune (lit. wood of which is from old building)
 
 #### Genitive of Price/Value
 
@@ -248,32 +258,32 @@ Specifies the time or duration of the preceding phrase. "during", "at", "within"
 $tun $je $etu $osa $kin "work for eight hours" (lit. action of eight day parts)  
   
 $ten $te $makan, $je $osa $setan "breakfast at seven o'clock" (lit. time of eating of the seventh hour)  
-  
-$lo $je $nelo $osa $je $kin "movement during the night" (lit. movement of the dark part of the day)
 
 You can clarify that a genitive relationship is Time by using ten:
 
 $tun $je $ten $je $etu $osa $kin (lit. action of time of eight day parts)
 
-You can also clarify this relationship using a subordinate clause and an:
+$lo $je $ten $nelo $je $kin "movement during the night" (lit. movement of the dark time of the day)
 
-$lo $je $te $an $nelo $osa $je $kin (lit. movement of which is at the dark part of day)
+You can also clarify this relationship using a subordinate clause and $pi:
+
+$lo $je $te $pi $ten $nelo $je $kin (lit. movement of which is at the dark time of day)
 
 #### Genitive of Place
 
-Specifies a vague local relation to the preceding phrase. "in", "at", "through", "over" are equivalent English expressions. The attached genitive phrase must contain concepts of location. Often uses the words opotu or sekano.
+Specifies a vague local relation to the preceding phrase. "in", "at", "through", "over" are equivalent English expressions. The attached genitive phrase must contain concepts of location. Often uses the words $opotu or $sekano.
 
 $niwa $je $honja "cabin in the woods" (lit. residence of the wilderness)  
   
-$mi $le $lo $je $pumi $pani $ki $sinsi "I travel through the marsh to the city" (lit. I am moving of wet land to the city)
+$mi $le $lo $wija $pumi $pani $ki $sinsi "I travel through the marsh to the city" (lit. I am moving via wet land to the city)
 
 You can clarify that a genitive relationship is Place by using $jan:
 
 $niwa $je $jan $je $honja (lit. residence of place of wilderness)
 
-You can also clarify this relationship using a subordinate clause and an:
+You can also clarify this relationship using a subordinate clause and $pi:
 
-$niwa $je $te $an $honja (lit. residence of which is at the wilderness)
+$niwa $je $te $pi $honja (lit. residence of which is at the wilderness)
 
 #### Genitive of Means
 
