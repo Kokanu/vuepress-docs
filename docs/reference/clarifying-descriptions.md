@@ -30,11 +30,13 @@ $in $makan $satu $canu $cenpo $le $makan.<br>
 
 Modifiers chain together and are attributes for the **entire preceding phrase**, not just the previous modifier. *satu* applies to *makan*, *canu* applies to *makan **satu***, so now *cenpo* applies to the entire phrase *makan satu canu*, not just to *canu*.
 
+Another way to think of this is that each modifier individually applies to the head noun. So the modifiers in the phrase *makan satu canu cenpo*, are all saying that the *makan* is *satu*, *canu*, and *cenpo*.
+
 So how would you instead say "a _very cold_ candy"? For that, we need to _regroup_ the modifiers using the **base-modifier forcing derivational marker** $wi.
 
 ### wi Regrouping
 
-The derivational marker $wi is used to convert words into their modifier meaning, and make them a base modifier. This is already explained on $wi's page, so it will not be explained in detail here. However, another ability of $wi is the ability to regroup modifiers. Any words that modify the word that comes after $wi, first apply to the $wi word, get converted into their modifier meaning, and then get applied to the rest of the phrase. What this means is that you can modify modifiers with what are essentialy adverbs, as they modify the modifier that is getting applied to the noun phrase.
+The derivational marker $wi is used to convert words into a base modifier, and have the meaning of that base modifier be the modifier meaning of the base word. This is already explained on [$wi's page](./special-words/wi.md), so it will not be explained in detail here. However, another ability of $wi is the ability to regroup modifiers. Any words that modify the word that comes after $wi, first apply to the $wi word, get converted into their modifier meaning, and then get applied to the rest of the phrase. What this means is that you can modify modifiers with what are essentialy adverbs, as they form a single unit which modifies the adjective that is getting applied to the noun phrase.
 
 Therefore, the grouping for a sentence like:
 $mi $in $sin $wi $tope $lan $le $suki.
@@ -53,17 +55,17 @@ wi tope ani - "the most good / best"
 
 This kind of modification may also be done with $je, the genitive marker. In a very similar way to how $wi works, if quantity words saying intensity come after the word that $je regroups, it will be assumed that that word is being modified by those quantity words, and is acting as a modifier.
 
-$sin $je $tope $lan, while grammatically meaning "the thing of very goodness", semantically is basically the same as saying $sin **$wi** $tope $lan, but just with a different particle.
+$sin $je $tope $lan, while grammatically meaning "the thing of much goodness", semantically is basically the same as saying $sin **$wi** $tope $lan, but just with a different particle.
 
-However, if a quantity word does *not* come after a word after $je, it is not interpreted as this way. $je is not just a regrouping particle, but is instead a genitive marker.
+However, if a quantity word does *not* come after a word after $je, it is not interpreted as this way. $je is not just a regrouping particle, but is instead also a genitive marker.
 
 ### Genitive Marker
 
-The **genitive** marker $je is used for **genitive** relationships. Think of the **genitive** as relating one thing as an attribute to another. The best equivalence in English is the word "of". The words that are directly after the marker are a new **noun phrase** that is some kind of attribute of the **noun phrase** directly preceding the marker.  For this reason, the **genitive** marker is also considered a **regrouping** marker.
+The **genitive** marker $je is used for **genitive** relationships. Think of the **genitive** as relating one thing as an attribute to another. The best equivalence in English is the word "of". The words that are directly after the marker are a new **noun phrase** that is some kind of attribute of the **noun phrase** directly preceding the marker. For this reason, the **genitive** marker is also considered a **regrouping** marker.
 
-$lan $nin $tope - "many good people"  
-  
-$nin $je $tope $lan - literally "person (or people) of much goodness", or "a very good person"
+$lan $nin $tope - "many good people"
+
+$nin $je $tope $lan - literally "person of much goodness", or "a very good person"
 
 By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ which now begins a new **noun phrase** which is further modified by $lan. This new **noun phrase** (_much goodness_) is now an attribute of the preceding **noun phrase** (_person_). Keep in mind, $wi may also be used here for this same purpose.
 
@@ -113,7 +115,7 @@ $osa $wan $je $ha "first part which is part of two" (lit. first part of two)
 
 You can clarify a genitive relationship is partitive by using $osa:
 
-$jati ($je) $osa $je $makan (lit. some of parts of food)
+$jati $je $osa $je $makan (lit. some of the parts of food)
 
 #### Attributive Genitive
 
@@ -131,15 +133,15 @@ Specifies the preceding phrase as being an attribute or innate quality of the at
 
 $je $niku "weakness attributed to muscles" (lit. weakness of muscles)
 
-You could clarify this genitive relationship using $sanpanti again although some directional ambiguity would remain:
+You could clarify this genitive relationship using $lije again although some directional ambiguity would remain:
 
-$je $sanpanti $je $niku (lit. weakness of relation of muscles)
+$je $lije $je $niku (lit. weakness of relation of muscles)
 
 You could clarify this genitive relationship using $kun again although some directional ambiguity would remain:
 
 $je $kun $je $niku (lit. weakness of quality of muscles)
 
-You could clarify this genitive relationship using se $limijen:
+You could clarify this genitive relationship using $se $limijen:
 
 $je $se $limijen $je $niku (lit. weakness of inner existence of muscles)
 
