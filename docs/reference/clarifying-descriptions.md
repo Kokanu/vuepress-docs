@@ -303,29 +303,29 @@ $tun $takaha $je $hoton $cenpo $nelo "attack by means of a black bear" (lit. vio
 
 You can clarify this relationship using a subordinate clause and $wija:
 
-$tun $takaha $je $te $wija $hoton $cenpo $nelo (lit. violent action of which is by means of black large mammal)
+$tun $takaha $je $te $wija $hoton $cenpo $nelo (lit. violent action of which is via a black large mammal)
 
 #### Genitive of Reference
 
 Specifies a reference entity that helps better explain the preceding phrase. "with reference to" or "with respect to" are equivalent English expressions. This genitive can often be bettered expressed using the so thematic role marker.
 
-$mese $ten $je $tun $mi $te $pijen $te $pen "more time with respect to my studies" (lit. more time of my work of coming to understand)
+$mese $ten $je $ikasi $mi "more time with respect to my studies" (lit. more time of my study)
 
 You can clarify this relationship using a subordinate clause and so:
 
-$mese $ten $te $pen $so $ten $je $tun $sone (lit. more studying time compared to time of other actions)
+$mese $ten $te $po $ikasi $mi $so $tun $sone  (lit. more time that is for my studies compared to other work)
 
 #### Subjective Genitive
 
-Specifies or describes the subject of the preceding phrase when the preceding phrase is a verb phrase or a noun phrase that contains an action.  This genitive can always be converted into a sentence where the genitive noun phrase is the subject of the action. Some constructions could either be subjective or objective genitive but context can help identify the appropriate type.
+Specifies or describes the subject of the preceding phrase when the preceding phrase is a verb phrase or a noun phrase that contains an action. This genitive can always be converted into a sentence where the genitive noun phrase is the subject of the action. Some constructions could either be subjective or objective genitive but context can help identify the appropriate type.
 
 $kota $je $nin $mu $hapijo "speech of the announcer" (lit. speech of the announcer person)  
   
 $lo $je $micin $cenpo "movement of whales" (lit. movement of big sea creatures)
 
-You can clarify this genitive relationship by replacing the whole relation with a subordinate noun clause while describing the subject:
+You can clarify this genitive relationship by replacing the whole relation with a noun phrase and a subordinate clause:
 
-$ta $micin $cenpo $le $lo, ... (lit. big sea creatures which are moving)
+$lo $te $nenka $micin $cenpo, ... (lit. movement that is because of big sea creatures)
 
 You can also clarify this genitive relationship with $pon:
 
@@ -335,25 +335,25 @@ $lo $je $pon $je $micin $cenpo (lit. movement of result of big sea creatures)
 
 Specifies or describes the object of the preceding phrase when the preceding phrase is a transitive verb phrase or a noun phrase that contains a transitive action. "for", "about", "concerning", "towards", "against" are English equivalent expressions. This genitive can always be converted into a sentence where the genitive noun phrase is the object of the action.
 
-$mi $le $kota $je $meja "we talked about cats" (lit. we talked of cats)  
-  
-$sinsi $mi $le $kela $je $sinsi $sone "my city played against the other city" (lit. my city played of different city)
+$mi $le $kota $je $meja "we talked about cats" (lit. we talked of cats) 
 
 You can clarify this genitive relationship by replacing the whole relation with a subordinate noun clause while describing the object:
 
-$mi $le $kota $in $sin $je $meja (lit. we said things of cats)  
+$mi $le $kota $in $sin $je $meja (lit. we said things of cats) 
   
-$sinsi $mi $le $kela $in $te $kela $wija $sinsi $sone (lit. my city played a playing by means of different city)
+Or by using $husu
+
+$mi $le $kota $je $husu $je $meja (lit. we said the topic of cats)
 
 #### Plenary Genitive
 
 Specifies or describes the subject _and_ object of the preceding phrase when the preceding phrase is a verb phrase or a noun phrase that contains an action. Both subjective and objective genitive forms fit and the meanings should not contract but instead complement each other.
 
-$te $amo, $je $Ocota "love of God" (lit. loving of God)
+$te $amo, $je $ocota "love of God" (lit. loving of God)
 
-You can clarify this genitive relationship by replacing the whole relation with a subordinate noun clause and usen:
+You can clarify this genitive relationship by adding a subordinate clause after the $te clause instead of a genitive phrase:
 
-$mi $un $Ocota $le $amo $in $usen (lit. I and God love each other)
+$te $amo, $ta $ocota $le $pon $in (lit. loving that god causes)
 
 * * *
 
@@ -369,15 +369,17 @@ $jan $je $insu $je $makan - "restaurant location", grouped as "(place of (the h
 
 When using je after a verb, the je\-phrase acts like an **adverbial phrase**, just like any other modifier would on a verb. Adverbial phrases can be used to describe several different genitive relationships.
 
-$mi $le $kota $wi $sema $lan - "I talk **loudly**", literally "I talk **of much volume**"
+$mi $le $kota $je $sema $lan - "I talk **loudly**", literally "I talk **of much volume**"
 
 Due to context playing a major part in our understanding of Kokanu sentences, this sentence wouldn't be perceived as saying "I talk **about** much volume". The phrase "of much volume" describes **the manner in which the talking occurs**. This attached genitive phrase describes something that would typically be construed as being a detail of manner (Genitive of Means) instead of discussion material (Objective Genitive). If you want to clarify that you are talking "about" something, you can use the verb husu:
 
-$mi $le $kota $je $husu $wi $sema $lan (lit. I talk of concern of much volume)
+$mi $le $kota $je $husu $je $sema $lan (lit. I talk of concern of much volume)
+
+Reminder that $je $sema $lan could always be replaced with $wi $sema $lan to remove ambiguity
 
 ### Collapsing Noun Phrases
 
-The way je chains isn't an issue for the statement $niwa $je $matuwa $je $matuwa $mi, as it still translates to a phrase that roughly means "my grandparent's house", however there are some cases where it can cause issues.
+The way $je chains isn't an issue for the statement $niwa $je $matuwa $je $matuwa $mi, as it still translates to a phrase that roughly means "my grandparent's house", however there are some cases where it can cause issues.
 
 $insu $je $makan - "restaurant"  
   
@@ -410,3 +412,15 @@ $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa $ta $mi $le $suki $in $ja
 5.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan 'very-good red big restaurant', as $je $tope $lan _sees_ insu-je-makan-wa $cenpo $hunsi and acts on all of it because from its perspective, it's only acting on one chain (like how $je $tope $lan would also act on meja $cenpo $hunsi as that is only one chain)
 6.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa-cenpo-hunsi-je-tope-lan-wa
 7.  $mi $le $suki $in $ja _sees_ insu-je-makan-wa-cenpo-hunsi-je-tope-lan-wa
+
+$wa can be thought of as collapsing the entire phrase into one noun, that can work like any other noun. Due to this, modifiers that provide extra information about a noun phrase are often placed after $wa if the previous $je chains existed for the purpose of disambiguating a specific concept that the speaker wished to discuss.
+
+For example, a common translation of "dictionary" is:
+$pata $je $iwe $ikama
+
+Since the $je chain in the phrase ($je $iwe $ikama), was said for the purpose of communicating what kind of $pata the document in question is, modifiers are often added after a $wa after the $je chain.
+
+So for example, if you wanted to say "my good dictionary", the translation for that would most often be:
+$pata $je $iwe $ikama $wa $tope $mi
+
+Keep in mind, this isn't the *only* translation, and saying $pata $tope $mi $je $iwe $ikama is also quite common. Pragmatically, you would be understood either way. However, due to the manner of how lexical units are grouped in language, $wa is often used in this way.
