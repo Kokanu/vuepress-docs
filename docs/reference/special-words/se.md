@@ -1,6 +1,6 @@
 # se
 
-This word is used in a unique way that helps facilitate the conversion of words between the different forms.
+All sentences that make a statement require a verb in Kokanu. Although you can say things like "he nin maku", or "naki la", these sentences are not describing some sort of event, and are rather calls or reactions.
 
 It's easy enough to say something "is \$a base noun\ $le $len "I am strong"
 
