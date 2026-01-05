@@ -2,6 +2,19 @@
 
 All sentences that make a statement require a verb in Kokanu. Although you can say things like "he nin maku", or "naki la", these sentences are not describing some sort of event, and are rather calls or reactions.
 
+You could not say, for example, "I am at the house", without a verb being present in the sentence.
+Therefore, the way to say "I am at the house" would be:
+$mi $le $se $pi $niwa
+
+You could not just say "$mi $pi $niwa", as this would simply mean the sentence fragment "I, at the house". Without the verb marker $le or $o being used, the sentence does not have an action.
+
+However, due to the fact that saying "<noun> $le $se <preposition>" is quite a common structure, and is used for saying sentences such as:
+$ja $le $se $nenka $na $sin "It exists because of that thing"
+$mi $le $se $kan $ja "I am with him"
+$na $pawo $le $sun $Kanata "That dog is from Canada"
+
+<explain se dropping plsplspls>
+
 It's easy enough to say something "is \$a base noun\ $le $len "I am strong"
 
 This only works **if the word is already a base noun or base modifier**. What if it's a **base verb**? How do you say something "is food" or "is edible" using the other derivations of **makan**? You can't say **le makan**, because that means "is eating". What do you do?
