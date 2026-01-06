@@ -1,28 +1,25 @@
 # wi
 
-$wi is a derivational marker that forces words into base modifiers. This means that it can take a phrase, and turn it into a base modifier.
+$wi is a derivational marker that forces words into base modifiers. This means that it can take a phrase, and turn it into a base modifier. The phrase takes on whatever meaning it has when it's meant as a modifier.
 
-The phrase $wi $no is often used to negate modifiers, as $no has to attach to a grammatical particle.
+This means that when using $wi on a verb (e.g. "wi makan"), the phrase "wi \<verb\>" will be a base modifier with the meaning of whatever the verb means in its modifier form.
+So for example, $makan in its modifier form means "food-like/edible". If $wi were to be used with it, it would turn into $wi $makan.
 
-If $wi is used with a base noun, the meaning becomes "noun-like", instead of "noun-related".
+Here are a few more examples, with their original meaning, and then their new meanings when used in different places in combination with $wi.
 
-Derivations
----
+| Word | Original meaning | Original modifier meaning | New noun meaning | New verb meaning | New modifier meaning |
+| --- | --- | --- | --- | --- | --- |
+| makan | to eat (food) | edible/food-like | edibility/food-like-ness | to be edible/food-like | edible/food-like |
+| teka | to see (a sight) | visible/sight-like | visbility/sight-like-ness | to be visible/sight-like | visible/sight-like |
+| onton | to wear (clothing) | wearable/clothing-like | wearability/clothing-like-ness | to be wearable/clothing-like | wearable-clothing-like |
 
-| Derivation | Base noun ($kuwosi) | Base verb ($makan) | Base modifier ($tope) |
-| --- | --- | --- | --- |
-| Noun (without wi) | fruit | food | goodness |
-| Verb (without wi) | to be fruit | to eat | to be good |
-| Modifier (without wi) | fruit-related | edible | good |
-| Noun (with wi) | fruit-like-ness | edibility | goodness |
-| Verb (with wi) | to be fruit-like | to be edible | to be good |
-| Modifier (with wi) | fruit-like | edible | good |
+Due to how $wi functions, when it is used with a base modifier, it has no effect. $wi converts the base modifier into a base modifier meaning the modifier meaning of the base modifier, so it literally converts it to itself. So the two phrases "tope" and "wi tope" are indentical.
 
-Examples
----
+This, however, does not mean that $wi is useless with base modifiers. Most obviously, in order to negate a modifier, you'd say $wi $no \<modifier\>.
+So in order to say "not good", you would say "wi no tope". $wi is required here because $no does not negate any words itself, but rather negates the grammatical particle behind it.
 
-| Likanu | Latin script | English |
-| --- | --- | --- |
-| ɂ ʋȷ ʌ̄ʃxʃ ƨ̄ȷx ʌ ɂ ʋȷ ɞx̄ ōı oſxɞ ɕı ƨʃ ɞx̄: | ja le tonko nenka ta ja le makan in ukama wi no makan. | They were sick because they ate an inedible plant. |
-| ƨ ɂſʌſ ʋȷ ɕı ʌȷx ɤɞʃ ʜı ʌ̄ȷ ƨȷʋʃ: | na jutu le wi teka samo pi ten nelo. | That star is only visible at night. |
-| ɞſ ʌɤ̄ʃ ɂȷ ōıɤſ ʋȷ ʌɤ̄ʃ ōı ōıɤſ ɕı ʌʋıxʃ: | mu tason je insu le tason in insu wi taliko. | The architect designed a cone-like building. |
+There is another way $wi can be used, and that is in that it can be used to apply modifiers to modifiers.
+
+### wi and Adverbs
+
+This topic is already explained in [](./../clarifying-descriptions.md)
