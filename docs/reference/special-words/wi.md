@@ -22,4 +22,26 @@ There is another way $wi can be used, and that is in that it can be used to appl
 
 ### wi and Adverbs
 
-This topic is already explained in [](./../clarifying-descriptions.md)
+This topic is already explained in the [clarifying descriptions](./../clarifying-descriptions.md) section, however, $je is a word that roughly translates to "of" in English, and is used as a genitive.
+However, $je can also be used to apply modifications to adverbs. If you were to say something is "very good", you could say it as "je tope lan" (of much goodness).
+
+However, because anything after $je is automatically a noun, this can feel a bit clunky for a lot of speakers, and as such another common way to say "very good" arise: wi tope lan
+
+(It should be noted that both $je and $wi are correct in this context, and either can be used)
+
+When using $wi, the head modifier, that being the modifier that comes directly after $wi, is modified by any modifiers that come after it.
+This means that saying "wi tope canu tason" means "plannable coldly good". I don't know what that means either but the grammar holds up either way.
+
+This allows quantity words to describe the intensity of adjectives:
+
+wi tope jati - "somewhat good"
+wi tope lan - "very good"
+wi tope menu - "less good"
+wi tope mese - "more good / better"
+wi tope ani - "the most good / best"
+
+In order to specify that something coming after $wi isn't part of the $wi clause, $wa can be placed for the phrase to collapse it. This is fully described in [clarifying descriptions](./../clarifying-descriptions.md), so this will not be explained in depth.
+
+mi le nan te kela wi tope lan wa pan mamaki in na kela la - "I can surprisingly play that game really well!"
+na le sankan menu, le no pesuwan ta le tun in na pi kenca - "That's less important; it's not necessary that that is done right now"
+laa, mi le amo in ne makan la!!! ne makan le tope ANI la!! - "Woww, I love this food!!! This food is the BEST!!"
