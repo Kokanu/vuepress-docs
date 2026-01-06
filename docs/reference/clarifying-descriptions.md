@@ -47,11 +47,13 @@ Would be this:
 
 This allows quantity words to be able to define the intensity of certain adjectives. Here are a few examples:
 
-wi tope jati - "somewhat good"
-wi tope lan - "very good"
-wi tope menu - "less good"
-wi tope mese - "more good / better"
-wi tope ani - "the most good / best"
+| Likanu | Latin script | English |
+| --- | --- | --- |
+| ɕı ʌʃʜȷ ɂʌı | wi tope jati | somewhat good |
+| ɕı ʌʃʜȷ ʋ̄ | wi tope lan | very good |
+| ɕı ʌʃʜȷ ɞȷƨſ | wi tope menu | less good |
+| ɕı ʌʃʜȷ ɞȷɤȷ | wi tope mese | more good / better |
+| ɕı ʌʃʜȷ oƨı | wi tope ani | most good / best |
 
 This kind of modification may also be done with $je, the genitive marker. In a very similar way to how $wi works, if quantity words saying intensity come after the word that $je regroups, it will be assumed that that word is being modified by those quantity words, and is acting as a modifier.
 
