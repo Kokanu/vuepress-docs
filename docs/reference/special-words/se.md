@@ -22,4 +22,4 @@ $mi $le $se $pi $na $jan "I exist at that place"
 You could say:<br>
 $mi $le $pi $na $jan "I exist at that place" (exact same meaning)
 
-This can be applied to any structure which has $le and then a preposition right after. Any time that appears, an implicit "se" is being added between the two prepositions.
+This means that any structure that matches "le se \<preposition\>" can have its "se" dropped. (i.e. "le se \<preposition\>" -> "le \<preposition\>")
