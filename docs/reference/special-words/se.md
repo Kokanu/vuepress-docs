@@ -9,7 +9,7 @@ $mi $le $se $pi $niwa
 You could not just say "$mi $pi $niwa", as this would just mean the sentence fragment "I, at the house". Without the verb marker $le or $o being used, the sentence does not have an action.
 Remember that prepositions can be placed in any order. If you wanted to say "Me at the house", you'd say "$mi *$te* $pi $niwa".
 
-However, since saying "<noun> $le $se <preposition>" is quite a common structure, and is used for saying sentences such as:
+However, since saying "\<noun\> $le $se \<preposition\>" is quite a common structure, and is used for saying sentences such as:
 $ja $le $se $nenka $na $sin "It exists because of that thing"
 $mi $le $se $kan $ja "I am with him"
 $na $pawo $le $se $sun $Kanata "That dog is from Canada"
