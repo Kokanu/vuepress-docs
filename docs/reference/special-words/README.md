@@ -8,10 +8,6 @@ Some words in Kokanu have special functions.
 * [ki - "to"](ki.md)
 * [hon - context particle](hon.md)
 
-## Verbs
-* [se - "to be"](se.md)
-* [pijen - "to become"](pijen.md)
-
 ## Particles
 * [ka - interrogative particle](ka.md)
 * [la - exclamation](la.md)
@@ -20,3 +16,6 @@ Some words in Kokanu have special functions.
 ## Derivational markers
 * [lun - causative](lun.md)
 * [wi - modifier forcing](wi.md)
+
+## Verbs
+* [se - "to be"](se.md)
