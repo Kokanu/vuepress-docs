@@ -79,7 +79,6 @@ export default defineUserConfig({
             'la.md',
             'lun.md',
             'peko.md',
-            'pijen.md',
             'se.md',
             'so.md',
             'sun.md',
