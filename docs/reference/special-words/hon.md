@@ -10,23 +10,28 @@ $mi $le $makan $in $kuwosi **hon** $kin $matin - "I ate fruit yesterday"
 
 This could be interpreted as "a few days ago" or "in the past days", interpreting $kin as a plural, but that is often better represented with $lan $kin or $jati $kin.
 
-**hon** $ten $nelo $ne $men $mi $le $makan $in $kuwosi "Tonight I will eat fruit", (lit. as for this dark time, I eat fruit)
+**hon** $ten $nelo $je $kin $kenca $men $mi $le $makan $in $kuwosi - "Tonight I will eat fruit" (lit. as for the dark time of the present day, I eat fruit)
+**hon** $ten $nelo $matin $men $mi $le $lo $ki $insu $je $makan - "Last night I went to the restaurant" (lit. as for the past dark time, I go to building of food)
 
-When time is stated through context, the rest of the verbs are then relative to that time. The thematic relation an can be used for a similar capability.
+Times are not _always_ relative to simple ideas like "today", "tomorrow", or "in three days". Sometimes, you need to talk about something relative to a specific event. For this, we state the context as literally "time that ...", with the $pi preposition dangling (or with $ja being used to close it off).
 
-**hon** $ten $nelo $ne $men $mi $le $makan $matin $mulu $je $tiju $ten $in $kuwosi "By tonight I will have eaten fruit ten times"
-
-In this example, it doesn't say "tonight I have eaten fruit ten times", which wouldn't make sense because tonight hasn't happened yet. Instead the verb $makan $matin $mulu is interpreted as if it is already in the future context of "tonight".
-
-**hon** $ten $nelo $matin $men $mi $le $lo $ki $insu $je $makan - "Last night I went to the restaurant"
-
-Times are not _always_ relative to simple ideas like "today", "tomorrow", or "in three days". Sometimes, you need to talk about something relative to a specific event. For this, we state the context as literally "time that \$event\ $ta \$event\, ..., with the $an preposition dangling. Another option is to use **hon** $ten $je $ta \$event\ $ta $mi $le $makan $in $kuwosi $an, $men $mi $le $pasan - "When I eat fruit, I am happy"  
 **hon** $ten $ta $mi $le $makan $matin $in $kuwosi $an, $men $mi $le $pasan - "When I ate fruit, I was happy"
 
-See how when the context is put in the past, the main verb is also interpreted as being past tense, just like the earlier example with **hon** $ten $nelo $ne.
+Keep in mind, any references to time can also be made with the preposition $pi. This is especially true when referencing specific times that things happened.
 
-**hon** $ten $ta $mi $le $lo $melon $ki $insu $ta $le $po $makan $an, $men $mi $le $in $mani $po $kuwosi - "When I go to the grocery store later, I will buy fruit"  
-**hon** $ten $je $ta $mi $le $lo $melon $ki $insu $ta $le $po $makan $an, $men $mi $le $in $mani $po $kuwosi - "When I go to the grocery store later, I will buy fruit"
+For example the most natural translation for the sentence:
+
+"When I saw her, I knew that she had stole my cookies"
+
+Would be:
+
+$pi $ta $mi $le $teka $in $ja, $mi $le $wisan $ta $ja $le $alu $in $makan $satu $mi
+
+Using $hon in this sentence would actually have a different meaning, more akin to "*Given* that I saw her, I knew that she had stole my cookies".
+
+Since $hon can always be replaced with $pi if time is being specified, depending on the context, using $hon instead of $pi can signify that you're talking *about* the time rather than putting the statement in the context *of* the time. However, in most situations, it's clear from context whether someone is putting the specific time as a topic of the sentence, or putting the sentence in the context of it.
+
+Wait, $hon can be used to specify topics?
 
 ### Specifying Topics
 
