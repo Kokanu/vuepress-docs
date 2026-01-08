@@ -35,32 +35,35 @@ Wait, $hon can be used to specify topics?
 
 ### Specifying Topics
 
-If providing time as context makes a when-clause, what happens when you provide something that isn't a time? You end up simply specifying a topic. This can be used to introduce a new topic, to specify a relative concept in which to frame the following sentence, or to change topics similar to the English phrase "speaking of which...".
+If providing time as context (sometimes) makes a when-clause, what happens when you provide something that isn't a time? You end up simply specifying a topic. This can be used to introduce a new topic, to specify a relative concept in which to frame the following sentence, or to change topics similar to the English phrase "speaking of which...".
 
-**hon** $pawo $men $mi $le $han $in $wan, $lekin $jan $tope $mi $le $han $in $nanku! - "Speaking of dogs, I have one but my friend has four!"
+**hon** $pawo $men $mi $le $han $in $wan, $lekin $matuwa $mi $le $han $in $nanku! - "Speaking of dogs, I have one, but my dad has four!"
 
 $tu $le $tope **hon** $kanisa $mi - literally "In the context of my thoughts, you are good", or roughly "you are good imo"
 
-This is a somewhat awkward example, as it is more clearly stated using $mi $le $kanisa $ta $tu $le $tope, but it is still correct
+Within Kokanu communities, $hon $kanisa $mi is quite a common expression. It it sometimes, when it makes sense in context, shortened to $hon $mi (lit. "as for me").
 
-**hon** $te $kota $tuntan $je Kokanu $men $tu $o $teka $in $pata $ta $non Kokanu $le $lika. - Roughly, "On the topic of Kokanu grammar, read this guide written by the Kokanu community."
+**hon** $te $kota $tuntan $je Kokanu, $men $tu $o $teka $in $pata $ikasi. - Roughly, "On the topic of Kokanu grammar, read this guide." (lit. "In the context of speaking Kokanu correctly, you should read this learning document")
 
-More literally, it's "In the context of speaking Kokanu correctly, you should read this document that the Kokanu community wrote."
-
-**hon** $lantan $ta $le $hunsi $matin, $men $mi $le $lun $nile $in $ja - "About the car that was red, I am making it blue"
-
-Again, tense is fairly ambiguous here.
+**hon** $lantan $te $hunsi $matin, $men $mi $le $lun $nile $in $ja - "About the car that was red, I am making it blue"
 
 ### Conditionals
 
-When providing an entire event as context, it is usually interpreted as a conditional ("if \$event\ $mi $le $makan $in $kuwosi ... or **hon** $lantan $le $hunsi ...
+When providing a subordinate clause as context, it is usually interpreted as saying "given that". However, if the hypotheticality marker $kate is used, or in certain contexts, it is interpreted as a conditional. $kate is nearly always needed if the situation is hypothetical.
 
-**hon** $lantan $le $hunsi $men $mi $le $lun $nile $in $ja - "If the car is red, I will make it blue"
+**hon** $ta $lantan $le $hunsi $kate, $men $mi $le $lun $nile $in $ja - "If the car is red, I will make it blue"
 
-The tense of this sentence is ambiguous.
+The tense of this sentence is unspecified, and the $hon statement is more saying that in any context where the statement is true, the action will be performed. If you're referring to a specific situation, it's more common to say:<br>
+**pi** $ta $lantan $le $hunsi, $men $mi $le $lun $nile $in $ja - "When the car is red, I will paint it blue"
 
-**hon** $lantan $le $hunsi $matin $men $mi $le $lun $nile $kate $in $ja - "If the car was red, I would have painted it blue"
+Whether or not this statement is hypotethetical is ambiguous and up to context.
 
-Because the context is past tense, the main sentence is interpreted as what would have happened in that hypothetical past.
+If you want to say *given* something, you would use $hon without $kate.
+
+**hon** $ta $lantan $le $hunsi, $men $mi $le $lun $nile $in $ja - "Given that the car is red, I will make it blue"
+
+Keep in mind that this statement could be in any tense. It could be "Given that the car was red, I made it blue", or "Given that the car will be red, I will make it blue".
+
+WHAHHFAGHHAH FINISH THIS
 
 **hon** $tu $le $ju $ta $le $lo $ki $insu $je $makan $men $mi $le $ju $ta $le $lo $kan $tu - "If you want go to the restaurant, then I want to go with you
