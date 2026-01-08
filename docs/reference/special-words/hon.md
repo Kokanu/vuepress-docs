@@ -10,7 +10,7 @@ $mi $le $makan $in $kuwosi **hon** $kin $matin - "I ate fruit yesterday"
 
 This could be interpreted as "a few days ago" or "in the past days", interpreting $kin as a plural, but that is often better represented with $lan $kin or $jati $kin.
 
-**hon** $ten $nelo $je $kin $kenca $men $mi $le $makan $in $kuwosi - "Tonight I will eat fruit" (lit. as for the dark time of the present day, I eat fruit)
+**hon** $ten $nelo $je $kin $kenca $men $mi $le $makan $in $kuwosi - "Tonight I will eat fruit" (lit. as for the dark time of the present day, I eat fruit)<br>
 **hon** $ten $nelo $matin $men $mi $le $lo $ki $insu $je $makan - "Last night I went to the restaurant" (lit. as for the past dark time, I go to building of food)
 
 Times are not _always_ relative to simple ideas like "today", "tomorrow", or "in three days". Sometimes, you need to talk about something relative to a specific event. For this, we state the context as literally "time that ...", with the $pi preposition dangling (or with $ja being used to close it off).
