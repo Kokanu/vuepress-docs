@@ -9,7 +9,7 @@ So for example, $makan in its modifier form means "food-like/edible". If $wi wer
 Here are a few more examples, with their original meaning, and then their new meanings when used in different places in combination with $wi.
 
 | Word | Original meaning | Original modifier meaning | New noun meaning | New verb meaning |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | makan | to eat (food) | edible/food-like | edibility/food-like-ness | to be edible/food-like |
 | teka | to see (a sight) | visible/sight-like | visbility/sight-like-ness | to be visible/sight-like |
 | onton | to wear (clothing) | wearable/clothing-like | wearability/clothing-like-ness | to be wearable/clothing-like |
