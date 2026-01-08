@@ -10,52 +10,63 @@ $mi $le $makan $in $kuwosi **hon** $kin $matin - "I ate fruit yesterday"
 
 This could be interpreted as "a few days ago" or "in the past days", interpreting $kin as a plural, but that is often better represented with $lan $kin or $jati $kin.
 
-**hon** $ten $nelo $ne $men $mi $le $makan $in $kuwosi "Tonight I will eat fruit", (lit. as for this dark time, I eat fruit)
+**hon** $ten $nelo $je $kin $kenca $men $mi $le $makan $in $kuwosi - "Tonight I will eat fruit" (lit. as for the dark time of the present day, I eat fruit)
+**hon** $ten $nelo $matin $men $mi $le $lo $ki $insu $je $makan - "Last night I went to the restaurant" (lit. as for the past dark time, I go to building of food)
 
-When time is stated through context, the rest of the verbs are then relative to that time. The thematic relation an can be used for a similar capability.
+Times are not _always_ relative to simple ideas like "today", "tomorrow", or "in three days". Sometimes, you need to talk about something relative to a specific event. For this, we state the context as literally "time that ...", with the $pi preposition dangling (or with $ja being used to close it off).
 
-**hon** $ten $nelo $ne $men $mi $le $makan $matin $mulu $je $tiju $ten $in $kuwosi "By tonight I will have eaten fruit ten times"
-
-In this example, it doesn't say "tonight I have eaten fruit ten times", which wouldn't make sense because tonight hasn't happened yet. Instead the verb $makan $matin $mulu is interpreted as if it is already in the future context of "tonight".
-
-**hon** $ten $nelo $matin $men $mi $le $lo $ki $insu $je $makan - "Last night I went to the restaurant"
-
-Times are not _always_ relative to simple ideas like "today", "tomorrow", or "in three days". Sometimes, you need to talk about something relative to a specific event. For this, we state the context as literally "time that \$event\ $ta \$event\, ..., with the $an preposition dangling. Another option is to use **hon** $ten $je $ta \$event\ $ta $mi $le $makan $in $kuwosi $an, $men $mi $le $pasan - "When I eat fruit, I am happy"  
 **hon** $ten $ta $mi $le $makan $matin $in $kuwosi $an, $men $mi $le $pasan - "When I ate fruit, I was happy"
 
-See how when the context is put in the past, the main verb is also interpreted as being past tense, just like the earlier example with **hon** $ten $nelo $ne.
+Keep in mind, any references to time can also be made with the preposition $pi. This is especially true when referencing specific times that things happened.
 
-**hon** $ten $ta $mi $le $lo $melon $ki $insu $ta $le $po $makan $an, $men $mi $le $in $mani $po $kuwosi - "When I go to the grocery store later, I will buy fruit"  
-**hon** $ten $je $ta $mi $le $lo $melon $ki $insu $ta $le $po $makan $an, $men $mi $le $in $mani $po $kuwosi - "When I go to the grocery store later, I will buy fruit"
+For example the most natural translation for the sentence:
+
+"When I saw her, I knew that she had stole my cookies"
+
+Would be:
+
+$pi $ta $mi $le $teka $in $ja, $mi $le $wisan $ta $ja $le $alu $in $makan $satu $mi
+
+Using $hon in this sentence would actually have a different meaning, more akin to "*Given* that I saw her, I knew that she had stole my cookies".
+
+Since $hon can always be replaced with $pi if time is being specified, depending on the context, using $hon instead of $pi can signify that you're talking *about* the time rather than putting the statement in the context *of* the time. However, in most situations, it's clear from context whether someone is putting the specific time as a topic of the sentence, or putting the sentence in the context of it.
+
+Wait, $hon can be used to specify topics?
 
 ### Specifying Topics
 
-If providing time as context makes a when-clause, what happens when you provide something that isn't a time? You end up simply specifying a topic. This can be used to introduce a new topic, to specify a relative concept in which to frame the following sentence, or to change topics similar to the English phrase "speaking of which...".
+If providing time as context (sometimes) makes a when-clause, what happens when you provide something that isn't a time? You end up simply specifying a topic. This can be used to introduce a new topic, to specify a relative concept in which to frame the following sentence, or to change topics similar to the English phrase "speaking of which...".
 
-**hon** $pawo $men $mi $le $han $in $wan, $lekin $jan $tope $mi $le $han $in $nanku! - "Speaking of dogs, I have one but my friend has four!"
+**hon** $pawo $men $mi $le $han $in $wan, $lekin $matuwa $mi $le $han $in $nanku! - "Speaking of dogs, I have one, but my dad has four!"
 
 $tu $le $tope **hon** $kanisa $mi - literally "In the context of my thoughts, you are good", or roughly "you are good imo"
 
-This is a somewhat awkward example, as it is more clearly stated using $mi $le $kanisa $ta $tu $le $tope, but it is still correct
+Within Kokanu communities, $hon $kanisa $mi is quite a common expression. It it sometimes, when it makes sense in context, shortened to $hon $mi (lit. "as for me").
 
-**hon** $te $kota $tuntan $je Kokanu $men $tu $o $teka $in $pata $ta $non Kokanu $le $lika. - Roughly, "On the topic of Kokanu grammar, read this guide written by the Kokanu community."
+**hon** $te $kota $tuntan $je Kokanu, $men $tu $o $teka $in $ne $pata $ikasi. - Roughly, "On the topic of Kokanu grammar, read this guide." (lit. "In the context of speaking Kokanu correctly, you should read this learning document")
 
-More literally, it's "In the context of speaking Kokanu correctly, you should read this document that the Kokanu community wrote."
-
-**hon** $lantan $ta $le $hunsi $matin, $men $mi $le $lun $nile $in $ja - "About the car that was red, I am making it blue"
-
-Again, tense is fairly ambiguous here.
+**hon** $lantan $te $hunsi $matin, $men $mi $le $lun $nile $in $ja - "About the car that was red, I am making it blue"
 
 ### Conditionals
 
-When providing an entire event as context, it is usually interpreted as a conditional ("if \$event\ $mi $le $makan $in $kuwosi ... or **hon** $lantan $le $hunsi ...
+When providing a subordinate clause as context, it is usually interpreted as saying "given that". However, if the hypotheticality marker $kate is used, or in certain contexts, it is interpreted as a conditional. $kate is nearly always needed if the situation is hypothetical.
 
-**hon** $lantan $le $hunsi $men $mi $le $lun $nile $in $ja - "If the car is red, I will make it blue"
+**hon** $ta $lantan $le $hunsi $kate, $men $mi $le $lun $nile $in $ja - "If the car is red, I will make it blue"
 
-The tense of this sentence is ambiguous.
+The tense of this sentence is unspecified, and the $hon statement is more saying that in any context where the statement is true, the action will be performed. If you're referring to a specific situation, it's more common to say:<br>
+**pi** $ta $lantan $le $hunsi, $men $mi $le $lun $nile $in $ja - "When the car is red, I will paint it blue"
 
-**hon** $lantan $le $hunsi $matin $men $mi $le $lun $nile $kate $in $ja - "If the car was red, I would have painted it blue"
+Whether or not this statement is hypotethetical is ambiguous and up to context.
 
-Because the context is past tense, the main sentence is interpreted as what would have happened in that hypothetical past.
+If you want to say *given* something, you would use $hon without $kate.
 
-**hon** $tu $le $ju $ta $le $lo $ki $insu $je $makan $men $mi $le $ju $ta $le $lo $kan $tu - "If you want go to the restaurant, then I want to go with you
+**hon** $ta $lantan $le $hunsi, $men $mi $le $lun $nile $in $ja - "Given that the car is red, I will make it blue"
+
+Keep in mind that this statement could be in any tense. It could be "Given that the car was red, I made it blue", or "Given that the car will be red, I will make it blue".
+
+### Examples
+
+**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want go to the restaurant, then I want to go with you"
+**hon** $ta $na $le $sankan $men $lan $mi $o $kosan $in $pan $tuntan $te $po $na $pan $katin - "Given that that's important, we should create a solution for that problem"
+$Inkilisi $le $katin **hon** $nin $Nihon - "English is hard for Japanese people"
+**hon** $ten $nelo $melon $men $mi $le $ju $konen $te $no $lo $ki $jan $enteken - "Tonight I'll probably not want to go the park"
