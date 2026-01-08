@@ -66,7 +66,7 @@ Keep in mind that this statement could be in any tense. It could be "Given that 
 
 ### Examples
 
-**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want go to the restaurant, then I want to go with you"
-**hon** $ta $na $le $sankan $men $lan $mi $o $kosan $in $pan $tuntan $te $po $na $pan $katin - "Given that that's important, we should create a solution for that problem"
-$Inkilisi $le $katin **hon** $nin $Nihon - "English is hard for Japanese people"
+**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want go to the restaurant, then I want to go with you"<br>
+**hon** $ta $na $le $sankan $men $lan $mi $o $kosan $in $pan $tuntan $te $po $na $pan $katin - "Given that that's important, we should create a solution for that problem"<br>
+$Inkilisi $le $katin **hon** $nin $Nihon - "English is hard for Japanese people"<br>
 **hon** $ten $nelo $melon $men $mi $le $ju $konen $te $no $lo $ki $jan $enteken - "Tonight I'll probably not want to go the park"
