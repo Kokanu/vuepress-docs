@@ -43,7 +43,7 @@ $tu $le $tope **hon** $kanisa $mi - literally "In the context of my thoughts, yo
 
 Within Kokanu communities, $hon $kanisa $mi is quite a common expression. It it sometimes, when it makes sense in context, shortened to $hon $mi (lit. "as for me").
 
-**hon** $te $kota $tuntan $je Kokanu, $men $tu $o $teka $in $pata $ikasi. - Roughly, "On the topic of Kokanu grammar, read this guide." (lit. "In the context of speaking Kokanu correctly, you should read this learning document")
+**hon** $te $kota $tuntan $je Kokanu, $men $tu $o $teka $in $ne $pata $ikasi. - Roughly, "On the topic of Kokanu grammar, read this guide." (lit. "In the context of speaking Kokanu correctly, you should read this learning document")
 
 **hon** $lantan $te $hunsi $matin, $men $mi $le $lun $nile $in $ja - "About the car that was red, I am making it blue"
 
@@ -64,6 +64,9 @@ If you want to say *given* something, you would use $hon without $kate.
 
 Keep in mind that this statement could be in any tense. It could be "Given that the car was red, I made it blue", or "Given that the car will be red, I will make it blue".
 
-WHAHHFAGHHAH FINISH THIS
+### Examples
 
-**hon** $tu $le $ju $ta $le $lo $ki $insu $je $makan $men $mi $le $ju $ta $le $lo $kan $tu - "If you want go to the restaurant, then I want to go with you
+**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want go to the restaurant, then I want to go with you"
+**hon** $ta $na $le $sankan $men $lan $mi $o $kosan $in $pan $tuntan $te $po $na $pan $katin - "Given that that's important, we should create a solution for that problem"
+$Inkilisi $le $katin **hon** $nin $Nihon - "English is hard for Japanese people"
+**hon** $ten $nelo $melon $men $mi $le $ju $konen $te $no $lo $ki $jan $enteken - "Tonight I'll probably not want to go the park"
