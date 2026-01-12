@@ -48,7 +48,9 @@ This not only allows modifiers to become adverbs that modify modifiers, but it a
 | ɕı ʌʃʜȷ oƨı | wi tope ani | most good / best |
 
 $matuwa **$wi $kusa $jati** $le $kota $ta $ja $le $cuma $ki $nin $sone - "The annoyed parent said their goodbyes to the other person"
+
 $in $husu $je $ta $ka $na $nin $le $wisan $in $sin **$wi $joli $ani**, $men $non $je $pan $pucon $le $kota - "The council discussed whether or not that person knew what was most beneficial"
+
 $sin **$wi $sankan $mese** $le $ta $ja $le $ALU $IN $ANI $JE $MANI $MI!! - "The more important thing is that he TOOK ALL OF MY MONEY!!"
 
 In order to specify that something coming after $wi isn't part of the $wi clause, $wa can be placed for the phrase to collapse it. This is fully described in [clarifying descriptions](./../clarifying-descriptions.md), so this will not be explained again here. The collapsing works exactly the same as it would for $je
