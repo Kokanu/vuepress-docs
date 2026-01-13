@@ -1,6 +1,6 @@
 # so
 
-The grammar particle **so** means "than", "as", or "compared to".
+The grammar particle $so means "than", "as", or "compared to".
 
 Comparison
 ----------
