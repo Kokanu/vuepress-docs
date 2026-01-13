@@ -1,16 +1,30 @@
 # lun
 
-Allows intransitive verbs (i.e. verb derivations of **base mods** or **base nouns**) to take an $in argument. The **patient** (value of the $in argument) is the entity that experiences _being_ in the state described by the intransitive verb. This happening is caused by the **agent** or **subject** of the action.
+$lun is a particle that turns words into a verb meaning "to \<word\>-ify X" or "to make X into \<word\>".
 
-This particle occurs after verb markers $le/$te/$o (and a $no if there is one), and before the **base mod** or **base noun**.
+Now, importantly, whether the word is interpreted as a modifier or a noun is important to the meaning. For example, if in $lun $tope, $tope is intepreted as a noun, then $lun $tope would mean "to make into goodness", *not* "to make good". Simiarly, if in $lun $nin, $nin is intepreted as a modifier, then $lun $nin wouldn't mean "to make into a person", it would mean "to make similar to a person".
 
-$le **lun X** $in **Y** - "cause **Y** to be **X**" or "**X**\-ify **Y**"
+One is making the object *like* the word, whereas the other is making the object *be* the word. Whether $lun is using its modifier meaning or its noun meaning is dependent on context, and on the argument it's taking in.
 
-$le **lun** $hunsi $in **Y** - "cause **Y** to be red" or "red-ify **Y**"
+If a noun is passed as the argument for $lun, so for example, $lun $nin, the default lean is that $lun is using its *noun meaning*. This would mean that defaultly, $lun $nin means "to make into a person", *not* "to make similar to a person".
 
-Because the point of **lun** is to _enable an $in argument for intransitive verbs (verb derivations of **base mods** or **base nouns**)_, it _**cannot be used on base verbs**_ as they can already take an $in argument (e.g. $le **lun** $makan, $le **lun** $kota, $le **lun** $amo, etc. are all disallowed); $le $pon $ta $le **X** can still be used to achieve causative constructions for **base verbs**.
+The same goes for modifiers. Defaulty, $lun $tope means "to make good", *not* "to make into goodness".
 
-This particle brings intransitive verbs up to the level of base verbs so that they can both be treated similarly:
+However, this is dependent on context, and can be specified if you want to mean something that is not $lun's default lean.
+
+To specify that you're using $lun's *noun meaning*, you can add $wen before the argument. So to specify that you're trying to mean "to make into goodness", you could say $lun **$wen** $tope.
+
+Simiarly, to specify that you're using $lun's *modifier meaning*, you can add $wi before the argument. So to specify that you're trying to mean "to make similar to a person", you could say $lun **$wi** nin.
+
+#### Word Grouping
+
+<blah blah blah talk about how lun groups words based on context, and how you can specify what words about being grouped, and that you can specify that certain words are acting as adverbs>
+
+And lastly, it should be noted that this verb, isn't really grammatically a verb. It makes more sense to think of it as a verb, however it cannot be used when not in front of $le or $o. For example, the sentence $lun $tope $le $tope would be ungrammatical.
+
+#### Examples
+
+<add more examples plsplsplsplspls>
 
 $ja $le $pon $ta $mi $le $makan $in $kuwosi - "They caused me to eat fruit"
 
