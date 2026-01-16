@@ -2,6 +2,8 @@
 
 $lun is a particle that turns words into a verb meaning "to \<word\>-ify X" or "to make X into \<word\>".
 
+#### Use
+
 Now, importantly, whether the word is interpreted as a modifier or a noun is important to the meaning. For example, if in $lun $tope, $tope is intepreted as a noun, then $lun $tope would mean "to make into goodness", *not* "to make good". Simiarly, if in $lun $nin, $nin is intepreted as a modifier, then $lun $nin wouldn't mean "to make into a person", it would mean "to make similar to a person".
 
 One is making the object *like* the word, whereas the other is making the object *be* the word. Whether $lun is using its modifier meaning or its noun meaning is dependent on context, and on the argument it's taking in.
@@ -16,20 +18,18 @@ To specify that you're using $lun's *noun meaning*, you can add $wen before the 
 
 Simiarly, to specify that you're using $lun's *modifier meaning*, you can add $wi before the argument. So to specify that you're trying to mean "to make similar to a person", you could say $lun **$wi** nin.
 
-#### Word Grouping
-
-<blah blah blah talk about how lun groups words based on context, and how you can specify what words about being grouped, and that you can specify that certain words are acting as adverbs>
-
 And lastly, it should be noted that this verb, isn't really grammatically a verb. It makes more sense to think of it as a verb, however it cannot be used when not in front of $le or $o. For example, the sentence $lun $tope $le $tope would be ungrammatical.
+
+If you are looking to use the object of a $lun phrase as as a noun or modifier, check out [the explanation for mu](./mu.md).
 
 #### Examples
 
-<add more examples plsplsplsplspls>
+$mi $le $lun $panli $in $kuwosi - "I cut the fruit"
 
-$ja $le $pon $ta $mi $le $makan $in $kuwosi - "They caused me to eat fruit"
+$le $lun $wi $watan $wa $jati $men $tu $in $pansin - "You kinda made the square round"
 
-$ja $le $pon $ta $mi $le **lun** $panli $in $kuwosi - "They caused me to split the fruit"
+$le $loso $men $te $lun $tiku $in $nin - "Killing people is bad" (🤯)
 
-Only links to the **one** content word after it, so adverbs can still follow:
+$in $lan $sin $men $ja $le $lun $kikuwa - "It made a lot of things strange"
 
-$tu $le **lun** $konpa $wiki $in $tipa - "You quickly shake the container"
+$hon $husu $in $tasuwi $le $lun $wen $puka $men $mi - "I made the drawing about heaviness" (lit. regarding topics, I made the drawing into heaviness)
