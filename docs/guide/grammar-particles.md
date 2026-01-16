@@ -46,7 +46,7 @@ It also works inside **ka-questions**:
 | **ka tu la le makan in kuwosi mi hon ta mi le lipan?**                        | same, with emphasis                     |
 | **ka tu le makan la in kuwosi mi hon ta mi le lipan?**                        | same, emphasis on verb                  |
 | **ka tu le makan in kuwosi la mi hon ta mi le lipan?**                        | same, emphasis on object                |
-| **ka tu le makan in kuwosi mi ka hon ta mi le lipan?**                        | same, emphasis around clause boundary   |
+| **ka tu le makan in kuwosi mi la hon ta mi le lipan?**                        | same, emphasis around clause boundary   |
 | **ka tu le makan in kuwosi mi hon ta mi la le lipan?**                        | same, emphasis on subordinate clause    |
 | **ka tu le makan in kuwosi mi hon ta mi le lipan la?**                        | same, emphasis at sentence end          |
 
@@ -139,8 +139,8 @@ In any case, if further disambiguation is needed, *wi* and *wen* can be used. Th
 :::
 
 ::: warning
-All **base verbs** in Kokanu are transitive. Therefore, *lun* cannot be applied directly to base verbs, only to verbs derived from other word types.  
-To express causation with transitive verbs, use:  
+*Lun* does not work with the verb form of words, meaning that sentences like "ja le lun makan" cannot mean "they cause (one) to eat"/"they fed him". Instead, it will gain one of the meanings described above.
+To translate the sentence "**to cause (one) to [verb]**", you may use the following contruction
 **le pon ta ja le [verb]** → “to cause that they do [verb].”
 :::
 
@@ -189,27 +189,6 @@ Both *mu* and *pan* turn verbs into nouns referring to agents:
 - **sin saman** = same thing  
 :::
 
-## 6.6 **mese**, **menu**, and **so**
-
-### **so**
-
-*so* is used for **comparisons**. It puts two things in contrast or shows similarity.
-
-**Examples:**
-
-| Kokanu phrase                     | Meaning                      |
-| --------------------------------- | ---------------------------- |
-| **mi le kanisa sone so tu**       | I think differently than you |
-| **mi le teka in sin saman so tu** | I see the same thing as you  |
-
-\::: tip New Words
-
-* **sone** = different
-* **kanisa** = to think
-* **teka** = to see
-* **sin saman** = same thing
-  \:::
-
 ### **mese and menu**
 
 *mese* generally means "**more**", *menu* means "**less**".
@@ -256,11 +235,11 @@ To express "I am visible", we need to **first** force *teka* to be a **modifier*
 | **ne nin le wi konpute la** | That person is computer-like! / That person is like a computer! |
 | **wi makan le sankan** | Edibility is important |
 
-\::: tip New Words
+::: tip New Words
 
 * **konpute** = computer
 * **sankan** = important
-  \:::
+:::
 
 With a modifier, *wi* is generally redundant. However, as a particle, it can be negated with *no*.
 
@@ -345,9 +324,9 @@ In these cases, *se* doesn’t really carry meaning—it simply completes the se
 | **pawo le ki mi** | The dog moves towards me  |
 | **le nenka neje** | It’s because of the horse |
 
-\::: warning
+::: warning
 A dropped *se* **does not** change the meaning of a sentence. Theoretically, *se* is **always there**; it is simply not pronounced. This is called an **implicit *se***.
-\:::
+:::
 
 ---
 
