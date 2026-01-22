@@ -13,21 +13,21 @@ But this is not required.
 
 | Kokanu sentence                   | Meaning                |
 |-----------------------------------|------------------------|
-| mi le makan in kuwosi             | I eat a fruit          |
-| mi in kuwosi le makan             | I eat a fruit          |
+| mi le amo in pawo mi             | I love my dog          |
+| mi in pawo mi le amo             | I love my dog          |
 
 When the **subject is not first**, ambiguity arises:
 
-- **le makan in kuwosi mi** → will be read as *“(someone) eats my fruit”* or *“my fruit is eaten (by someone)”* — which is, in fact, how you form the **passive voice** in Kokanu.
+- **le amo in pawo mi mi** → will be read as a misspelling of **le amo in pawo mi** - *“(someone) loves my dog”* or *“my dog is loved (by someone)”* — which is, in fact, how you resemble the **passive voice** in Kokanu.
 
 To avoid this, the subject must be marked with **men** when it is not in the first position:
 
-- **in kuwosi le makan men mi**  
-- **le makan men mi in kuwosi**  
+- **in pawo mi le amo men mi**  
+- **le amo men mi in pawo mi**  
 - (*I eat a fruit*)
 
 It is also allowed at the start:  
-- **men mi le makan in kuwosi**
+- **men mi le amo in pawo mi**
 
 All of these have the same literal meaning. Word order in Kokanu is a **rhetorical choice** and can be used to stress certain parts of the sentence.
 
@@ -42,11 +42,11 @@ All of these have the same literal meaning. Word order in Kokanu is a **rhetoric
 Every Kokanu sentence needs a **main verb** (usually the **le-clause**).  
 Other parts are optional:  
 
-- **mi le makan** → I eat  
-- **le makan in kuwosi** → someone eats a fruit / the fruit gets eaten  
+- **mi le amo** → I love  
+- **le amo in kuwosi** → someone loves my dog / my dog is loved
 
 Both **men** and **in** are **prepositions**.  
-A preposition treats the word after it like a noun and relates it to the main verb.  
+A preposition treats the word after it like a noun and relates it to the main verb. This also applies to pronouns, therefore all pronouns we used as a subject or object before in fact actet just as nouns. 
 
 Kokanu has **11 prepositions**:
 
@@ -106,7 +106,7 @@ To specify who is addressed, use **he**:
 
 | Kokanu sentence                    | English meaning   |
 |------------------------------------|-------------------|
-| **he neje o teka ki mi**           | horse, look at me! |
+| **he neje o kota ki mi**           | horse, talk to me! |
 
 ::: tip New Words
 - **o** = imperative marker (particle)  
@@ -133,9 +133,9 @@ They can connect **words**, **phrases**, or **sentences**.
 
 | Kokanu sentence                              | English meaning                         |
 |----------------------------------------------|-----------------------------------------|
-| **mi un tu le makan**                        | me and you eat                          |
-| **nin le ju in pawo cenpo ili in meja cina** | a person wants a big dog or a small cat |
-| **tu le pata, tan tu le makan**              | you read, then you eat                  |
+| **mi un tu le kela**                        | me and you play                        |
+| **nin le ju in neje cenpo ili in meja cina** | a person wants a big horse or a small cat |
+| **tu le pata, tan tu le lika**              | you read, then you write                  |
 
 ::: tip New Words
 - **un** = and (conjunction)  
@@ -143,8 +143,8 @@ They can connect **words**, **phrases**, or **sentences**.
 - **tan** = then (conjunction)  
 - **lekin** = but (conjunction)  
 - **cina** = small  
-- **pawo** = dog  
 - **meja** = cat  
 - **ju** = to want  
 - **pata** = to read  
+- **lika** = to write  
 :::
