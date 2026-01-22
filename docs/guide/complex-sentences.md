@@ -24,7 +24,7 @@ To avoid this, the subject must be marked with **men** when it is not in the fir
 
 - **in pawo mi le amo men mi**  
 - **le amo men mi in pawo mi**  
-- (*I eat a fruit*)
+- (*I love my dog*)
 
 It is also allowed at the start:  
 - **men mi le amo in pawo mi**
