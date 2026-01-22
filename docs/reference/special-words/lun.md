@@ -2,7 +2,7 @@
 
 $lun is a particle that turns words into a verb meaning "to \<word\>-ify X" or "to make X into \<word\>".
 
-#### Use
+### Use
 
 Now, importantly, whether the word is interpreted as a modifier or a noun is important to the meaning. For example, if in $lun $tope, $tope is intepreted as a noun, then $lun $tope would mean "to make into goodness", *not* "to make good". Simiarly, if in $lun $nin, $nin is intepreted as a modifier, then $lun $nin wouldn't mean "to make into a person", it would mean "to make similar to a person".
 
@@ -22,7 +22,7 @@ And lastly, it should be noted that this verb, isn't really grammatically a verb
 
 If you are looking to use the object of a $lun phrase as as a noun or modifier, check out [the explanation for mu](./mu.md).
 
-#### Examples
+### Examples
 
 $mi $le $lun $panli $in $kuwosi - "I cut the fruit"
 
