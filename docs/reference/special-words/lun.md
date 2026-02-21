@@ -16,7 +16,7 @@ However, this is dependent on context, and can be specified if you want to mean 
 
 To specify that you're using $lun's *noun meaning*, you can add $wen before the argument. So to specify that you're trying to mean "to make into goodness", you could say $lun **$wen** $tope.
 
-Simiarly, to specify that you're using $lun's *modifier meaning*, you can add $wi before the argument. So to specify that you're trying to mean "to make similar to a person", you could say $lun **$wi** nin.
+Simiarly, to specify that you're using $lun's *modifier meaning*, you can add $wi before the argument. So to specify that you're trying to mean "to make similar to a person", you could say $lun **$wi** $nin.
 
 And lastly, it should be noted that this verb, isn't really grammatically a verb. It makes more sense to think of it as a verb, however it cannot be used when not in front of $le or $o. For example, the sentence $lun $tope $le $tope would be ungrammatical.
 
