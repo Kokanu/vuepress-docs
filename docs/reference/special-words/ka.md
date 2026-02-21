@@ -18,6 +18,6 @@ $ta $lan $nin $le $se $ka, $le $no $sankan - "**Whether** or not a lot of people
 
 In these examples, there is no ambiguity with whether $ka applies to the whole sentence, or just to the subordinate clause. However, there are some situations in which it is ambiguous as to whether $ka applies to the whole sentence, or just to the relative clause.
 
-$ja $le $wisan $ta $makan $le $loso $ka - "Does he know that the food or bad?" OR "Does he know whether the food is bad?"
+$ja $le $wisan $ta $makan $le $loso $ka - "Does he know that the food is bad?" OR "Does he know whether the food is bad?"
 
 If a comma is added, "$ta $makan $le $loso, $ka", then it's clear that $ka applies to the whole sentence. In situations like these, it is generally recommended to add a comma before $ka, but speakers often omit the comma in context anyways, and as such it is often up to said context as to what the $ka applies to.
