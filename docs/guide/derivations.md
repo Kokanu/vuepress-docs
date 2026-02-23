@@ -14,7 +14,7 @@ When a **modifier** follows a verb marker (like **le** or **o**), it effectively
 |----------------------------|-------------------------------|
 | antomi                     | asleep (modifier)             |
 | **mi le antomi**           | I am asleep / I sleep         |
-| **tu le cenpo**            | you are big                   |
+| **tu le cina**             | you are small                   |
 | **le lijule men momu**     | the bovine is laughing / laughs |
 
 ::: tip New Words
@@ -83,23 +83,21 @@ A **verb** used as a noun becomes its generic object aka what one generally does
 
 | Kokanu phrase               | Meaning                  |
 |------------------------------|--------------------------|
-| makan (verb)                 | to eat → food (noun)     |
-| **mi le makan in makan**     | I eat food               |
-| **mi le ju in makan**        | I want food              |
-| lika (verb)                  | to write → text (noun)   |
-| **mi le suki in lika tu**    | I like your text         |
-| cawapu (verb)                | to answer (a response, an answer)   |
-| **mi le kota in cawapu**     | I say a response         |
+| tene (verb)                  | to give → a gift (noun)  |
+| **mi le tene in tene**       | I give a gift            |
+| **mi le alu in tene**        | I take a gift            |
+| lika (verb)                  | to write → a text (noun)   |
+| pata (verb)                  | to read → a book/document (noun)  |
+| **mi le pata in lika tu**    | I read your text         |
 
 ::: tip New Words
-- **makan** = to eat → food  
-- **lika** = to write → text  
-- **cawapu** = to answer (a response)  
+- **alu** = to take → a taken thing
 :::
 
 ::: warning
 Remember Chapter 1.3: Kokanu’s **direct object** usage may differ from English.  
-The noun form of a verb may not match your intuition (e.g., **cawapu** = to answer a *response*, not a question).  
+The noun form of a verb may not match your intuition (e.g., **cawapu** = to answer a *response*, not a question). This especially applies to *lika* and *pata*:  
+In Kokanu one writes a text specifically and reads a book or document more generally.  
 The dictionary lists all noun/verb/modifier forms explicitly.
 :::
 
@@ -113,13 +111,10 @@ A **noun** used as a modifier means “[noun]-related,” often broadly.
 
 | Kokanu phrase                 | Meaning                        |
 |-------------------------------|--------------------------------|
-| **makan pawo le tope**        | the dog food is good           |
+| **insu neje le hunsi**        | the shedrow is red           |
 | **mi le onton in onton sila** | I wear head-related clothing   |
 
 ::: tip New Words
-- **makan** = food  
-- **pawo** = dog  
-- **tope** = good  
 - **onton** = to wear (clothing)  
 - **sila** = head  
 :::
@@ -134,14 +129,13 @@ A **verb** as a modifier means “-able” (something that can be verb-ed), or �
 
 | Kokanu phrase                 | Meaning                       |
 |-------------------------------|-------------------------------|
-| **kuwosi makan**              | edible fruit / food-like fruit |
-| **men cawapu solu**           | question-like answer          |
+| **talika ikasi**              | a learnable method            |
+| **luwa ocota**                | a god-like ghost          |
 
 ::: tip New Words
-- **kuwosi** = fruit  
-- **makan** = to eat → food  
-- **solu** = to ask (a question)  
-- **cawapu** = to answer (a response)  
+- **talika** = method  
+- **luwa** = ghost/ spirit  
+- **ocota** = to worship/idolize/god → a god/deity
 :::
 
 ---

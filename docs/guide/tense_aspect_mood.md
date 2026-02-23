@@ -23,9 +23,9 @@ For explicit marking, Kokanu uses **three tense modifiers**:
 
 | Kokanu phrase                   | English meaning   |
 |---------------------------------|-------------------|
-| **le lika kenca men mi**        | I write (now)     |
-| **pawo le makan melon in niku** | the dog will eat meat |
-| **tu le teka matin in mi**      | you saw me        |
+| **le kela kenca men mi**        | I play (now)     |
+| **pulusi le jatan melon in niku** | the dog will find the meat |
+| **tu le sema matin in mi**      | you heard me        |
 
 Instead of adding the time as a sort-of adverb, it works like this using a pi-clause:
 
@@ -35,9 +35,10 @@ Instead of adding the time as a sort-of adverb, it works like this using a pi-cl
 - **matin** = past  
 - **kenca** = present  
 - **melon** = future  
-- **lika** = to write  
+- **jatan** = to find
 - **niku** = meat  
-- **teka** = to see  
+- **sema** = to hear  
+- **pulusi** = reptile
 :::
 
 ::: warning
@@ -119,28 +120,32 @@ The particle **o** is very versatile:
 
 | Kokanu phrase           | Meaning                        |
 |--------------------------|--------------------------------|
-| **o teka in mi**         | look at me! (imperative)      |
-| **mi o makan in kuwosi**    | let’s eat / I/we shall eat a fruit (suggestive) |
+| **o sema ki mi**         | listen to me! (imperative)      |
+| **mi o jatan in meja mi**    | lets find my cat/ we should find my cat (suggestive) |
 | **o tope pi melon**      | may you be fine in the future (optative) |
+
+::: tip New Words
+- **tope** = good
+:::
 
 #### Other mood markers
 
-- **hon** — context / if → used for **conditionals**  
+- **hon** — context / if → used for **conditionals** (chapter 5.3)  
 - **kate** — hypothetical (“as if”, counterfactual)  
 - **hakiki** — authentic, realis (“indeed, actually”)  
 
 | Kokanu phrase                               | Meaning                                        |
 |---------------------------------------------|------------------------------------------------|
-| **hon ta tu le pata, men mi le pasan**      | When you read, I am happy                      |
-| **hon ta tu le pata kate, men mi le pasan** | If you would read, I'd be happy (hypothetical) |
-| **mi le suki hakiki in pawo mi**            | I really love my dog (authentic)               |
+| **hon konco, men mi le pasan**      | In the context of job/ Regarding my job, I am happy                      |
+| **hon pilu kate, men mi le pasan** | In the theoretical context of victory, I'd be happy (hypothetical) |
+| **mi le pasan hakiki**            | I am really/actually happy (authentic)               |
 
 ::: tip New Words
 - **o** = imperative / suggestive / optative marker  
 - **hon** = context / if (conditional)  
 - **kate** = hypothetical (as if)  
 - **hakiki** = authentic / realis  
-- **pata** = to read  
+- **konco** = job/profession  
 - **kuwosi** = fruit  
 - **tope** = good  
 :::
