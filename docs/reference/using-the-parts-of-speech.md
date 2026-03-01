@@ -59,7 +59,7 @@ Typically, a standalone content word functions as a **noun**, such as when it's 
 
 ### **Passive Voice**
 
-There is a subject marking particle men which is only needed if you place the subject in a non-leading position in the sentence. When the subject is the first word, you can omit this particle. Using this sentence form has the effect of emphasizing the action on the direct object and de-empasizing the subject, which effectively provides a form of passive voicing.
+There is a subject marking particle men which is only needed if you place the subject in a non-leading position in the sentence. When the subject is the first word, you can omit this particle. Using this sentence form has the effect of emphasizing the action on the direct object and de-emphasizing the subject, which effectively provides a form of passive voicing.
 
 *   $in $kuwosi $le $makan  - "the fruit is/was eaten"
 *   $in $kuwosi $le $makan $men $pawo - "the fruit is/was eaten by the dog"

@@ -77,7 +77,7 @@ Note: This does not mean the word needs to be said in a single word or a short c
 Necessity, commonness and length of compound to be based on precedent and other words admitted under this clause.
 
 Note: This clause is to be used the least, and only for special examples that simplify a huge swath of compounds
-Example: Words such as pixel, speck, (chemical) atom, cell all can be represented in Kokanu by saying smallest indivisible part of X. If that becomes a single word, we simplify all of those concepts. We therefore added a word for the smallest indivisble particle/atom, now sala.
+Example: Words such as pixel, speck, (chemical) atom, cell all can be represented in Kokanu by saying smallest indivisible part of X. If that becomes a single word, we simplify all of those concepts. We therefore added a word for the smallest indivisible particle/atom, now sala.
 
 ### ʜſɛ̄ʃ ɂȷ ʜ̄ȷ xıxſɕ､ ʜſɛ̄ʃ ɂȷ ‹oʌʃ x̄ʌ› | pucon je pen kikuwa, pucon je Ato Kanti | The Ato Kanti Clause
 *If a necessary/common concept has a representation in Kokanu, and it is technically correct, but not how people actually see/rationalize that concept, vocabulary is needed to fix that*

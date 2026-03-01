@@ -102,7 +102,7 @@ Cardinals and Ordinal Numbers
 
 ɞı ʋȷ ʌ̄ſ **ʌıɂſ oȷʌſ oʃɤ ɞʌ̄ı** - $mi $le $tun **$tiju** **$etu** **$osa** **$matin** "I have been working for **eighteen hours**
 
-**Ordinal numbers** are placed **after the noun** These are used to specify the position of an item in a series, like "fourth" or "seventeenth".
+**Ordinal numbers** are placed **after the noun**. These are used to specify the position of an item in a series, like "fourth" or "seventeenth".
 
 **ʜɕʃ ɵ** ʋȷ ʌʃʜȷ oƨı - **$pawo $ha** $le $tope $ani "**The second dog** is the best"
 
@@ -123,7 +123,7 @@ In **fractions**, the numerator is expressed as a number of oʃɤ $osa, "parts",
 
 For **decimals** the whole number is simply followed by ʜ̄ıʌſ $pintu, "point", and the decimal numbers follow consecutively, with no regard for hundreds or thousands places.
 
-ɵ ʜ̄ıʌſ ɤ̄ ɵ ƨ̄xſ ƨ̄xſ - $ha $pintu $san $ha $nanku $nanku "12.3244"
+ɵ ʜ̄ıʌſ ɤ̄ ɵ ƨ̄xſ ƨ̄xſ - $ha $pintu $san $ha $nanku $nanku "2.3244"
 
 ɤ̄ ʜ̄ıʌſ ɕ̄ ƨ̄xſ ɕ̄ ʋıɞ ɤx ɵ ::: - $san $pintu $wan $nanku $wan $lima $saka $ha... "3.141592..."
 
