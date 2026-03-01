@@ -36,7 +36,7 @@ So how would you instead say "a _very cold_ candy"? For that, we need to _regrou
 
 ### wi Regrouping
 
-The derivational marker $wi is used to convert words into a base modifier, and have the meaning of that base modifier be the modifier meaning of the base word. This is already explained on [$wi's page](./special-words/wi.md), so it will not be explained in detail here. However, another ability of $wi is the ability to regroup modifiers. Any words that modify the word that comes after $wi, first apply to the $wi word, get converted into their modifier meaning, and then get applied to the rest of the phrase. What this means is that you can modify modifiers with what are essentialy adverbs, as they form a single unit which modifies the adjective that is getting applied to the noun phrase.
+The derivational marker $wi is used to convert words into a base modifier, and have the meaning of that base modifier be the modifier meaning of the base word. This is already explained on [$wi's page](./special-words/wi.md), so it will not be explained in detail here. However, another ability of $wi is the ability to regroup modifiers. Any words that modify the word that comes after $wi, first apply to the $wi word, get converted into their modifier meaning, and then get applied to the rest of the phrase. What this means is that you can modify modifiers with what are essentially adverbs, as they form a single unit which modifies the adjective that is getting applied to the noun phrase.
 
 Therefore, the grouping for a sentence like:
 $mi $in $sin $wi $tope $lan $le $suki.
@@ -75,7 +75,7 @@ By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ whic
 
 ### Kinds of Genitive Attribution
 
-Using the genitive marker marker is also good for creating many different relationships between two **noun phrases**. What these relationships are differs depending on the context and the words chosen. All of the below genitive relationships were gathered from various forms of genitive attribution from around the world. Not every example is directly translated into English and often English makes use of alternative prepositions like "with", "by", and "for". Kokanu only has those kinds of prepositions attached to a main or subordinate clause of a sentence (essentially, they must be tied to a verb). But equipped with the simple $je marker, context and supporting word choices, you can effectively communicate all of these genitive relations. If after all of that, your listener/reader still does not understand, you can make use of clarifying words to clarify the specific meaning you were trying to achieve.
+Using the genitive marker is also good for creating many different relationships between two **noun phrases**. What these relationships are differs depending on the context and the words chosen. All of the below genitive relationships were gathered from various forms of genitive attribution from around the world. Not every example is directly translated into English and often English makes use of alternative prepositions like "with", "by", and "for". Kokanu only has those kinds of prepositions attached to a main or subordinate clause of a sentence (essentially, they must be tied to a verb). But equipped with the simple $je marker, context and supporting word choices, you can effectively communicate all of these genitive relations. If after all of that, your listener/reader still does not understand, you can make use of clarifying words to clarify the specific meaning you were trying to achieve.
 
 #### Descriptive Genitive
 
@@ -169,7 +169,7 @@ $non $pani $je $han $limijen $je $micin (lit. water body of inner possession of
 
 #### Epexegetical Genitive
 
-Specifies the attached genitive phrase as being another separate way to to explain the preceding phrase. "which is", "that is", "namely", "who is" are equivalent English expressions.
+Specifies the attached genitive phrase as being another separate way to explain the preceding phrase. "which is", "that is", "namely", "who is" are equivalent English expressions.
 
 $tene $je $makan "gift which is food" (lit. gift of food)
 
@@ -231,7 +231,7 @@ $lipan $je $te $pijen $sun $ukama $honja (lit. absence of which is becoming from
 
 #### Genitive of Source
 
-Specifies the origin of the preceding phrase. "out of", "derived from", "dependent on" are equivalent English expressions. This genitive can often be bettered expressed using the $sun thematic role marker.
+Specifies the origin of the preceding phrase. "out of", "derived from", "dependent on" are equivalent English expressions. This genitive can often be better expressed using the $sun thematic role marker.
 
 $pani $nase $hunsi $je $pumi Chanpen "wine out of Champagne" (lit. red intoxicated liquid of land Champagne)  
   
@@ -349,7 +349,7 @@ $mi $le $kota $je $husu $je $meja (lit. we said the topic of cats)
 
 #### Plenary Genitive
 
-Specifies or describes the subject _and_ object of the preceding phrase when the preceding phrase is a verb phrase or a noun phrase that contains an action. Both subjective and objective genitive forms fit and the meanings should not contract but instead complement each other.
+Specifies or describes the subject _and_ object of the preceding phrase when the preceding phrase is a verb phrase or a noun phrase that contains an action. Both subjective and objective genitive forms fit and the meanings should not contradict but instead complement each other.
 
 $te $amo, $je $ocota "love of God" (lit. loving of God)
 
