@@ -14,7 +14,7 @@ Here are a few more examples, with their original meaning, and then their new me
 | teka | to see (a sight) | visible/sight-like | visbility/sight-like-ness | to be visible/sight-like |
 | onton | to wear (clothing) | wearable/clothing-like | wearability/clothing-like-ness | to be wearable/clothing-like |
 
-Due to how $wi functions, when it is used with a base modifier, it has no effect. $wi converts the base modifier into a base modifier that means the modifier meaning of the base modifier, so it literally converts it to itself. So the two phrases "tope" and "wi tope" are indentical.
+Due to how $wi functions, when it is used with a base modifier, it has no effect. $wi converts the base modifier into a base modifier that means the modifier meaning of the base modifier, so it literally converts it to itself. So the two phrases "tope" and "wi tope" are identical.
 
 This, however, does not mean that $wi is useless with base modifiers. Most obviously, because in order to negate a modifier, you'd have to say $wi $no \<modifier\>.
 
