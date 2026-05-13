@@ -22,7 +22,7 @@ $na $le **$sone $lan so** $ne. - "That is **very different than** this"
 
 $na $pawo $le $se $teka $wi **$saman $cimi** $so $pawo $mi. - "That dog looks **exactly like** mine"
 
-$tu **so** $ja $le $se $teka $wi $saman $ema $la! - "You and him look **kinda similar**!"
+$tu **so** $ja $le $se $teka $wi $saman $eme $la! - "You and him look **kinda similar**!"
 
 Superlatives
 ------------
@@ -39,7 +39,7 @@ $mi $le $nin $wi **wiki ani**. "I am the fastest person", literally "I am the ut
 
 "I ate the most" can be translated either as:
 
-$mi $le $makan $matin $mese **so $ani**. - "I ate **the most**"
+$mi $le $makan $matin $mese **so $ani**. - "I ate **the most**", literally "I ate more than all"
 
 or
 
