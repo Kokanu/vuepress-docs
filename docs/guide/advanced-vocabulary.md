@@ -16,12 +16,12 @@ Proper names are **always capitalized** just like in english. The difference is 
 
 ## 8.2 Directions
 
-### Rellative Directions
+### Relative Directions
 Kokanu expresses directions as base nouns. There are six base directions:
 
 | Kokanu         | English   |
 |----------------|-----------|
-| jamin |(the) right    |
+| jamin | (the) right   |
 | pajan | (the) left    |
 | polan | (the) forward |
 | pice  | (the) back    |
@@ -34,7 +34,7 @@ They are used and derived just like any other noun.
 
 | Kokanu         | English   |
 |----------------|-----------|
-| Malija le pi pice tu  |Maria is behind you |
+| Malija le pi pice tu  | Maria is behind you |
 | nin malo le nan te teka in lan | the person above is able to see a lot   |
 
 ### Cardinal Directions
