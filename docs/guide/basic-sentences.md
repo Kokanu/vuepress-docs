@@ -25,6 +25,10 @@ The main verb in a sentence is usually marked by **le** (exceptions in 2.2 and 5
 | kota    |    speak       |
 | **tu le kota** | you speak |
 
+::: warning
+Notice: Kokanu words often refer to a more general concept than similar English words. For example **makan** refers to any consumption of food, both solid and liquid.
+:::
+
 ---
 
 ### 1.2 Pronouns
@@ -52,7 +56,7 @@ Like any other word in Kokanu, pronouns do **not** carry grammatical information
 In Kokanu, every **base verb** is **transitive** (for intransitives, see Chapter 3).  
 This means one can always form a **direct object**, marked by **in**.  
 
-The direct object, like the subject, must be a **noun** or **pronoun**.  
+The direct object, like the subject, must be a **pronoun** or acts like a **noun**.
 
 **Examples:**
 
@@ -101,8 +105,8 @@ The last word type are **modifiers**. As the name suggests, they **modify other 
 | **mi le makan wiki in kuwosi hunsi**    | I quickly eat a red fruit |
 | **pawo cenpo le teka in sa**            | the big dog sees itself   |
 | **insu cenpo hunsi**                    | big red building          |
-| **pawo mi**                             | my dog                    |
-| **kuwosi ja**                           | their fruit               |
+| **kuku mi**                             | my bird                   |
+| **ukiki ja**                           | their monkey               |
 
 ::: tip New Words
 - **wiki** = fast  
