@@ -56,7 +56,9 @@ Like any other word in Kokanu, pronouns do **not** carry grammatical information
 In Kokanu, every **base verb** is **transitive** (for intransitives, see Chapter 3).  
 This means one can always form a **direct object**, marked by **in**.  
 
-The direct object, like the subject, must be a **pronoun** or acts like a **noun**.
+The direct object, like the subject, always acts as a **noun** (or pronoun), regardless of its base category.
+
+If the direct object is not a **base noun**, it will be converted into a noun, which will be covered later (Chapter 3).
 
 **Examples:**
 
@@ -78,7 +80,7 @@ The direct object, like the subject, must be a **pronoun** or acts like a **noun
 
 ::: warning
 The direct object in Kokanu may differ from English.  
-For example: in English you *answer a question*; in Kokanu you *answer a response*.  
+For example: in English you *answer a question*; in Kokanu you *answer \[with\] a response*.  
 :::
 
 Some verbs come with a built-in preposition. For instance:  
