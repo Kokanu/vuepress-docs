@@ -16,11 +16,13 @@ But this is not required.
 | mi le amo in pawo mi             | I love my dog          |
 | mi in pawo mi le amo             | I love my dog          |
 
-When the **subject is not first**, ambiguity arises:
+However, if we continue to not mark the subject, when the **subject is not first**, ambiguity arises:
 
-- **le amo in pawo mi mi** → will be read as a misspelling of **le amo in pawo mi** - *“(someone) loves my dog”* or *“my dog is loved (by someone)”* — which is, in fact, how you resemble the **passive voice** in Kokanu.
+- **le amo in pawo mi mi**
+- **in pawo mi mi le amo**
+- (*Are you saying "my" twice?*)
 
-To avoid this, the subject must be marked with **men** when it is not in the first position:
+To avoid this, the subject *must* be marked with **men** when it is not in the first position:
 
 - **in pawo mi le amo men mi**  
 - **le amo men mi in pawo mi**  
