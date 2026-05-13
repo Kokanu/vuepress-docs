@@ -112,7 +112,7 @@ A **noun** used as a modifier means “[noun]-related,” often broadly.
 
 | Kokanu phrase                 | Meaning                        |
 |-------------------------------|--------------------------------|
-| **insu neje le hunsi**        | the shedrow is red           |
+| **insu neje le hunsi**        | the stable is red           |
 | **mi le onton in onton sila** | I wear head-related clothing   |
 
 ::: tip New Words
