@@ -17,7 +17,7 @@ Proper names are **always capitalized** just like in english. The difference is 
 ## 8.2 Directions
 
 ### Rellative Directions
-Kokanu expresses directiones as base nouns. There are six base directions:
+Kokanu expresses directions as base nouns. There are six base directions:
 
 | Kokanu         | English   |
 |----------------|-----------|
@@ -38,7 +38,7 @@ They are used and derived just like any other noun.
 | nin malo le nan te teka in lan | the person above is able to see a lot   |
 
 ### Cardinal Directions
-Kokanu has no words for cardinal directions (west, east, south, nord). You have to describe them somehow. 
+Kokanu has no words for cardinal directions (west, east, south, north). You have to describe them somehow. 
 
 One way to describe them is
 
@@ -46,7 +46,7 @@ One way to describe them is
 |----------------|-----------|
 | pi titan je kin je tepu kin | at the direction of the beginning of the day / east |
 | pi titan je kin je konje kin | at the direction of the end of the day / west 
-|pi titan je jamin kin| atthe direction of the right of the sun / north 
+|pi titan je jamin kin| at the direction of the right of the sun / north 
 |pi titan je pajan kin|at the direction of the right of the sun / south |
 
 ::: tip New Words
@@ -54,6 +54,6 @@ One way to describe them is
 - **titan** =  way/path
 :::
 
-Left and right are both from the perspective of the sun facing towards it's moving direction rellative to the earth. 
-Those descriptions however are **not official**. You should allways use whatever is the simples and most natural for you and your conversation partner(s). 
+Left and right are both from the perspective of the sun facing towards it's moving direction relative to the earth. 
+Those descriptions however are **not official**. You should always use whatever is the simplest and most natural for you and your conversation partner(s). 
 
