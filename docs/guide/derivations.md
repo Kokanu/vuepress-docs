@@ -95,9 +95,10 @@ A **verb** used as a noun becomes its generic object aka what one generally does
 :::
 
 ::: warning
-Remember Chapter 1.3: Kokanu’s **direct object** usage may differ from English.  
-The noun form of a verb may not match your intuition (e.g., **cawapu** = to answer a *response*, not a question). This especially applies to *lika* and *pata*:  
-In Kokanu one writes a text specifically and reads a book or document more generally.  
+Remember Chapter 1.3: Kokanu’s **direct object** usage may differ from English. The noun form of a verb may not match your intuition (e.g., **cawapu** = to answer [with] a *response*, not a question). This also applies to *lika* and *pata*:  
+
+In Kokanu, when used as nouns, *lika* is more often used to communicate literal text, while *pata* is more often used to communicate a document or page (so a collection of text).
+
 The dictionary lists all noun/verb/modifier forms explicitly.
 :::
 
