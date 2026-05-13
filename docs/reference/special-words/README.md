@@ -3,12 +3,12 @@
 Some words in Kokanu have special functions.
 
 ## Prepositions
-* [so - comparisons](so.md)
 * [sun - "from"](sun.md)
 * [ki - "to"](ki.md)
 * [hon - context particle](hon.md)
 
 ## Particles
+* [so - comparisons](so.md)
 * [ka - interrogative particle](ka.md)
 * [la - exclamation](la.md)
 * [peko - please](peko.md)
@@ -16,6 +16,8 @@ Some words in Kokanu have special functions.
 ## Derivational markers
 * [lun - causative](lun.md)
 * [wi - modifier forcing](wi.md)
+* mu - agent
+* pan - causative agent
 
 ## Verbs
 * [se - "to be"](se.md)
