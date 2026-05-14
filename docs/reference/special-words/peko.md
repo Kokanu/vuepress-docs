@@ -1,7 +1,13 @@
 # peko
 
-Mainly used to end **main clauses** (e.g. $mi $le $ju $in $na **peko** 'I want that please'); incompatible with subordinate and relative clauses
+Used to end **main clauses**, and as an interjection.
 
-Does not alter literal meaning, but humbles the speaker.
+Similar to the word "please" when used to end a main clause.
 
-When used on its own, it means "hello", "please", "thank you", or "sorry".
+When used on its own as an interjection, it can mean "hello", "weclome", "please", "thank you", "sorry", etc. (any pleasantry, decided by context).
+
+### Examples
+
+$mi $le $ju $in $na **peko** - "I want that please"
+
+**peko** $la $he $nin $neso! - "Hello new people!"
