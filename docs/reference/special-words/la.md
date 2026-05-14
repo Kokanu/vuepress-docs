@@ -4,8 +4,8 @@ Used to add exclamation/emphasis, or used as a general interjection. Usually pla
 
 ### Examples
 
-$na $le $tope $lan $la - "That is so good!"
+$na $le $tope $lan **la** - "That is so good!"
 
-$mi $le $no $wisan $matin $in $ne $la - "I didn't know this before!"
+$mi $le $no $wisan $matin $in $ne **la** - "I didn't know this before!"
 
-$laa, $mi $le $no $wisan - "Ahh, I don't know"
+**laa**, $mi $le $no $wisan - "Ahh, I don't know"
