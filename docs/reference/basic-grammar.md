@@ -27,6 +27,8 @@ Verbs are marked by the particles $le and $o.
 
 **Nouns** are marked by the **prepositions**, like $men, $in, $ki, and $wija.
 
+And as you can probably see from the above example, there are no articles in Kokanu.
+
 |Likanu|Latin script|English|
 |-|-|-|
 | [ɞ̄ȷ ɞı]{.red} [ʋȷ ɞx̄]{.green} **ōı ɞx̄**{.blue}: | [men mi]{.red} [le makan]{.green} **in makan**{.blue}. | [I]{.red} [eat]{.green} **food**{.blue}. |
@@ -41,7 +43,8 @@ Check out the [Word Derivations](word-derivations.md) guide for more info.
 
 * * *
 
-### Relations between action and noun phrases
+Noun Phrases and Action Phrases
+----------
 
 The structure of a Kokanu sentence is formed from an **action phrase**, marked by $le or $o, surrounded by **noun phrases** which relate to the action in some way. $men marks a **noun phrase** which is the **agent** of the action. $in marks a **noun phrase** which is the object of the action. $ki marks a **noun phrase** which is the recipient of the action. $wija marks a **noun phrase** which is the instrument of the action. The **action phrases** and **noun phrases** can be placed in any order as long as they are marked properly.
 
@@ -56,19 +59,33 @@ When the subject is at the _start_ of a sentence, however, $men can be dropped.
 | [ɞ̄ȷ ɞı]{.red} [ʋȷ ɞx̄]{.green}: | [men mi]{.red} [le makan]{.green}. |
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green}: | [mi]{.red} [le makan]{.green}. |
 
-**Prepositions**, $le, and $o can be negated by placing $no after them. $no can also be used to negate specific attributes when combined with particles, which will be explained later.
+* * *
+
+Negation
+----------
+
+**Prepositions**, certain particles, $le, and $o can be negated by placing $no after them. $no does *not* negate content words, only certain grammatical particles. However, $no can also be used to negate specific attributes of a phrase when negating said particles, which will be explained later.
 
 These three sentences mean the same thing but have different emphasis:
 
 |Likanu|Latin script|English|
 |-|-|-|
-| [ɞı]{.red} **ʋȷ**{.green} **ƨʃ**{.yellow} **ɞx̄**{.green} [ōı xſɕʃɤı]{.blue}: | [mi]{.red} **le**{.green} **no**{.yellow} **makan**{.green} [in kuwosi]{.blue}. | [I]{.red} **don’t**{.yellow} **eat**{.green} [fruit]{.blue}. (but I may do something else to it) |
+| [ɞı]{.red} **ʋȷ**{.green} **ƨʃ**{.yellow} **ɞx̄**{.green} [ōı xſɕʃɤı]{.blue}: | [mi]{.red} **le**{.green} **no**{.yellow} **makan**{.green} [in kuwosi]{.blue}. | [I]{.red} **don’t**{.yellow} **eat**{.green} [fruit]{.blue}. (**no emphasis** *or* but I may do something else to it) |
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} **ōı**{.blue} **ƨʃ**{.yellow} **xſɕʃɤı**{.blue}: | [mi]{.red} [le makan]{.green} **in**{.blue} **no**{.yellow} **kuwosi**{.blue}. | [I]{.red} **don’t**{.yellow} [eat]{.green} **fruit**{.blue}. (but I may eat something else) | 
 | **ɞ̄ȷ**{.red} **ƨʃ**{.yellow} **ɞı**{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue}: | **men**{.red} **no**{.yellow} **mi**{.red} [le makan]{.green} [in kuwosi]{.blue}. | **I**{.red} **don’t**{.yellow} [eat]{.green} [fruit]{.blue}. (but someone/thing else may) |
 
+In order to negate the entire phrase with no emphasis, $no is placed after the verb-marking particle (either $le or $o). However, this is also the way to put emphasis on the fact that the verb alone is being negated.
+
+Depending on context, and the tone of the speaker, the negation of the of the verb-marking particle *may* imply that specifically and only the verb is being negated, *or* that the entire phrase is being negated. The default assumption is usually that there is no specific emphasis on the verb, as negation of specifically the verb can be communicated in other ways (most chiefly, italics when in text, or tone when spoken).
+
+* * *
+
+Conjunctions
+----------
+
 Conjunctions in Kokanu can be placed between nouns in a phrase, or between sentences.
 
-However, "un", meaning "and", is not required like it is in English. In phrases where two nouns of the same function are next to each other, (e.g. me **and** you go to the park) "un" may be used on its own, the preposition may be repeated, or both strategies may be combined. "un" may still be used to connect sentences together like in English.
+However, $un, meaning "and", is not required like it is in English. In phrases where two nouns of the same function are next to each other, (e.g. me **and** you go to the park) "un" may be used on its own, the preposition may be repeated, or both strategies may be combined. $un may still be used to connect sentences together like in English.
 
 |Likanu|Latin script|English|
 |-|-|-|
@@ -77,7 +94,12 @@ However, "un", meaning "and", is not required like it is in English. In phrases 
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} [**ōſ**]{.yellow} [**ōı** oſxɞ]{.blue}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [**in** ukama]{.blue}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [vegetables]{.blue}. |
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} **ōſ**{.yellow} [ɞı]{.red} [ʋȷ ʋʃ]{.green} [ɤ̄ſ ƨȷ ɂ̄]{.magenta}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [mi]{.red} [le lo]{.green} [sun ne jan]{.magenta}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [I]{.red} [move]{.green} ([from this place]{.magenta}). |
 
-An imperative statement is created by replacing $le with $o. When there is a subject in the phrase, the phrase is interpreted as a suggestion, however if the subject is dropped, the phrase is interpreted as a command.
+* * *
+
+Suggestions and Imperatives
+----------
+
+An imperative statement is created by replacing $le with $o. When there is a subject in the phrase, the phrase is usually interpreted as a suggestion, however if the subject is dropped, the phrase is usually interpreted as a command.
 
 |Likanu|Latin script|English|
 |-|-|-|
@@ -89,17 +111,84 @@ For more information, see [Using the Parts of Speech](using-the-parts-of-speech.
 
 * * *
 
-### Relations between words within phrases
+Modifiers
+----------
 
-**Modifiers** come after a **noun** to indicate an **adjective**, or after a **verb** to indicate an **adverb**. **Quantity words** serve ordinary functions as **modifiers**, but have an additional quantity function when _preceding_ a word. All numbers are ordinals when placed after a noun, but are cardinals when placed before.
+Remember that depending on the context, all words can act as a **noun**, **modifier**, or **verb**. Which one a word acts as depends upon where it is placed in a sentence.
+
+**Modifiers** come after a **noun** to indicate an **adjective**, or after a **verb** to indicate an **adverb**. This means that any time a content word comes after another content word in succession, that the latter content word acts as a modifier. This means that all adjectives and adverbs come *after* the words that they modify, the opposite of English.
+
+|Likanu|Latin script|English|
+|------|------------|-------|
+| ɂ̄ [ʌʃʜȷ]{.yellow} | jan [tope]{.yellow} | [good]{.yellow} place |
+| ʜɕʃ [xſɤ]{.yellow} |  pawo [kusa]{.yellow} | [angry]{.yellow} dog |
+| ʜʌ̄ſ [ʜſɞı]{.yellow} |  patun [pumi]{.yellow} | [land-related]{.yellow} stillness |
+| ɞx̄ [ʌſxʃ ʜ]{.yellow} |  makan [tuko pa]{.yellow} | [hot touchable]{.yellow} food |
+| xſɕʃɤı [ɤȷʜʃ ɕ̄xſ]{.yellow} |  kuwosi [sepo wanku]{.yellow} | [curved yellow]{.yellow} fruit |
+
+Unlike in English, where certain adjective order can feel weird, or even alter meaning, there is no specific modifier order in Kokanu.
+
+- pawo [hunsi cenpo]{.yellow} / ʜɕʃ [ɵ̄ſɤı ɛ̄ȷʜʃ]{.yellow}
+- pawo [cenpo hunsi]{.yellow} / ʜɕʃ [ɛ̄ȷʜʃ ɵ̄ſɤı]{.yellow}<br>
+(Both sound fine!)
+
+- Big red dog (sounds fine!)
+- Red big dog (wha?)
+
+The only place where this doesn't apply is in lexicalized phrases. Certain lexicalized phrases can sound a bit weird, or even not be recognized, if their noun and modifier components are split up.
+
+* * *
+
+Quantities
+----------
+
+**Quantity words** are words that serve special grammatical function, and that have multiple meanings depending on where they're placed. There are two types of quantity words: numbers and amounts.
+
+Quantity words may be placed in two different places, and where they're placed affects meaning. Quantity words serve an ordinary purpose as modifiers, but serve an additional function when *preceding* nouns.
+
+When quantity words which are **numbers** (e.g. one, seven, nine, a hundred, etc.) are used as **modifiers** (i.e. placed after the noun), they act as **ordinals** (*1st* place, the *100th* dog, the *8th* person). But when they are placed before a noun, they act as **cardinals** (*one* dog, *a hundred* cats, *four* cars).
 
 |Likanu|Latin script|English|
 |------|------------|-------|
 | xſɕʃɤı [ɕ̄]{.yellow} | kuwosi [wan]{.yellow} | [first]{.yellow} fruit |
 | [ɕ̄]{.yellow} xſɕʃɤı | [wan]{.yellow} kuwosi | [one]{.yellow} fruit |
-| ʌʃʜȷ [ʋ̄]{.yellow} | tope [lan]{.yellow} | [very]{.yellow} good |
-| [ʋ̄]{.yellow} ʌʃʜȷ | [lan]{.yellow} tope | [several]{.yellow} goodnesses |
+| ʜʌ [ɤȷʌ̄]{.yellow} | pata [setan]{.yellow} | [seventh]{.yellow} document |
+| [ɤȷʌ̄]{.yellow} ʜʌ | [setan]{.yellow} pata | [seven]{.yellow} documents |
+| ʜɕʃ [ɤıɂ̄ȷ]{.yellow} | pawo [sijen]{.yellow} | [one hundredth]{.yellow} dog |
+| [ɤıɂ̄ȷ]{.yellow} ʜɕʃ | [sijen]{.yellow} pawo | [one hundred]{.yellow} dogs |
+
+When quantity words which are **amounts** (e.g. a lot, some, all, more) are used as **modifiers** (i.e. placed after the noun), they act to determine **the intensity**. But when they are placed before a noun, they act to determine **the amount**.
+
+|Likanu|Latin script|English|
+|------|------------|-------|
+| ʌʃʜȷ [ʋ̄]{.yellow} | tope [jati]{.yellow} | [somewhat]{.yellow} good |
+| [ʋ̄]{.yellow} ʌʃʜȷ | [jati]{.yellow} tope | [some]{.yellow} goodnesses |
+| ɞı [ʋ̄]{.yellow} | mi [lan]{.yellow} | very (much) me |
 | [ʋ̄]{.yellow} ɞı | [lan]{.yellow} mi | we |
+| ƨȷɂȷ [ɂʌı]{.yellow} | neje [jati]{.yellow} | [somewhat]{.yellow} horse-like |
+| ɂʌı] [ƨȷɂȷ]{.yellow} | [jati]{.yellow} neje | [some]{.yellow} horses |
+| ʋɞʃ [oƨı]{.yellow} | lamo [ani]{.yellow} | [most]{.yellow} long / long[est]{.yellow} |
+| [oƨı]{.yellow} ʋɞʃ | [ani]{.yellow} lamo | [all of the]{.yellow} lengths |
+| ʜɤ̄ [ɞȷɤȷ]{.yellow} | pasan [mese]{.yellow} | [more]{.yellow} happy  / happ[ier]{.yellow} |
+| [ɞȷɤȷ]{.yellow} ʜɤ̄ | [mese]{.yellow} pasan | [more]{.yellow} happinesses |
+
+::: warning
+Although $tope $jati was written as "somewhat good", this is not what it would mean as a noun. It would instead mean "somewhat goodness".
+
+The examples where the quantity word came *after* the head word had their modifier-meaning shown in order to ease understanding of what the quantity words actually did. The page on [Word Derivations](word-derivations.md) describes how these word class conversions operate.
+:::
+
+* * *
+
+Determiners
+----------
+
+woah detmienrs woahh
+
+* * *
+
+je and stuff change this pls
+----------
 
 The word $je is similar to the word “of” in English. The word following it is always derived as a **noun**.
 
