@@ -106,6 +106,7 @@ An imperative statement is created by replacing $le with $o. When there is a sub
 | [ʌſ]{.red} [ʋȷ ʋʃ]{.green}: | [tu]{.red} [le lo]{.green}. | [You]{.red} [move]{.green}. |
 | [ʌſ]{.red} [oʃ ʋʃ]{.green}ʭ | [tu]{.red} [o lo]{.green}! | [You]{.red} [should move]{.green}! |
 | [oʃ ʋʃ]{.green}ʭ | [o lo]{.green}! | [Move]{.green}! |
+| [ɵȷ ʌſ]{.red} [oʃ ʋʃ]{.green}ʭ | [he tu]{.red} [o lo]{.green}! | [Hey you]{.red}, [move]{.green}! |
 
 For more information, see [Using the Parts of Speech](using-the-parts-of-speech.md).
 
@@ -146,7 +147,7 @@ Quantities
 
 Quantity words may be placed in two different places, and where they're placed affects meaning. Quantity words serve an ordinary purpose as modifiers, but serve an additional function when *preceding* nouns.
 
-When quantity words which are **numbers** (e.g. one, seven, nine, a hundred, etc.) are used as **modifiers** (i.e. placed after the noun), they act as **ordinals** (*1st* place, the *100th* dog, the *8th* person). But when they are placed before a noun, they act as **cardinals** (*one* dog, *a hundred* cats, *four* cars).
+When quantity words which are **numbers** (e.g. one, seven, nine, a hundred, etc.) are used as **modifiers** (i.e. placed after the head word), they act as **ordinals** (*1st* place, the *100th* dog, the *8th* person). But when they are placed before the head word, they act as **cardinals** (*one* dog, *a hundred* cats, *four* cars).
 
 |Likanu|Latin script|English|
 |------|------------|-------|
@@ -157,7 +158,7 @@ When quantity words which are **numbers** (e.g. one, seven, nine, a hundred, etc
 | ʜɕʃ [ɤıɂ̄ȷ]{.yellow} | pawo [sijen]{.yellow} | [one hundredth]{.yellow} dog |
 | [ɤıɂ̄ȷ]{.yellow} ʜɕʃ | [sijen]{.yellow} pawo | [one hundred]{.yellow} dogs |
 
-When quantity words which are **amounts** (e.g. a lot, some, all, more) are used as **modifiers** (i.e. placed after the noun), they act to determine **the intensity**. But when they are placed before a noun, they act to determine **the amount**.
+When quantity words which are **amounts** (e.g. a lot, some, all, more) are used as **modifiers** (i.e. placed after the head word), they act to determine **the intensity**. But when they are placed before the head word, they act to determine **the amount**.
 
 |Likanu|Latin script|English|
 |------|------------|-------|
@@ -180,10 +181,30 @@ The examples where the quantity word came *after* the head word had their modifi
 
 * * *
 
-Determiners
+Demonstratives
 ----------
 
-woah detmienrs woahh
+**Demonstratives** are a word class that function similarily to quantity words. When placed before the head word, they act as determiners, and signify *which* noun is being talked about. When placed after the head word (i.e. when acting as modifiers), demonstratives stand in as a modifier, and signify *which* modifier is being talked about.
+
+There are only three demonstratives: $ne (this), $na (that), and $ci (what).
+
+When placed before the head word, they act exactly as you would expect them to in English.
+
+|Likanu|Latin script|English|
+|------|------------|-------|
+| [ƨ]{.yellow} xſɕʃɤı | [na]{.yellow} kuwosi | [that]{.yellow} fruit |
+| [ƨȷ]{.yellow} ʋıx | [ne]{.yellow} lika | [this]{.yellow} text |
+| [ɛı]{.yellow} ɂ̄ | [ci]{.yellow} jan | [what]{.yellow} place |
+
+However, when placed *after* the head word, they instead act to stand in for a modifier. Using the example of $na, this would mean that putting $na after a head word would mean something along the lines of "like that" or "that kind of".
+
+|Likanu|Latin script|English|
+|------|------------|-------|
+| xſɕʃɤı [ƨ]{.yellow} | kuwosi [na]{.yellow} | fruit [like that]{.yellow} / [that kind of]{.yellow} fruit |
+| ʋıx [ƨȷ]{.yellow} | lika [ne]{.yellow} | text [like this ]{.yellow} / [that kind of]{.yellow} text |
+| ɂ̄ [ɛı]{.yellow} | jan [ci]{.yellow} | place [like what]{.yellow} / [what kind of]{.yellow} place |
+
+Note: the word $soto can be used to say this more explicitly, and they have a similar meaning, but a slightly different pragmatic meaning.
 
 * * *
 
