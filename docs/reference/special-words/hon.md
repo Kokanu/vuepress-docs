@@ -15,7 +15,7 @@ This could be interpreted as "a few days ago" or "in the past days", interpretin
 
 Times are not _always_ relative to simple ideas like "today", "tomorrow", or "in three days". Sometimes, you need to talk about something relative to a specific event. For this, we state the context as literally "time that ...", with the $pi preposition dangling (or with $ja being used to close it off).
 
-**hon** $ten $ta $mi $le $makan $matin $in $kuwosi $an, $men $mi $le $pasan - "When I ate fruit, I was happy"
+**hon** $ten $ta $mi $le $makan $matin $in $kuwosi $pi, $men $mi $le $pasan - "When I ate fruit, I was happy"
 
 Keep in mind, any references to time can also be made with the preposition $pi. This is especially true when referencing specific times that things happened.
 
@@ -41,9 +41,9 @@ If providing time as context (sometimes) makes a when-clause, what happens when 
 
 $tu $le $tope **hon** $kanisa $mi - literally "In the context of my thoughts, you are good", or roughly "you are good imo"
 
-Within Kokanu communities, $hon $kanisa $mi is quite a common expression. It it sometimes, when it makes sense in context, shortened to $hon $mi (lit. "as for me").
+Within Kokanu communities, $hon $kanisa $mi is quite a common expression. $hon $mi is often used to communicate the same idea (lit. "as for me").
 
-**hon** $te $kota $tuntan $je Kokanu, $men $tu $o $teka $in $ne $pata $ikasi. - Roughly, "On the topic of Kokanu grammar, read this guide." (lit. "In the context of speaking Kokanu correctly, you should read this learning document")
+**hon** $te $kota $tuntan $je Kokanu, $men $tu $o $teka $in $ne $pata $ikasi. - Roughly, "On the topic of speaking Kokanu well, read this guide." (lit. "In the context of speaking Kokanu correctly, you should read this learning document")
 
 **hon** $lantan $te $hunsi $matin, $men $mi $le $lun $nile $in $ja - "About the car that was red, I am making it blue"
 
@@ -53,7 +53,8 @@ When providing a subordinate clause as context, it is usually interpreted as say
 
 **hon** $ta $lantan $le $hunsi $kate, $men $mi $le $lun $nile $in $ja - "If the car is red, I will make it blue"
 
-The tense of this sentence is unspecified, and the $hon statement is more saying that in any context where the statement is true, the action will be performed. If you're referring to a specific situation, it's more common to say:<br>
+The tense of this sentence is unspecified, and the $hon statement is more saying that in any context where the statement is true, the action will be performed. If you're referring to a specific situation, it's more common to say:
+
 **pi** $ta $lantan $le $hunsi, $men $mi $le $lun $nile $in $ja - "When the car is red, I will paint it blue"
 
 Whether or not this statement is hypotethetical is ambiguous and up to context.
@@ -66,7 +67,10 @@ Keep in mind that this statement could be in any tense. It could be "Given that 
 
 ### Examples
 
-**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want go to the restaurant, then I want to go with you"<br>
-**hon** $ta $na $le $sankan $men $lan $mi $o $kosan $in $pan $tuntan $te $po $na $pan $katin - "Given that that's important, we should create a solution for that problem"<br>
-$Inkilisi $le $katin **hon** $nin $Nihon - "English is hard for Japanese people"<br>
+**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want go to the restaurant, then I want to go with you"
+
+**hon** $ta $na $le $sankan, $men $lan $mi $o $kosan $in $pan $tuntan $te $po $na $pan $katin - "Given that that's important, we should create a solution for that problem"
+
+$Inkilisi $le $katin **hon** $nin $Nihon - "English is hard for Japanese people"
+
 **hon** $ten $nelo $melon $men $mi $le $ju $konen $te $no $lo $ki $jan $enteken - "Tonight I'll probably not want to go the park"

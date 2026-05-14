@@ -52,8 +52,8 @@ This can also be extended to $menu $so $ani, meaning "less than all", to communi
 Examples
 -------------
 
-$mi $le $wisan $mese $so $ani $wala $mi. - "I know more than my siblings"
+$mi $le $wisan $mese **so** $ani $wala $mi. - "I know more than all of my siblings"
 
-$ja $le $tope $so $na $mu $loso. - "It's better than *that* bad thing"
+$ja $le $tope **so** $na $mu $loso. - "It's better than *that* bad thing"
 
-$so $hen $nanku $mani $men $hen $san $le $no $lan. - "Compared to ten thousand dollars, one thousand isn't a lot'"
+**so** $hen $nanku $mani $men $hen $san $le $no $lan. - "Compared to ten thousand dollars, one thousand isn't a lot'"
