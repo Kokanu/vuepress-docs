@@ -1,6 +1,6 @@
 # lun
 
-$lun is a particle that turns words into a verb meaning "to \<word\>-ify X" or "to make X into \<word\>".
+**lun** is a particle that turns words into a verb meaning "to \<word\>-ify X" or "to make X into \<word\>".
 
 ### Use
 
@@ -28,12 +28,12 @@ If you are looking to use the object of a $lun phrase as as a noun or modifier, 
 
 ### Examples
 
-$mi $le $lun $panli $in $kuwosi - "I cut the fruit"
+$mi $le **lun** $panli $in $kuwosi - "I cut the fruit"
 
-$le $lun $wi $watan $wa $jati $men $tu $in $pansin - "You kinda made the square round"
+$le **lun** $wi $watan $wa $jati $men $tu $in $pansin - "You kinda made the square round"
 
-$le $loso $men $te $lun $tiku $in $nin - "Killing people is bad" (🤯)
+$le $loso $men $te **lun** $tiku $in $nin - "Killing people is bad" (🤯)
 
-$in $lan $sin $men $ja $le $lun $kikuwa - "It made a lot of things strange"
+$in $lan $sin $men $ja $le **lun** $kikuwa - "It made a lot of things strange"
 
-$hon $husu $in $tasuwi $le $lun $wen $puka $men $mi - "I made the drawing about heaviness" (lit. regarding topics, I made the drawing into heaviness)
+$in $husu $je $tasuwi $le **lun** $wen $tiku $men $mi - "I made the drawing about death" (lit. I made the topic of the drawing into death)
