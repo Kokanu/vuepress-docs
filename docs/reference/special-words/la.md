@@ -1,5 +1,11 @@
 # la
 
-Mainly used to end **main clauses** to add exclamation/emphasis (e.g. $na $le $tope $lan $la 'That is so good!'); incompatible with subordinate and relative clauses.
+Used to add exclamation/emphasis, or used as a general interjection. Usually placed at the end of clauses when adding emphasis.
 
-Does not alter literal meaning, but can alter connotations (essentially a spoken exclamation mark)
+### Examples
+
+$na $le $tope $lan $la - "That is so good!"
+
+$mi $le $no $wisan $matin $in $ne $la - "I didn't know this before!"
+
+$laa, $mi $le $no $wisan - "Ahh, I don't know"
