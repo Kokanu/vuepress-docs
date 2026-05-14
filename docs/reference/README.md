@@ -23,7 +23,7 @@ Ever since 2021, to now, 2025, a lot of work is put in to practice, and iterate 
 In 2023, for example, the entire vocabulary of the language was reworked, mostly because the parent language toki pona did not have vocabulary that met the principle of Neutrality. This is also when "toki ma" was changed into Kokanu, an abbreviation "te kota kan usen", meaning "to talk with each other".
 
 ## The Discord Committee
-Decisions are taken by the Discord Committee. Anyone can join to be a member ([Discord Invite](https://discord.gg/fMAfGRkGvQ))
+Decisions are taken by the Discord Committee (which is literally just anyone in the Discord). Anyone can join to be a member ([Discord Invite](https://discord.gg/fMAfGRkGvQ))
 There are ongoing talks in the committee to add more sub-structure, but as of now decisions are taken mostly via supermajority vote, and/or getting consensus both between the general members of the committee and the "managers": senior members that have contributed a lot of time and are fully onboard with the principles.
 
 ## Current Timeline
