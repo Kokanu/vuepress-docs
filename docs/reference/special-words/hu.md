@@ -6,11 +6,11 @@ It is used in the two places where a comma would otherwise have syntactic meanin
 
 So, for example, the sentence:
 
-$in $te $jatan $in $konpute $lenka $mi, $men $mi $le $pesuwan! "I need to find my phone!"
+$in $te $jatan $in $konpute $lenka $mi, $men $mi $le $pesuwan! - "I need to find my phone!"
 
 Is identical to the sentence:
 
-$in $te $jatan $in $konpute $lenka $mi $hu $men $mi $le $pesuwan! "I need to find my phone!"
+$in $te $jatan $in $konpute $lenka $mi $hu $men $mi $le $pesuwan! - "I need to find my phone!"
 
 ### Examples
 
