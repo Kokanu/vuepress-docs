@@ -64,7 +64,7 @@ When the subject is at the _start_ of a sentence, however, $men can be dropped.
 Negation
 ----------
 
-**Prepositions**, certain particles, $le, and $o can be negated by placing $no after them. $no does *not* negate content words, only certain grammatical particles. However, $no can also be used to negate specific attributes of a phrase when negating said particles, which will be explained later.
+**Prepositions**, certain particles, $le, and $o can be negated by placing $no after them. $no does *not* negate content words, only certain grammatical particles. However, $no can also be used to negate specific attributes of a phrase by negating said particles, which will be explained later.
 
 These three sentences mean the same thing but have different emphasis:
 
