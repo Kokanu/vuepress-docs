@@ -74,9 +74,9 @@ These three sentences mean the same thing but have different emphasis:
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} **ōı**{.blue} **ƨʃ**{.yellow} **xſɕʃɤı**{.blue}: | [mi]{.red} [le makan]{.green} **in**{.blue} **no**{.yellow} **kuwosi**{.blue}. | [I]{.red} **don’t**{.yellow} [eat]{.green} **fruit**{.blue}. (but I may eat something else) | 
 | **ɞ̄ȷ**{.red} **ƨʃ**{.yellow} **ɞı**{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue}: | **men**{.red} **no**{.yellow} **mi**{.red} [le makan]{.green} [in kuwosi]{.blue}. | **I**{.red} **don’t**{.yellow} [eat]{.green} [fruit]{.blue}. (but someone/thing else may) |
 
-In order to negate the entire phrase with no emphasis, $no is placed after the verb-marking particle (either $le or $o). However, this is also the way to put emphasis on the fact that the verb alone is being negated.
+In order to negate the entire phrase, with no emphasis on any specific part being negated, $no is placed after the verb-marking particle (either $le or $o). This is how you normally negate phrases (i.e. "I didn't see the dog"). However, putting $no after the verb-marking particle is *also* the way to put emphasis on the fact that the verb alone is being negated.
 
-Depending on context, and the tone of the speaker, the negation of the of the verb-marking particle *may* imply that specifically and only the verb is being negated, *or* that the entire phrase is being negated. The default assumption is usually that there is no specific emphasis on the verb, as negation of specifically the verb can be communicated in other ways (most chiefly, italics when in text, or tone when spoken).
+Depending on context, and the tone of the speaker, the negation of the of the verb-marking particle *may* imply that specifically and only the verb is being negated, *or* that the entire phrase is being negated. The default assumption is usually that there is no specific emphasis on the verb, and the sentence is being normally negated, as the negation of specifically the verb can be communicated in other ways (most chiefly, italics when in text, or tone when spoken).
 
 * * *
 
@@ -85,14 +85,14 @@ Conjunctions
 
 Conjunctions in Kokanu can be placed between nouns in a phrase, or between sentences.
 
-However, $un, meaning "and", is not required like it is in English. In phrases where two nouns of the same function are next to each other, (e.g. me **and** you go to the park) "un" may be used on its own, the preposition may be repeated, or both strategies may be combined. $un may still be used to connect sentences together like in English.
+However, $un, meaning "and", is not required like it is in English. In phrases where two nouns of the same function are next to each other (e.g. me **and** you go to the park), "un" may be used on its own, the preposition may be repeated, or both strategies may be combined. $un may still be used to connect sentences together like in English.
 
 |Likanu|Latin script|English|
 |-|-|-|
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} **ōſ**{.yellow} [oſxɞ]{.blue}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [ukama]{.blue}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [vegetables]{.blue}. |
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı **ōı** oſxɞ]{.blue}: | [mi]{.red} [le makan]{.green} [in kuwosi **in** ukama]{.blue}. | [I]{.red} [eat]{.green} [fruits **and** vegetables]{.blue}. |
 | [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} [**ōſ**]{.yellow} [**ōı** oſxɞ]{.blue}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [**in** ukama]{.blue}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [vegetables]{.blue}. |
-| [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} **ōſ**{.yellow} [ɞı]{.red} [ʋȷ ʋʃ]{.green} [ɤ̄ſ ƨȷ ɂ̄]{.magenta}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [mi]{.red} [le lo]{.green} [sun ne jan]{.magenta}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [I]{.red} [move]{.green} ([from this place]{.magenta}). |
+| [ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} **ōſ**{.yellow} [ɞı]{.red} [ʋȷ ʋʃ]{.green} [ʜı ƨȷ ɂ̄]{.magenta}: | [mi]{.red} [le makan]{.green} [in kuwosi]{.blue} **un**{.yellow} [mi]{.red} [le lo]{.green} [pi ne jan]{.magenta}. | [I]{.red} [eat]{.green} [fruits]{.blue} **and**{.yellow} [I]{.red} [move]{.green} ([within this place]{.magenta}). |
 
 * * *
 
@@ -172,11 +172,14 @@ When quantity words which are **amounts** (e.g. a lot, some, all, more) are used
 | [oƨı]{.yellow} ʋɞʃ | [ani]{.yellow} lamo | [all of the]{.yellow} lengths |
 | ʜɤ̄ [ɞȷɤȷ]{.yellow} | pasan [mese]{.yellow} | [more]{.yellow} happy  / happ[ier]{.yellow} |
 | [ɞȷɤȷ]{.yellow} ʜɤ̄ | [mese]{.yellow} pasan | [more]{.yellow} happinesses |
+| [ɞȷɤȷ]{.yellow} ʜɤ̄ | [le pasan mese]{.green} [men lan mi]{.red} | [we]{.red} [are happier]{.green} |
 
 ::: warning
-Although $tope $jati was written as "somewhat good", this is not what it would mean as a noun. It would instead mean "somewhat goodness".
+Although $tope $jati is written as "somewhat good", this is not what it would mean as a noun. It would indeed mean "somewhat good" when acting as a modifier, but acting as a noun it would instead mean "somewhat goodness".
 
-The examples where the quantity word came *after* the head word had their modifier-meaning shown in order to ease understanding of what the quantity words actually did. The page on [Word Derivations](word-derivations.md) describes how these word class conversions operate.
+The examples where the quantity word came *after* the head word had their modifier-meaning shown, but the examples where the quantity word came *before* the head word had their noun-meaning shown. This was in order to ease understanding of what the quantity words actually did.
+
+The page on [Word Derivations](word-derivations.md) describes how these word class conversions operate.
 :::
 
 * * *
@@ -204,14 +207,14 @@ However, when placed *after* the head word, they instead act to stand in for a m
 | ʋıx [ƨȷ]{.yellow} | lika [ne]{.yellow} | text [like this ]{.yellow} / [that kind of]{.yellow} text |
 | ɂ̄ [ɛı]{.yellow} | jan [ci]{.yellow} | place [like what]{.yellow} / [what kind of]{.yellow} place |
 
-Note: the word $soto can be used to say this more explicitly, and they have a similar meaning, but a slightly different pragmatic meaning.
+Note: the word $soto can be used to say this more explicitly, and they have a decently similar meaning, but a different nuance.
 
 * * *
 
-je and stuff change this pls
+Genitives
 ----------
 
-The word $je is similar to the word “of” in English. The word following it is always derived as a **noun**.
+The word $je is a **genitive**, similar to the word “of” in English. The word following it is always derived as a **noun**. It can be used to regroup phrases.
 
 |Likanu|Latin script|English|
 |------|------------|-------|
@@ -220,7 +223,7 @@ The word $je is similar to the word “of” in English. The word following it i
 | xſɕʃɤı [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [ha]{.yellow} [mi]{.magenta} | [my]{.magenta} [second]{.yellow} fruit |
 | xſɕʃɤı [ɂȷ]{.green} [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [je]{.green} [ha]{.yellow} [mi]{.magenta} | [us]{.magenta} [two]{.yellow}[’s]{.green} fruit |
 
-The word $wa marks a **modifier** without any **noun** or **verb** needing to precede it, and applies to the entire phrase before it.
+The word $wa **collapses** the entire phrase before it and marks the word after it as a a **modifier**.
 
 |Likanu|Latin script|English|
 |------|------------|-------|
@@ -230,7 +233,8 @@ For more information, refer to our [Clarifying Descriptions](clarifying-descript
 
 * * *
 
-### Relations between clauses within phrases
+Subordinate Clauses
+----------
 
 $ta starts a new clause (sentence within a sentence), while $te starts a new clause and marks the first word as a **verb**. The $te clause can modify a noun, and in these cases the noun being modified is the **subject** of the clause.
 
