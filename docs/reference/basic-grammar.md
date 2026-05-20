@@ -218,7 +218,7 @@ The word $je is a **genitive**, similar to the word “of” in English. The wor
 
 |Likanu|Latin script|English|
 |------|------------|-------|
-| ʌıʜ [ɞx̄]{.yellow} | tipa [makan]{.yellow} | [edible]{.yellow} box
+| ʌıʜ [ɞx̄]{.yellow} | tipa [makan]{.yellow} | [edible]{.yellow} box |
 | ʌıʜ [ɂȷ]{.magenta} [ɞx̄]{.yellow} | tipa [je]{.magenta} [makan]{.yellow} | [food]{.yellow} box, [lunch]{.yellow}box |
 | xſɕʃɤı [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [ha]{.yellow} [mi]{.magenta} | [my]{.magenta} [second]{.yellow} fruit |
 | xſɕʃɤı [ɂȷ]{.green} [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [je]{.green} [ha]{.yellow} [mi]{.magenta} | [us]{.magenta} [two]{.yellow}[’s]{.green} fruit |
@@ -236,26 +236,40 @@ For more information, refer to our [Clarifying Descriptions](clarifying-descript
 Subordinate Clauses
 ----------
 
-$ta starts a new clause (sentence within a sentence), while $te starts a new clause and marks the first word as a **verb**. The $te clause can modify a noun, and in these cases the noun being modified is the **subject** of the clause.
+$ta starts a **subordinate clause**. It can be roughly translated as "the fact that" or "that" in English. Any clause made by $ta is treated as a **noun**.
 
 |Likanu|Latin script|English|
-|-|-|-|
-| ƨ̄ı [ʌȷ]{.yellow} [ɞx̄]{.green} | nin [te]{.yellow} [makan]{.green} | person [who]{.yellow} [eats]{.green} |
+|------|------------|-------|
+| [ɞı]{.red} [ʋȷ xƨıɤ]{.green} [ōı]{.blue} ʌ [ƨ]{.red} [ʋȷ ʌʃʜȷ]{.green} | [mi]{.red} [le kanisa]{.green} [in]{.blue} ta [na]{.red} [le tope]{.green} | [I]{.red} [think]{.green} that [that]{.red} [is good]{.green} |
+| [ʋȷ xıxſɕ]{.green} [ɞ̄ȷ]{.red} ʌ [ʌſ]{.red} [ʋȷ xʃʌ]{.green} [ōı ƨ]{.blue} | [le kikuwa]{.green} [men]{.red} ta [tu]{.red} [le kota]{.green} [in na]{.blue} | [It's weird]{.green} that [you]{.red} [say]{.green} [that]{.blue} |
 
-$te can also be used without modifying a noun to create a clause that **starts with a verb** anywhere in a sentence, but the clause must end with a comma if more comes after it. This construction is used similar to how infinitives work in many languages.
-
-|Likanu|Latin script|English|
-|-|-|-|
-| [ʌȷ ɞx̄]{.yellow} [ōı xſɕʃɤı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [te makan]{.yellow} [in kuwosi]{.blue}, [le tope]{.green}. | [eating]{.yellow} [fruit]{.blue} [is good]{.green}. |
-
-$ta functions like $te, except that it doesn't mark the first word that follows it as a verb, so the clause may start with a subject or any other preposition. It is simple to use when not modifying a noun.
+If $ta comes before $in (i.e. $in $ta), you can optionally drop the $in.
 
 |Likanu|Latin script|English|
-|-|-|-|
-| [ʌ ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [ta mi]{.red} [le makan]{.green} [in kuwosi]{.blue}, [le tope]{.green}. | [It]{.red}'[s good]{.green} that [I]{.red} [eat]{.green} [fruit]{.blue}. |
-| [ɞı]{.red} [ʋȷ ʜ̄ʃ]{.green} ʌ [ʌſ]{.red} [ʋȷ ʜɤ̄]{.green}: | [mi]{.red} [le pon]{.green} ta [tu]{.red} [le pasan]{.green}. | [I]{.red} [cause]{.green} that [you]{.red} [are happy]{.green}. / [I]{.red} [make]{.green} [you]{.red} [happy]{.green}. |
+|------|------------|-------|
+| [ɞı]{.red} [ʋȷ xƨıɤ]{.green} ʌ [ƨ]{.red} [ʋȷ ʌʃʜȷ]{.green} | [mi]{.red} [le kanisa]{.green} ta [na]{.red} [le tope]{.green} | [I]{.red} [think]{.green} that [that]{.red} [is good]{.green} |
 
-When $ta does modify a noun, it is more complicated. $te tells you that the noun being modified is the **subject** of the following clause, $ta doesn't say anything about the role of the noun being modified in the clause.
+$te, similar to $ta, starts a **subordinate clause**, however, different to $ta, any word after $te is marked as a **verb**. An easy way to think about $te clauses as an English speaker is that whereas $ta  translates to "that", $te translates to "to" or "-ing".
+
+|Likanu|Latin script|English|
+|------|------------|-------|
+| [ɞı]{.red} [ʋȷ ɂſ]{.green} [ōı]{.blue} ʌȷ [ʜʌ]{.green} [ōı ʋıx]{.blue} | [mi]{.red} [le ju]{.green} [in]{.blue} te [pata]{.green} [in lika]{.blue} | [I]{.red} [want]{.green} to [read]{.green} [text]{.blue} |
+| [ʋȷ ɤʌʋ̄]{.green} [ɞ̄ȷ]{.red} ʌȷ [ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} | [le satalan]{.green} [men]{.red} te [makan]{.green} [in kuwosi]{.blue} | [It's normal]{.green} to [eat]{.green} [fruit]{.blue} |
+| [ɞ̄ȷ]{.red} ʌȷ [ʜ̄ȷ]{.green} [ōı ‹xʃxƨſ›]{.blue}､ [ʋȷ xʌ̄ı]{.green} | [men]{.red} te [pen]{.green} [in Kokanu]{.blue}, [le katin]{.green} | [Understanding]{.green} [Kokanu]{.blue} [is difficult]{.green} |
+
+Just like $ta, if $te comes before $in (i.e. $in $te), you can optionally drop the $in.
+
+|Likanu|Latin script|English|
+|------|------------|-------|
+| [ɞı]{.red} [ʋȷ ɂſ]{.green} ʌȷ [ʜʌ]{.green} [ōı ʋıx]{.blue} | [mi]{.red} [le ju]{.green} te [pata]{.green} [in lika]{.blue} | [I]{.red} [want]{.green} to [read]{.green} [text]{.blue} |
+
+* * *
+
+Relative Clauses
+----------
+
+TALK ABOUT HOW $ta AND $te CAN MODIFY THINGS RAHHH
+
 
 $nin $ta $mi $le $suki might seem like a direct translation from English "person that I like", but in Kokanu it's meaningless. The clause $mi $le $suki sits next to the word $nin with no relation between them. It would be like saying in English "place that I go". You have to establish the role of "place" in the clause "I go", i.e. "place that I go **to**" where "to" tells you that "place" is the direction/goal of the clause "I go". Kokanu does this in a very similar way.
 
