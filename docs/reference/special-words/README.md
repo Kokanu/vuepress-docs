@@ -16,8 +16,8 @@ Some words in Kokanu have special functions.
 ## Derivational markers
 * [lun - causative](lun.md)
 * [wi - modifier forcing](wi.md)
-* mu - agent
-* pan - causative agent
+* [mu - agent](mu.md)
+* [pan - causative agent](pan.md)
 
 ## Verbs
 * [se - "to be"](se.md)
