@@ -268,8 +268,20 @@ Just like $ta, if $te comes before $in (i.e. $in $te), you can optionally drop t
 Relative Clauses
 ----------
 
-TALK ABOUT HOW $ta AND $te CAN MODIFY THINGS RAHHH
+$ta and $te can also modify nouns.
 
+When $te is placed after a noun, it starts a relative clause where the noun that it is modifying is the subject. Because of this, any word that comes after $te is assumed to be a verb.
+
+|Likanu|Latin script|English|
+|-|-|-|
+| [ʜɕʃ]{.red} **ʌȷ** [ɞx̄]{.green} [ōı xſɕʃɤı]{.blue}: | [pawo]{.red} **te** [makan]{.green} [in kuwosi]{.blue}. | [The dog]{.red} **that** [eats]{.green} [fruit]{.blue}. |
+| [ɞı]{.red} [ʋȷ ɕıɤ̄]{.green} [ōı ƨ̄ı]{.blue} **ʌȷ** [ʌɂ̄ȷ]{.green} [ōı ɞı]{.blue}: | [mi]{.red} [le wisan]{.green} [in nin]{.blue} **te** [tajen]{.green} [in mi]{.blue}. | [I]{.red} [know]{.green} [the person]{.blue} **that** [hates]{.green} [me]{.blue} |
+| [ɞı]{.red} [ʋȷ ʌȷx]{.green} [ōı ʜſɞı]{.blue} **ʌȷ** [xſɞı]{.green}: | [mi]{.red} [le teka]{.green} [in pumi]{.blue} **te** [kumi]{.green}. | [I]{.red} [see]{.green} [the land]{.blue} **that** [is plastic]{.green}. |
+| [x]{.purple} [ʋȷ ɤȷ]{.green} [ɞ̄ȷ ʜſʋſɤı]{.red} **ʌȷ** [ʜ̄ɤ̄ı]{.green}≈ | [ka]{.purple} [le se]{.green} [men pulusi]{.red} **te** [pansin]{.green}? | [Do]{.purple} [reptiles]{.red} **that** [are squares]{.green} [exist]{.green}? |
+
+When $ta is placed after a noun, it start
+
+FIX HERE
 
 $nin $ta $mi $le $suki might seem like a direct translation from English "person that I like", but in Kokanu it's meaningless. The clause $mi $le $suki sits next to the word $nin with no relation between them. It would be like saying in English "place that I go". You have to establish the role of "place" in the clause "I go", i.e. "place that I go **to**" where "to" tells you that "place" is the direction/goal of the clause "I go". Kokanu does this in a very similar way.
 
