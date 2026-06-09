@@ -77,7 +77,7 @@ Kokanu often favors conceptual nuance over literal one-to-one translation. Liter
 
 ### 3.4 Verb → Noun
 
-A **verb** used as a noun becomes its generic object aka what one generally does with that verb.
+A **verb** used as a noun becomes its generic object, aka what one generally does with that verb.
 
 **Examples:**
 

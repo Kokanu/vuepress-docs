@@ -24,7 +24,7 @@ For explicit marking, Kokanu uses **three tense modifiers**:
 | Kokanu phrase                   | English meaning   |
 |---------------------------------|-------------------|
 | **le kela kenca men mi**        | I play (now)     |
-| **pulusi le jatan melon in niku** | the dog will find the meat |
+| **pawo le jatan melon in niku** | the dog will find the meat |
 | **tu le sema matin in mi**      | you heard me        |
 
 Instead of adding the time as a sort-of adverb, it works like this using a pi-clause:

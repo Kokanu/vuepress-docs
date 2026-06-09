@@ -197,7 +197,7 @@ Both *mu* and *pan* turn verbs into nouns referring to agents:
 
 | Kokanu phrase       | Meaning      |
 | ------------------- | ------------ |
-| **mi le moku mese** | I eat more   |
+| **mi le makan mese** | I eat more   |
 | **tu le teka menu** | You see less |
 
 Without context, however, those sentences are quite ambiguous. You could see less than someone else, less than before, or simply less than you want to.
