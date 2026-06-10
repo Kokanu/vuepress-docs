@@ -82,7 +82,9 @@ export default defineUserConfig({
             'se.md',
             'so.md',
             'sun.md',
-            'wi.md'
+            'wi.md',
+            'mu.md',
+            'pan.md'
           ]
         }
       ],
