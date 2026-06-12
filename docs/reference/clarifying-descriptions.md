@@ -133,19 +133,19 @@ $insu $je $han $je $kun $je $hela (lit. building of possession of quality of sa
 
 Specifies the preceding phrase as being an attribute or innate quality of the attached genitive phrase. "attributed to" or "is an attribute of" are equivalent English expressions. The opposite of Attributive Genitive. The preceding phrase must be a concept that can be considered an attribute and the attached genitive phrase must be a thing that can be attributed (and specifically can be attributed the thing that is the preceding phrase).
 
-$je $niku "weakness attributed to muscles" (lit. weakness of muscles)
+$uli $je $niku "weakness attributed to muscles" (lit. weakness of muscles)
 
 You could clarify this genitive relationship using $lije again although some directional ambiguity would remain:
 
-$je $lije $je $niku (lit. weakness of relation of muscles)
+$uli $je $lije $je $niku (lit. weakness of relation of muscles)
 
 You could clarify this genitive relationship using $kun again although some directional ambiguity would remain:
 
-$je $kun $je $niku (lit. weakness of quality of muscles)
+$uli $je $kun $je $niku (lit. weakness of quality of muscles)
 
 You could clarify this genitive relationship using $se $limijen:
 
-$je $se $limijen $je $niku (lit. weakness of inner existence of muscles)
+$uli $je $se $limijen $je $niku (lit. weakness of inner existence of muscles)
 
 #### Genitive of Material
 
