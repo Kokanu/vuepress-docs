@@ -18,7 +18,7 @@ Currently, we have a stable version that is guaranteed to not change until Septe
 ## Past
 While the seeds of Kokanu were first planted in mid 2020 as Toki Ma, early development was chaotic and crowd-sourced. It was in mid 2021 when development was internally moved to a more structured mechanism on a different Discord server and a stable draft was published.
 
-Ever since 2021, to now, 2025, a lot of work is put in to practice, and iterate on the language.
+Ever since 2021, to now, 2026, a lot of work has been put in to practice and iterate on the language.
 
 In 2023, for example, the entire vocabulary of the language was reworked, mostly because the parent language toki pona did not have vocabulary that met the principle of Neutrality. This is also when "toki ma" was changed into Kokanu, an abbreviation "te kota kan usen", meaning "to talk with each other".
 
