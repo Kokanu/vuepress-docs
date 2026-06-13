@@ -8,4 +8,5 @@ description: List of example texts written in Kokanu.
 
 To practice your Kokanu skills, there are a few example texts that have been translated carefully. Feel free to read or contribute more!
 
-WIP
+- [lanki je lipu namu](./lanki-je-lipu-namu.md)
+- [Poetry Anthology](./poetry-anthology/)
