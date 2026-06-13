@@ -45,7 +45,7 @@ Every Kokanu sentence needs a **main verb** (usually the **le-clause**).
 Other parts are optional:  
 
 - **mi le amo** → I love  
-- **le amo in kuwosi** → someone loves my dog / my dog is loved
+- **le teka in insu** → someone sees a building / the building is seen
 
 Both **men** and **in** are **prepositions**.  
 A preposition treats the word after it like a noun and relates it to the main verb. This also applies to pronouns, therefore all pronouns we used as a subject or object before in fact actet just as nouns. 
