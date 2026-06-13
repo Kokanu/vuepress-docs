@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: osimantija
+title: Osimantija
 description: Translation of "Ozymandias" (Percy Bysshe Shelley)
 ---
 

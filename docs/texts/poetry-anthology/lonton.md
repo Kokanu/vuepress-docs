@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: lonton
+title: Lonton
 description: Translation of "London" (William Blake)
 ---
 
