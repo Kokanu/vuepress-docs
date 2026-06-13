@@ -21,4 +21,4 @@ nula le se sopa. pi sekano je te lun panli<br>
 in na kapu cenpo, wija nula ihamo un nula okutu,<br>
 in powele samo wi no lili le lun kula tula.
 
-https://poetrybyheart.org.uk/poems/ozymandias
+[https://poetrybyheart.org.uk/poems/ozymandias](https://poetrybyheart.org.uk/poems/war-photographer-cad)
