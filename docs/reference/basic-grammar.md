@@ -187,7 +187,7 @@ The page on [Word Derivations](word-derivations.md) describes how these word cla
 Demonstratives
 ----------
 
-**Demonstratives** are a word class that function similarily to quantity words. When placed before the head word, they act as determiners, and signify *which* noun is being talked about. When placed after the head word (i.e. when acting as modifiers), demonstratives stand in as a modifier, and signify *which* modifier is being talked about.
+**Demonstratives** are a word class that function similarily to quantity words. When placed before the head word, they act as determiners, and signify which *noun* is being talked about. When placed after the head word (i.e. when acting as modifiers), demonstratives stand in as a modifier, and signify which *modifier* is being talked about.
 
 There are only three demonstratives: $ne (this), $na (that), and $ci (what).
 
