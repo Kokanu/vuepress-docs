@@ -204,10 +204,10 @@ However, when placed *after* the head word, they instead act to stand in for a m
 |Likanu|Latin script|English|
 |------|------------|-------|
 | xſɕʃɤı [ƨ]{.yellow} | kuwosi [na]{.yellow} | fruit [like that]{.yellow} / [that kind of]{.yellow} fruit |
-| ʋıx [ƨȷ]{.yellow} | lika [ne]{.yellow} | text [like this ]{.yellow} / [that kind of]{.yellow} text |
+| ʋıx [ƨȷ]{.yellow} | lika [ne]{.yellow} | text [like this]{.yellow} / [that kind of]{.yellow} text |
 | ɂ̄ [ɛı]{.yellow} | jan [ci]{.yellow} | place [like what]{.yellow} / [what kind of]{.yellow} place |
 
-Note: the word $soto can be used to say this more explicitly, and they have a decently similar meaning, but a different nuance.
+Note: the word $soto can be used to communicate this more explicitly, and they have a decently similar meaning, but different nuance.
 
 * * *
 
