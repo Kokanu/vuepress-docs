@@ -117,7 +117,7 @@ Modifiers
 
 Remember that depending on the context, all words can act as a **noun**, **modifier**, or **verb**. Which one a word acts as depends upon where it is placed in a sentence.
 
-**Modifiers** come after a **noun** to indicate an **adjective**, or after a **verb** to indicate an **adverb**. This means that any time a content word comes after another content word in succession, that the latter content word acts as a modifier. This means that all adjectives and adverbs come *after* the words that they modify, the opposite of English.
+**Modifiers** come after a **noun** to indicate an **adjective**, or after a **verb** to indicate an **adverb**. This means that any time a content word comes after another content word in succession, the latter content word acts as a modifier. This means that all adjectives and adverbs come *after* the words that they modify, the opposite of English.
 
 |Likanu|Latin script|English|
 |------|------------|-------|
