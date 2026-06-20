@@ -303,11 +303,14 @@ In any case, the clause must end with a comma if more follows.
 
 |Likanu|Latin script|English|
 |-|-|-|
-| [xſɕʃɤı]{.red} ʌ [ƨ̄ı]{.red} [ʋȷ ɞx̄]{.green} [ōı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [kuwosi]{.red} ta [nin]{.red} [le makan]{.green} [in]{.blue}, [le tope]{.green}. | The fruit that the person ate is good. |
+| [xſɕʃɤı]{.red} **ʌ** [ƨ̄ı]{.red} [ʋȷ ɞx̄]{.green} [ōı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [kuwosi]{.red} **ta** [nin]{.red} [le makan]{.green} [in]{.blue}, [le tope]{.green}. | The fruit **that** the person ate is good. |
+| [ʋȷ ɤſxı]{.green} [ōı ƨ oſxɞ]{.blue} **ʌ** [ʋȷ ɞx̄]{.green} [ɞ̄ȷ ɞı]{.red} [ōı]{.blue}､ [ɞ̄ȷ ʌſ]{.red} | [le suki]{.green} [in na ukama]{.blue} **ta** [le makan]{.green} [men mi]{.red} [in]{.blue}, [men tu]{.red}. | [You]{.red} [like]{.green} [that plant]{.blue} **that** [I]{.red} [ate]{.green} |
+| [ƨ̄ı]{.red} **ʌ** [ɞı]{.red} [ʋȷ ʜ̄ıxʃ]{.green} [ōı]{.blue}､ [ʋȷ ƨʃ ɤſxı]{.green} [ōı ɞı]{.blue} | [nin]{.red} **ta** [mi]{.red} [le pinko]{.green} [in]{.blue}, [le no suki]{.green} [in mi]{.blue} | [The person]{.red} **that** [I]{.red} [assessed]{.green} [doesn't like]{.green} [me]{.blue} |
 
 * * *
 
-### Derivational Markers
+Derivational Markers
+----------
 
 $wi and $mu are markers that apply to an arbitrary amount of words (often one, but can be more). $wi forces words into **modifiers**, and is often used in the construction $wi $no to negate adjectives, and to change the intensity of an adjective.
 
@@ -332,3 +335,5 @@ To make the **agent** _cause_ the action rather than _do_ the action, you can re
 |-|-|-|
 | ɞſ ʌıxſ | mu tiku | dier |
 | ʜ̄ ʌıxſ | pan tiku | killer |
+
+For more information, see the [page on mu](special-words/mu.md) and the [page on pan](special-words/pan.md).
