@@ -136,7 +136,7 @@ Unlike in English, where certain adjective order can feel weird, or even alter m
 - Big red dog (sounds fine!)
 - Red big dog (wha?)
 
-The only place where this doesn't apply is in lexicalized phrases. Certain lexicalized phrases can sound a bit weird, or even not be recognized, if their noun and modifier components are split up.
+The only place where this doesn't apply is in lexicalized phrases. Certain lexicalized phrases can sound a bit weird, or even not be recognized, if their noun and modifier components are split apart.
 
 * * *
 
