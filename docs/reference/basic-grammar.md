@@ -240,8 +240,8 @@ $ta starts a **subordinate clause**. It can be roughly translated as "the fact t
 
 |Likanu|Latin script|English|
 |------|------------|-------|
-| [ɞı]{.red} [ʋȷ xƨıɤ]{.green} [ōı]{.blue} ʌ [ƨ]{.red} [ʋȷ ʌʃʜȷ]{.green} | [mi]{.red} [le kanisa]{.green} [in]{.blue} ta [na]{.red} [le tope]{.green} | [I]{.red} [think]{.green} that [that]{.red} [is good]{.green} |
-| [ʋȷ xıxſɕ]{.green} [ɞ̄ȷ]{.red} ʌ [ʌſ]{.red} [ʋȷ xʃʌ]{.green} [ōı ƨ]{.blue} | [le kikuwa]{.green} [men]{.red} ta [tu]{.red} [le kota]{.green} [in na]{.blue} | [It's weird]{.green} that [you]{.red} [say]{.green} [that]{.blue} |
+| [ɞı]{.red} [ʋȷ xƨıɤ]{.green} [ōı]{.blue} **ʌ** [ƨ]{.red} [ʋȷ ʌʃʜȷ]{.green} | [mi]{.red} [le kanisa]{.green} [in]{.blue} **ta** [na]{.red} [le tope]{.green} | [I]{.red} [think]{.green} **that** [that]{.red} [is good]{.green} |
+| [ʋȷ xıxſɕ]{.green} [ɞ̄ȷ]{.red} **ʌ** [ʌſ]{.red} [ʋȷ xʃʌ]{.green} [ōı ƨ]{.blue} | [le kikuwa]{.green} [men]{.red} **ta** [tu]{.red} [le kota]{.green} [in na]{.blue} | [It's weird]{.green} **that** [you]{.red} [say]{.green} [that]{.blue} |
 
 If $ta comes before $in (i.e. $in $ta), you can optionally drop the $in.
 
