@@ -277,16 +277,16 @@ When $te is placed after a noun, it starts a relative clause where the noun that
 | [ʜɕʃ]{.red} **ʌȷ** [ɞx̄]{.green} [ōı xſɕʃɤı]{.blue}: | [pawo]{.red} **te** [makan]{.green} [in kuwosi]{.blue}. | [The dog]{.red} **that** [eats]{.green} [fruit]{.blue}. |
 | [ɞı]{.red} [ʋȷ ɕıɤ̄]{.green} [ōı ƨ̄ı]{.blue} **ʌȷ** [ʌɂ̄ȷ]{.green} [ōı ɞı]{.blue}: | [mi]{.red} [le wisan]{.green} [in nin]{.blue} **te** [tajen]{.green} [in mi]{.blue}. | [I]{.red} [know]{.green} [the person]{.blue} **that** [hates]{.green} [me]{.blue} |
 | [ɞı]{.red} [ʋȷ ʌȷx]{.green} [ōı ʜſɞı]{.blue} **ʌȷ** [xſɞı]{.green}: | [mi]{.red} [le teka]{.green} [in pumi]{.blue} **te** [kumi]{.green}. | [I]{.red} [see]{.green} [the land]{.blue} **that** [is plastic]{.green}. |
-| [x]{.purple} [ʋȷ ɤȷ]{.green} [ɞ̄ȷ ʜſʋſɤı]{.red} **ʌȷ** [ʜ̄ɤ̄ı]{.green}≈ | [ka]{.purple} [le se]{.green} [men pulusi]{.red} **te** [pansin]{.green}? | [Do]{.purple} [reptiles]{.red} **that** [are squares]{.green} [exist]{.green}? |
+| [x]{.magenta} [ʋȷ ɤȷ]{.green} [ɞ̄ȷ ʜſʋſɤı]{.red} **ʌȷ** [ʜ̄ɤ̄ı]{.green}≈ | [ka]{.magenta} [le se]{.green} [men pulusi]{.red} **te** [pansin]{.green}? | [Do]{.magenta} [reptiles]{.red} **that** [are squares]{.green} [exist]{.green}? |
 
 When $ta is placed after a noun, it also starts a relative clause. However, the role of the word that it modifies can be specified in two ways: it can reference back to itself using "ja", or it can use a dangling preposition (which is what is primarily used in English). It can be thought of as similar to the word "that". Any word that comes after $ta is assumed to be the subject of the relative clause.
 
 |Likanu|Latin script|English|
 |-|-|-|
-| ɂ̄ **ʌ** [ɞı]{.red} [ʋȷ ʋʃ]{.green} [xı]{.purple} | jan **ta** [mi]{.red} [le lo]{.green} [ki]{.purple} | place **that** [I]{.red} [go]{.green} [to]{.purple} |
-| ƨ̄ı **ʌ** [ʋȷ ɂʃʋı]{.green} [ɞ̄ȷ ɞı]{.red} [ʜʃ]{.purple} | nin **ta** [le joli]{.green} [men mi]{.red} [po]{.purple} | person **that** [I]{.red} [am beneficial]{.green} [towards]{.purple} |
-| ɂ̄ʃ **ʌ** [ɕıɂ ɂ]{.purple} [ɞ̄ȷ ɞı]{.red} [ʋȷ ɞx̄]{.green} | jon **ta** [wija ja]{.purple} [men mi]{.red} [le makan]{.green} | tool **that** [I]{.red} [eat]{.green} [with]{.purple} |
-| ʌ̄ȷ **ʌ** [ʋȷ ʌȷx]{.green} [ōı xſxſ]{.blue} [ʜı ɂ]{.purple} [ɞ̄ȷ ɞı]{.red} | ten **ta** [le teka]{.green} [in kuku]{.blue} [pi ja]{.purple} [men mi]{.red} | time **that** [I]{.red} [see]{.green} [birds]{.blue} [during]{.purple} |
+| ɂ̄ **ʌ** [ɞı]{.red} [ʋȷ ʋʃ]{.green} [xı]{.magenta} | jan **ta** [mi]{.red} [le lo]{.green} [ki]{.magenta} | place **that** [I]{.red} [go]{.green} [to]{.magenta} |
+| ƨ̄ı **ʌ** [ʋȷ ɂʃʋı]{.green} [ɞ̄ȷ ɞı]{.red} [ʜʃ]{.magenta} | nin **ta** [le joli]{.green} [men mi]{.red} [po]{.magenta} | person **that** [I]{.red} [am beneficial]{.green} [towards]{.magenta} |
+| ɂ̄ʃ **ʌ** [ɕıɂ ɂ]{.magenta} [ɞ̄ȷ ɞı]{.red} [ʋȷ ɞx̄]{.green} | jon **ta** [wija ja]{.magenta} [men mi]{.red} [le makan]{.green} | tool **that** [I]{.red} [eat]{.green} [with]{.magenta} |
+| ʌ̄ȷ **ʌ** [ʋȷ ʌȷx]{.green} [ōı xſxſ]{.blue} [ʜı ɂ]{.magenta} [ɞ̄ȷ ɞı]{.red} | ten **ta** [le teka]{.green} [in kuku]{.blue} [pi ja]{.magenta} [men mi]{.red} | time **that** [I]{.red} [see]{.green} [birds]{.blue} [during]{.magenta} |
 
 Notice here how there's *always* a preposition that clarifies the role of the word that $ta is modifying. $nin $ta $mi $le $suki might seem like a direct translation from English "person that I like", but in Kokanu it's meaningless. The clause $mi $le $suki sits next to the word $nin with no relation between them. It would be like saying in English "place that I go". You have to establish the role of "place" in the clause "I go", i.e. "place that I go **to**" where "to" tells you that "place" is the direction/goal of the clause "I go". Kokanu does this in a very similar way.
 
