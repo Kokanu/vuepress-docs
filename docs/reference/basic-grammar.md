@@ -247,21 +247,21 @@ If $ta comes before $in (i.e. $in $ta), you can optionally drop the $in.
 
 |Likanu|Latin script|English|
 |------|------------|-------|
-| [ɞı]{.red} [ʋȷ xƨıɤ]{.green} ʌ [ƨ]{.red} [ʋȷ ʌʃʜȷ]{.green} | [mi]{.red} [le kanisa]{.green} ta [na]{.red} [le tope]{.green} | [I]{.red} [think]{.green} that [that]{.red} [is good]{.green} |
+| [ɞı]{.red} [ʋȷ xƨıɤ]{.green} **ʌ** [ƨ]{.red} [ʋȷ ʌʃʜȷ]{.green} | [mi]{.red} [le kanisa]{.green} **ta** [na]{.red} [le tope]{.green} | [I]{.red} [think]{.green} **that** [that]{.red} [is good]{.green} |
 
 $te, similar to $ta, starts a **subordinate clause**, however, different to $ta, any word after $te is marked as a **verb**. An easy way to think about $te clauses as an English speaker is that whereas $ta  translates to "that", $te translates to "to" or "-ing".
 
 |Likanu|Latin script|English|
 |------|------------|-------|
-| [ɞı]{.red} [ʋȷ ɂſ]{.green} [ōı]{.blue} ʌȷ [ʜʌ]{.green} [ōı ʋıx]{.blue} | [mi]{.red} [le ju]{.green} [in]{.blue} te [pata]{.green} [in lika]{.blue} | [I]{.red} [want]{.green} to [read]{.green} [text]{.blue} |
-| [ʋȷ ɤʌʋ̄]{.green} [ɞ̄ȷ]{.red} ʌȷ [ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} | [le satalan]{.green} [men]{.red} te [makan]{.green} [in kuwosi]{.blue} | [It's normal]{.green} to [eat]{.green} [fruit]{.blue} |
-| [ɞ̄ȷ]{.red} ʌȷ [ʜ̄ȷ]{.green} [ōı ‹xʃxƨſ›]{.blue}､ [ʋȷ xʌ̄ı]{.green} | [men]{.red} te [pen]{.green} [in Kokanu]{.blue}, [le katin]{.green} | [Understanding]{.green} [Kokanu]{.blue} [is difficult]{.green} |
+| [ɞı]{.red} [ʋȷ ɂſ]{.green} [ōı]{.blue} **ʌȷ** [ʜʌ]{.green} [ōı ʋıx]{.blue} | [mi]{.red} [le ju]{.green} [in]{.blue} **te** [pata]{.green} [in lika]{.blue} | [I]{.red} [want]{.green} **to** [read]{.green} [text]{.blue} |
+| [ʋȷ ɤʌʋ̄]{.green} [ɞ̄ȷ]{.red} **ʌȷ** [ɞx̄]{.green} [ōı xſɕʃɤı]{.blue} | [le satalan]{.green} [men]{.red} **te** [makan]{.green} [in kuwosi]{.blue} | [It's normal]{.green} **to** [eat]{.green} [fruit]{.blue} |
+| [ɞ̄ȷ]{.red} **ʌȷ** [ʜ̄ȷ]{.green} [ōı ‹xʃxƨſ›]{.blue}､ [ʋȷ xʌ̄ı]{.green} | [men]{.red} **te** [pen]{.green} [in Kokanu]{.blue}, [le katin]{.green} | [Understanding]{.green} [Kokanu]{.blue} [is difficult]{.green} |
 
 Just like $ta, if $te comes before $in (i.e. $in $te), you can optionally drop the $in.
 
 |Likanu|Latin script|English|
 |------|------------|-------|
-| [ɞı]{.red} [ʋȷ ɂſ]{.green} ʌȷ [ʜʌ]{.green} [ōı ʋıx]{.blue} | [mi]{.red} [le ju]{.green} te [pata]{.green} [in lika]{.blue} | [I]{.red} [want]{.green} to [read]{.green} [text]{.blue} |
+| [ɞı]{.red} [ʋȷ ɂſ]{.green} **ʌȷ** [ʜʌ]{.green} [ōı ʋıx]{.blue} | [mi]{.red} [le ju]{.green} **te** [pata]{.green} [in lika]{.blue} | [I]{.red} [want]{.green} **to** [read]{.green} [text]{.blue} |
 
 * * *
 
