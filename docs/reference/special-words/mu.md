@@ -43,3 +43,11 @@ The construction "$tun **mu**" can be used to indicate a singular action:
 $te $konkulen, $le $tope - "competing is good"
 
 **tun mu** $konkulen $le $tope - "the competition is good" (literally, "the action that competes is good" or "the action of competitors is good")
+
+Additionally, $mu carries a connotation of task or role. I can be a:
+
+$nin $te $kuwekan - "person that is farming"
+
+without being a
+
+$nin mu $kuwekan - "a farmer"
