@@ -270,7 +270,7 @@ Relative Clauses
 
 $ta and $te can also modify nouns.
 
-When $te is placed after a noun, it starts a relative clause where the noun that it is modifying is the subject. Because of this, any word that comes after $te is assumed to be a verb.
+When $te is placed after a noun, it starts a relative clause where the noun that it is modifying is the subject. Any word that comes after $te is assumed to be a verb.
 
 |Likanu|Latin script|English|
 |-|-|-|
@@ -279,45 +279,31 @@ When $te is placed after a noun, it starts a relative clause where the noun that
 | [ɞı]{.red} [ʋȷ ʌȷx]{.green} [ōı ʜſɞı]{.blue} **ʌȷ** [xſɞı]{.green}: | [mi]{.red} [le teka]{.green} [in pumi]{.blue} **te** [kumi]{.green}. | [I]{.red} [see]{.green} [the land]{.blue} **that** [is plastic]{.green}. |
 | [x]{.purple} [ʋȷ ɤȷ]{.green} [ɞ̄ȷ ʜſʋſɤı]{.red} **ʌȷ** [ʜ̄ɤ̄ı]{.green}≈ | [ka]{.purple} [le se]{.green} [men pulusi]{.red} **te** [pansin]{.green}? | [Do]{.purple} [reptiles]{.red} **that** [are squares]{.green} [exist]{.green}? |
 
-When $ta is placed after a noun, it start
-
-FIX HERE
-
-$nin $ta $mi $le $suki might seem like a direct translation from English "person that I like", but in Kokanu it's meaningless. The clause $mi $le $suki sits next to the word $nin with no relation between them. It would be like saying in English "place that I go". You have to establish the role of "place" in the clause "I go", i.e. "place that I go **to**" where "to" tells you that "place" is the direction/goal of the clause "I go". Kokanu does this in a very similar way.
+When $ta is placed after a noun, it also starts a relative clause. However, the role of the word that it modifies can be specified in two ways: it can reference back to itself using "ja", or it can use a dangling preposition (which is what is primarily used in English). It can be thought of as similar to the word "that". Any word that comes after $ta is assumed to be the subject of the relative clause.
 
 |Likanu|Latin script|English|
 |-|-|-|
-| [ƨ̄ı]{.red} ʌ [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı]{.blue} | [nin]{.red} ta [mi]{.red} [le suki]{.red} [in]{.blue} | [person]{.red} that [I]{.red} [like]{.green} ($in indicates the role of $nin in the **relative clause**) |
+| ɂ̄ **ʌ** [ɞı]{.red} [ʋȷ ʋʃ]{.green} [xı]{.purple} | jan **ta** [mi]{.red} [le lo]{.green} [ki]{.purple} | place **that** [I]{.red} [go]{.green} [to]{.purple} |
+| ƨ̄ı **ʌ** [ʋȷ ɂʃʋı]{.green} [ɞ̄ȷ ɞı]{.red} [ʜʃ]{.purple} | nin **ta** [le joli]{.green} [men mi]{.red} [po]{.purple} | person **that** [I]{.red} [am beneficial]{.green} [towards]{.purple} |
+| ɂ̄ʃ **ʌ** [ɕıɂ ɂ]{.purple} [ɞ̄ȷ ɞı]{.red} [ʋȷ ɞx̄]{.green} | jon **ta** [wija ja]{.purple} [men mi]{.red} [le makan]{.green} | tool **that** [I]{.red} [eat]{.green} [with]{.purple} |
+| ʌ̄ȷ **ʌ** [ʋȷ ʌȷx]{.green} [ōı xſxſ]{.blue} [ʜı ɂ]{.purple} [ɞ̄ȷ ɞı]{.red} | ten **ta** [le teka]{.green} [in kuku]{.blue} [pi ja]{.purple} [men mi]{.red} | time **that** [I]{.red} [see]{.green} [birds]{.blue} [during]{.purple} |
+
+Notice here how there's *always* a preposition that clarifies the role of the word that $ta is modifying. $nin $ta $mi $le $suki might seem like a direct translation from English "person that I like", but in Kokanu it's meaningless. The clause $mi $le $suki sits next to the word $nin with no relation between them. It would be like saying in English "place that I go". You have to establish the role of "place" in the clause "I go", i.e. "place that I go **to**" where "to" tells you that "place" is the direction/goal of the clause "I go". Kokanu does this in a very similar way.
 
 |Likanu|Latin script|English|
 |-|-|-|
-| [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı ƨ̄ı]{.blue}: | [mi]{.red} [le suki]{.green} [in nin]{.blue}. | [I]{.red} [like]{.green} [the person]{.blue}. |
-| [ƨ̄ı]{.red} ʌ [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı]{.blue} | [nin]{.red} ta [mi]{.red} [le suki]{.green} [in]{.blue} | [person]{.red} that [I]{.red} [like]{.green} |
+| ƨ̄ı **ʌ** [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı]{.blue} | nin **ta** [mi]{.red} [le suki]{.green} [in]{.blue} | person **that** [I]{.red} [like]{.green} |
+| xȷʋ **ʌ** [ōı ɂ]{.blue} [ɞ̄ȷ ɞı]{.red} [ʋȷ xȷʋ]{.green} | kela **ta** [in ja]{.blue} [men mi]{.red} [le kela]{.green} | game **that** [I]{.red} [play]{.green} |
+| ɤ̄ı **ʌ** [ʋȷ ʌȷx]{.green} [ɞ̄ȷ ɞı]{.red} [ōı ɂ]{.blue} | sin **ta** [le teka]{.green} [men mi]{.red} [in ja]{.blue} | thing **that** [I]{.red} [see]{.green} |
+| ɞx̄ **ʌ** [ɞ̄ȷ ɞı]{.red} [ʋȷ ɞx̄]{.green} [ōı]{.blue} | makan **ta** [men mi]{.red} [le makan]{.green} [in]{.blue} | food **that** [I]{.red} [eat]{.green} |
 
-Any **preposition** can be used to make this relation.
-
-|Likanu|Latin script|English|
-|-|-|-|
-| [ɂ̄]{.red} ʌ [ɞı]{.red} [ʋȷ ʋʃ]{.green} [xı]{.yellow} | jan{.red} ta [mi]{.red} [le lo]{.green} [ki]{.yellow} | place{.red} that [I]{.red} [go]{.green} [to]{.yellow} |
-| [ɂ̄ʃ]{.red} ʌ [ɞı]{.red} [ʋȷ ʌ̄ſ]{.green} [ōı ƨȷ]{.blue} [ɕıɂ]{.yellow} | jon{.red} ta [mi]{.red} [le tun]{.green} [in ne]{.blue} [wija]{.yellow} | tool{.red} that [I]{.red} [do]{.green} [this]{.blue} [with]{.yellow} |
-
-The **preposition** at the end of the clause is called a "dangling preposition", and it's the preposition that would have been used on the modified noun in a normal sentence, e.g. "**the place** that I go **to**," "I go **to the place**" 
-
-Alternatively, unlike in English, the clause can be written out as a full sentence, where $ja refers back to the noun being modified. 
-
-|Likanu|Latin script|
-|-|-|
-| [ƨ̄ı]{.red} ʌ [ōı ɂ]{.blue} [ɞ̄ȷ ɞı]{.red} [ʋȷ ɤſxı]{.green} | [nin]{.red} ta [in ja]{.blue} [men mi]{.red} [le suki]{.green} |
-| [ƨ̄ı]{.red} ʌ [ɞı]{.red} [ōı ɂ]{.blue} [ʋȷ ɤſxı]{.green} | [nin]{.red} ta [mi]{.red} [in ja]{.blue} [le suki]{.green} |
-| [ƨ̄ı]{.red} ʌ [ɞı]{.red} [ʋȷ ɤſxı]{.green} [ōı ɂ]{.blue} | [nin]{.red} ta [mi]{.red} [le suki]{.green} [in ja]{.blue} |
-
-In the last example, $ja can be dropped from the end, leaving the dangling preposition, which is how it's always done in English.
+Remember, just as how $men is never required at the start of sentences, $men is never required after $ta. The word that comes after $ta is always assumed to be the subject.
 
 In any case, the clause must end with a comma if more follows.
 
-|Likanu|Latin script|
-|-|-|
-| [xſɕʃɤı]{.red} ʌ [ƨ̄ı]{.red} [ʋȷ ɞx̄]{.green} [ōı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [kuwosi]{.red} ta [nin]{.red} [le makan]{.green} [in]{.blue}, [le tope]{.green}. |
+|Likanu|Latin script|English|
+|-|-|-|
+| [xſɕʃɤı]{.red} ʌ [ƨ̄ı]{.red} [ʋȷ ɞx̄]{.green} [ōı]{.blue}､ [ʋȷ ʌʃʜȷ]{.green}: | [kuwosi]{.red} ta [nin]{.red} [le makan]{.green} [in]{.blue}, [le tope]{.green}. | The fruit that the person ate is good. |
 
 * * *
 
