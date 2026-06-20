@@ -36,7 +36,7 @@ export default defineUserConfig({
           children: [
             'README.md',
             'pronunciation.md',
-            'basic-sentences.md',   
+            'basic-sentences.md',
             'complex-sentences.md',
             'derivations.md',
             'tense_aspect_mood.md',
@@ -49,7 +49,7 @@ export default defineUserConfig({
           ],
         },
       ],
-      
+
       '/reference/': [
         {
           text: 'Reference',
@@ -82,7 +82,9 @@ export default defineUserConfig({
             'se.md',
             'so.md',
             'sun.md',
-            'wi.md'
+            'wi.md',
+            'mu.md',
+            'pan.md'
           ]
         }
       ],
@@ -91,8 +93,23 @@ export default defineUserConfig({
           text: 'Example Texts',
           children: [
             'README.md',
-            'lanki-je-lipu-namu.md'
+            'lanki-je-lipu-namu.md',
+            '/texts/poetry-anthology/'
             // add more texts later
+          ]
+        }
+      ],
+      '/texts/poetry-anthology/': [
+        '/texts/',
+        {
+          text: "Poetry Anthology",
+          children: [
+            'mu-sapi-tasuwi-je-te-konkulen-takaha.md',
+            'lipu.md',
+            'osimantija.md',
+            'lonton.md',
+            'mu-cuma-kike.md',
+            'kamikase.md'
           ]
         }
       ]

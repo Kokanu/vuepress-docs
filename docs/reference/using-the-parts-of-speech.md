@@ -171,6 +171,6 @@ Lastly, there are the connectors. **Connectors** are words that organize _multip
 | $un | ōſ |  $mi **un** $tu $o $lo $ki $na $insu $je $makan |
 | $ili | oıʋı |  $lan $nin $le $han $in $pawo **ili** $meja  |
 | $lekin | ʋȷx̄ı |  $mi $le $ju $te $lo $ki $niwa $tu, **lekin** $mi $le $no $nan $pi $kenca |
-| $tan | ʌ̄ | $ja $le $pata $in $pata, **tan** $le $lika $in $ta $ja $le $ikasi $matin $in |
+| $tan | ʌ̄ | $ja $le $pata $in $pata, **tan** $le $lika $in $sin $ta $ja $le $ikasi $matin $in |
 
 _Click on each connector to go to an in-depth description of how it can be used._
