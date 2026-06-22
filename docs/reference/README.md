@@ -89,3 +89,25 @@ Best examples are in the name, internally used in the server. Ato was to be repr
 ::: warning
 $ato and $kanti are both no longer official words. See $lantan and $kanta.
 :::
+
+## Minimal Pairs
+When words are only distinguished by a single sound difference, they are considered minimal pairs. Examples of this in Kokanu are $lisi and $lili, or $sunkan and $sankan. However, some sounds like m and n can sometimes be very difficult to distinguish such as in loud environments or through poor phone speakers. Kokanu has some rules in place to prevent similar sounds from making minimal pairs.
+
+We work with 2 types of limitations:
+
+First are **forbidden pairs**. These sounds may under no circumstance form a minimal pair. For example, the words "na" and "ma" can't coexist, "ci" and "si" can't coexist, "ju" and "jo" can't coexist, etc. They are displayed by a **gold**{.yellow} line in the graph below. These are as follows:
+
+**-** (no consonant) & **j**, **h**, **w** (**j**, **h**, and **w** only link to **-**, not to each other)  
+**m** & **n**  
+**c** & **t**, **s** (**t** and **s** only link to **c**, not to each other)  
+**i** & **e** (not pictured)  
+**u** & **o** (not pictured)
+
+Second are the **limited pairs**. These may form minimal pairs in the first syllable, but not in the second or third. For example, the words "sa" and "ta" can coexist, but "pata" and "pasa" cannot coexist. They are displayed by a **grey** line in the graph below. These are as follows:
+
+**p** & **t** & **c** & **k** & **s** & **h**  
+**w** & **j** & **l** & **m** & **n**  
+**p** & **w** & **m**  
+**t** & **l** & **n**
+
+![The graph of forbidden and limited pairs](./minimal_pairs.png)
