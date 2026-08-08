@@ -48,7 +48,7 @@ Other parts are optional:
 - **le teka in insu** → someone sees a building / the building is seen
 
 Both **men** and **in** are **prepositions**.  
-A preposition treats the word after it like a noun and relates it to the main verb. This also applies to pronouns, therefore all pronouns we used as a subject or object before in fact actet just as nouns. 
+A preposition treats the word after it like a noun and relates it to the main verb. This also applies to pronouns; therefore, all pronouns we used as a subject or object before in fact acted just as nouns. 
 
 Kokanu has **11 prepositions**:
 

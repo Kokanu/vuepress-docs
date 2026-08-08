@@ -1,16 +1,16 @@
 # 8. Advanced Vocabulary
 
-This chapter **does not** cover any grammar but explanes a couple of vocabulary concepts and how more complex and detailed topics may be described by them. 
+This chapter **does not** cover any grammar but explains a couple of vocabulary concepts and how more complex and detailed topics may be described by them. 
 
 ## 8.1 Proper Names
 
-Proper names are **always capitalized** just like in english. The difference is that they are the only words capitalized. They work like nouns and should follow Kokanu's phonology.
+Proper names are **always capitalized** just like in English. The difference is that they are the only words capitalized. They work like nouns and should follow Kokanu's phonology.
 
 **Examples:**
 
 | Kokanu         | English   |
 |----------------|-----------|
-| mi le Malija   |I am Maria |
+| mi le Malija   | I am Maria |
 | Mohame le makan   | Mohamed eats       |
 | kanisa je Jose le tope  | Jose's thought is good    |
 
@@ -45,15 +45,15 @@ One way to describe them is
 | Kokanu         | English   |
 |----------------|-----------|
 | pi titan je kin je tepu kin | at the direction of the beginning of the day / east |
-| pi titan je kin je konje kin | at the direction of the end of the day / west 
-|pi titan je jamin kin| at the direction of the right of the sun / north 
-|pi titan je pajan kin|at the direction of the right of the sun / south |
+| pi titan je kin je konje kin | at the direction of the end of the day / west |
+| pi titan je jamin kin | at the direction of the right of the sun / north |
+| pi titan je pajan kin | at the direction of the right of the sun / south |
 
 ::: tip New Words
 - **kin** = sun/day
 - **titan** =  way/path
 :::
 
-Left and right are both from the perspective of the sun facing towards it's moving direction relative to the earth. 
-Those descriptions however are **not official**. You should always use whatever is the simplest and most natural for you and your conversation partner(s). 
+Left and right are both from the perspective of the sun facing towards its moving direction relative to the earth. 
+Those descriptions, however, are **not official**. You should always use whatever is the simplest and most natural for you and your conversation partner(s). 
 

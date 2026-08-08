@@ -17,9 +17,9 @@ $mi $le $se $kan $ja. - "I am with him"<br>
 $na $pawo $le $se $sun $Kanata. - "That dog is from Canada"
 
 Due to how common this structure is, $se is allowed to be dropped if it is between $le and another preposition. So instead of needing to say:<br>
-$mi $le $se $pi $na $jan "I exist at that place"
+$mi $le $se $pi $na $jan - "I exist at that place"
 
 You could say:<br>
-$mi $le $pi $na $jan "I exist at that place" (exact same meaning)
+$mi $le $pi $na $jan - "I exist at that place" (exact same meaning)
 
 This means that any structure that matches "le se \<preposition\>" can have its "se" dropped. (i.e. "le se \<preposition\>" -> "le \<preposition\>").

@@ -6,7 +6,7 @@ description: A guide for new learners of Kokanu
 
 ### peko! Welcome to Kokanu!
 
-So you have decided to learn a simple and small language to be able to speak with people from everywhere, but you don't like all the linguistics talk? Fear no more, here we will be learning Kokanu step by step with simple examples. The course is divided into the following lessons: 
+So you have decided to learn a simple and small language to be able to speak with people from everywhere, but you don't like all the linguistics talk? Fear no more, here we will be learning Kokanu step by step with simple examples. The course is divided into the following lessons:
 
 0. [Pronunciation and Spelling](./pronunciation.md)  
 1. [Basic Sentences](./basic-sentences.md)
@@ -19,6 +19,6 @@ So you have decided to learn a simple and small language to be able to speak wit
 8. [Advanced Vocabulary](./advanced-vocabulary.md)
 9. [Extra](./extra.md)
 
-When a new word appears in the course, it will be **bolded**; its meaning should be obvious with the translation of the sentence; but if it is not, or if you have forgot it, look for it in [the dictionary](https://dictionary.kokanu.com).
+When a new word appears in the course, it will be **bolded**; its meaning should be obvious with the translation of the sentence; but if it is not, or if you have forgotten it, look for it in [the dictionary](https://dictionary.kokanu.com).
 
 If you are finished with the course, join us on [Discord](https://discord.gg/fMAfGRkGvQ) or read some [texts](/texts/) in Kokanu.

@@ -4,7 +4,7 @@ Used to end **main clauses**, and as an interjection.
 
 Similar to the word "please" when used to end a main clause.
 
-When used on its own as an interjection, it can mean "hello", "weclome", "please", "thank you", "sorry", etc. (any pleasantry, decided by context).
+When used on its own as an interjection, it can mean "hello", "welcome", "please", "thank you", "sorry", etc. (any pleasantry, decided by context).
 
 ### Examples
 

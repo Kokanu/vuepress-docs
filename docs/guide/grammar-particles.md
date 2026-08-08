@@ -107,7 +107,7 @@ Like *la*, *no* can be placed in different spots, with nuanced changes in meanin
 
 ## 6.4 **lun**
 
-*lun* converts any content word into a verb meaning either "to make [X] [content word]" (noun meaning) *or* "to make [X] [content word]-like" (modifier meaning). Whichever of those meanings is used depends on context, however when used with base nouns or base modifiers, it usually means the same thing as their base.
+*lun* converts any content word into a verb meaning either "to make [X] [content word]" (noun meaning) *or* "to make [X] [content word]-like" (modifier meaning). Whichever of those meanings is used depends on context; however, when used with base nouns or base modifiers, it usually means the same thing as its base.
 
 **Formula:**  
 **lun [content word] in [X]** → “to make [X] [content word]/[content word]-like”
@@ -120,7 +120,7 @@ Like *la*, *no* can be placed in different spots, with nuanced changes in meanin
 | **nin le lun pansin in kumi**              | a person makes the plastic a square  |
 | **mi le lun makan in sin**              | I make the thing food/edible  |
 
-Notice here how **lun lo** means “to cause to be moving” and not “to be cause to be movement”. Also notice how **lun pansin** means “to cause to be a rectangle” and not “to cause to be rectangle-like”. Although both of these things *can* mean the other (i.e. **lun lo** can technically grammatically mean “to cause to be movement”), they very rarely do. Since base verbs don't have a default lean, whether they mean “to cause to be [noun meaning]” or “to cause to be [modifier meaning]” is entirely up to context.
+Notice here how **lun lo** means “to cause to be moving” and not “to cause to be movement”. Also notice how **lun pansin** means “to cause to be a rectangle” and not “to cause to be rectangle-like”. Although both of these things *can* mean the other (i.e. **lun lo** can technically grammatically mean “to cause to be movement”), they very rarely do. Since base verbs don't have a default lean, whether they mean “to cause to be [noun meaning]” or “to cause to be [modifier meaning]” is entirely up to context.
 
 In any case, if further disambiguation is needed, *wi* and *wen* can be used. The exact reasons for why *wi* and *wen* can be used in this way will be shown later when you learn how both of them actually work.
 
@@ -140,7 +140,7 @@ In any case, if further disambiguation is needed, *wi* and *wen* can be used. Th
 
 ::: warning
 *Lun* does not work with the verb form of words, meaning that sentences like "ja le lun makan" cannot mean "they cause (one) to eat"/"they fed him". Instead, it will gain one of the meanings described above.
-To translate the sentence "**to cause (one) to [verb]**", you may use the following contruction
+To translate the sentence "**to cause (one) to [verb]**", you may use the following construction
 **le pon ta ja le [verb]** → “to cause that they do [verb].”
 :::
 
@@ -211,7 +211,7 @@ To specify this, you use **so**.
 | **tu le teka menu so matin**               | You see less than before      |
 | **tu le teka menu so ta tu le ju te teka** | You see less than you want to |
 
-To directly **compare** two things, the second one goes between *mese/menu* and *so*.
+To directly **compare** two things, the first one goes between *mese/menu* and *so*.
 
 **Examples:**
 

@@ -135,7 +135,7 @@ A **verb** as a modifier means “-able” (something that can be verb-ed), or �
 
 ::: tip New Words
 - **talika** = method  
-- **luwa** = ghost/ spirit  
+- **luwa** = ghost/spirit  
 - **ocota** = to worship/idolize/god → a god/deity
 :::
 

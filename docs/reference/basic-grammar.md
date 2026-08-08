@@ -71,12 +71,12 @@ These three sentences mean the same thing but have different emphasis:
 |Likanu|Latin script|English|
 |-|-|-|
 | [ɞı]{.red} **ʋȷ**{.green} **ƨʃ**{.yellow} **ɞx̄**{.green} [ōı xſɕʃɤı]{.blue}: | [mi]{.red} **le**{.green} **no**{.yellow} **makan**{.green} [in kuwosi]{.blue}. | [I]{.red} **don’t**{.yellow} **eat**{.green} [fruit]{.blue}. (**no emphasis** *or* but I may do something else to it) |
-| [ɞı]{.red} [ʋȷ ɞx̄]{.green} **ōı**{.blue} **ƨʃ**{.yellow} **xſɕʃɤı**{.blue}: | [mi]{.red} [le makan]{.green} **in**{.blue} **no**{.yellow} **kuwosi**{.blue}. | [I]{.red} **don’t**{.yellow} [eat]{.green} **fruit**{.blue}. (but I may eat something else) | 
+| [ɞı]{.red} [ʋȷ ɞx̄]{.green} **ōı**{.blue} **ƨʃ**{.yellow} **xſɕʃɤı**{.blue}: | [mi]{.red} [le makan]{.green} **in**{.blue} **no**{.yellow} **kuwosi**{.blue}. | [I]{.red} **don’t**{.yellow} [eat]{.green} **fruit**{.blue}. (but I may eat something else) |
 | **ɞ̄ȷ**{.red} **ƨʃ**{.yellow} **ɞı**{.red} [ʋȷ ɞx̄]{.green} [ōı xſɕʃɤı]{.blue}: | **men**{.red} **no**{.yellow} **mi**{.red} [le makan]{.green} [in kuwosi]{.blue}. | **I**{.red} **don’t**{.yellow} [eat]{.green} [fruit]{.blue}. (but someone/thing else may) |
 
 In order to negate the entire phrase, with no emphasis on any specific part being negated, $no is placed after the verb-marking particle (either $le or $o). This is how you normally negate phrases (i.e. "I didn't see the dog"). However, putting $no after the verb-marking particle is *also* the way to put emphasis on the fact that the verb alone is being negated.
 
-Depending on context, and the tone of the speaker, the negation of the of the verb-marking particle *may* imply that specifically and only the verb is being negated, *or* that the entire phrase is being negated. The default assumption is usually that there is no specific emphasis on the verb, and the sentence is being normally negated, as the negation of specifically the verb can be communicated in other ways (most chiefly, italics when in text, or tone when spoken).
+Depending on context, and the tone of the speaker, the negation of the verb-marking particle *may* imply that specifically and only the verb is being negated, *or* that the entire phrase is being negated. The default assumption is usually that there is no specific emphasis on the verb, and the sentence is being normally negated, as the negation of specifically the verb can be communicated in other ways (most chiefly, italics when in text, or tone when spoken).
 
 * * *
 
@@ -167,7 +167,7 @@ When quantity words which are **amounts** (e.g. a lot, some, all, more) are used
 | ɞı [ʋ̄]{.yellow} | mi [lan]{.yellow} | very (much) me |
 | [ʋ̄]{.yellow} ɞı | [lan]{.yellow} mi | we |
 | ƨȷɂȷ [ɂʌı]{.yellow} | neje [jati]{.yellow} | [somewhat]{.yellow} horse-like |
-| ɂʌı] [ƨȷɂȷ]{.yellow} | [jati]{.yellow} neje | [some]{.yellow} horses |
+| ɂʌı [ƨȷɂȷ]{.yellow} | [jati]{.yellow} neje | [some]{.yellow} horses |
 | ʋɞʃ [oƨı]{.yellow} | lamo [ani]{.yellow} | [most]{.yellow} long / long[est]{.yellow} |
 | [oƨı]{.yellow} ʋɞʃ | [ani]{.yellow} lamo | [all of the]{.yellow} lengths |
 | ʜɤ̄ [ɞȷɤȷ]{.yellow} | pasan [mese]{.yellow} | [more]{.yellow} happy  / happ[ier]{.yellow} |
@@ -187,7 +187,7 @@ The page on [Word Derivations](word-derivations.md) describes how these word cla
 Demonstratives
 ----------
 
-**Demonstratives** are a word class that function similarily to quantity words. When placed before the head word, they act as determiners, and signify which *noun* is being talked about. When placed after the head word (i.e. when acting as modifiers), demonstratives stand in as a modifier, and signify which *modifier* is being talked about.
+**Demonstratives** are a word class that function similarly to quantity words. When placed before the head word, they act as determiners, and signify which *noun* is being talked about. When placed after the head word (i.e. when acting as modifiers), demonstratives stand in as a modifier, and signify which *modifier* is being talked about.
 
 There are only three demonstratives: $ne (this), $na (that), and $ci (what).
 
@@ -219,11 +219,11 @@ The word $je is a **genitive**, similar to the word “of” in English. The wor
 |Likanu|Latin script|English|
 |------|------------|-------|
 | ʌıʜ [ɞx̄]{.yellow} | tipa [makan]{.yellow} | [edible]{.yellow} box |
-| ʌıʜ [ɂȷ]{.magenta} [ɞx̄]{.yellow} | tipa [je]{.magenta} [makan]{.yellow} | [food]{.yellow} box, [lunch]{.yellow}box |
+| ʌıʜ [ɂȷ]{.magenta} [ɞx̄]{.yellow} | tipa [je]{.magenta} [makan]{.yellow} | [food]{.yellow} box, [lunch]{.yellow} box |
 | xſɕʃɤı [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [ha]{.yellow} [mi]{.magenta} | [my]{.magenta} [second]{.yellow} fruit |
 | xſɕʃɤı [ɂȷ]{.green} [ɵ]{.yellow} [ɞı]{.magenta} | kuwosi [je]{.green} [ha]{.yellow} [mi]{.magenta} | [us]{.magenta} [two]{.yellow}[’s]{.green} fruit |
 
-The word $wa **collapses** the entire phrase before it and marks the word after it as a a **modifier**.
+The word $wa **collapses** the entire phrase before it and marks the word after it as a **modifier**.
 
 |Likanu|Latin script|English|
 |------|------------|-------|

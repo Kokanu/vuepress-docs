@@ -49,7 +49,7 @@ Sounds by Denelson83 on Wikimedia Commons, under CC BY-SA 3.0.
 Likanu is the script made for Kokanu. It is written left-to-right, top-to-bottom, and it has no capital letters. Instead, angle brackets (**‹ ›**) are used to indicate names.
 Likanu, unlike the Latin, Cyrillic or Greek writing systems, is not an alphabet. Instead, it is a kind of writing system called an abugida, where consonants are the primary letters and vowels are modifiers. This works as a midpoint between most kinds of writing systems in the world, with the exception of logographies, like Hanzi/Kanji.
 
-- A syllable starts with a consonant letter (or **o** to mark no consonant). by itself, a consonant letter forms a syllable with the vowel **a**. For example, "ʋ" is written in Latin script as "la", not "l".
+- A syllable starts with a consonant letter (or **o** to mark no consonant). By itself, a consonant letter forms a syllable with the vowel **a**. For example, "ʋ" is written in Latin script as "la", not "l".
 - To change the vowel in a syllable, you put a vowel letter in front of the consonant. For example, "ʋȷ" is written in Latin script as "le", not "lae", and "e" is not written as "ȷ", it's written as "oȷ", with a letter to specifically mark no consonant.
 - To mark an "n" sound at the end of a syllable, put the diacritic ◌̄ above the consonant. For example, "ɛ̄ʃ" is written in Latin script as "con", not "co" or "cno".
 

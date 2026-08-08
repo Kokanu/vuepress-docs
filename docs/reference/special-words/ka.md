@@ -10,7 +10,7 @@ $tu $le $lo $ki $na $jan **ka** - "Are you going there?"
 
 It can be placed either at the start or the end.
 
-$ka can also be used to mark whether/if subordinate clauses. It must be placed either at the start of the end of the subordinate clause, preferrably whichever would cause the least ambiguity.
+$ka can also be used to mark whether/if subordinate clauses. It must be placed either at the start or the end of the subordinate clause, preferably whichever would cause the least ambiguity.
 
 $mi $le $no $wisan $ta **$ka** $na $le $wen $kanisa $tope - "I don't know **whether** that is a good idea"
 

@@ -6,13 +6,13 @@ description: Making more complex words in Kokanu
 
 # Clarifying Descriptions
 
-To describe **nouns** and **verbs**, we use words tacked on to the right of a head word (the root or main content word, either noun or verb), these words are called **modifiers**. Read this guide to learn more about how modifiers can be understood and also how to make use of two helpful prepositional markers **je** and **wa**.
+To describe **nouns** and **verbs**, we use words tacked on to the right of a head word (the root or main content word, either noun or verb). These words are called **modifiers**. Read this guide to learn more about how modifiers can be understood and also how to make use of two helpful prepositional markers **je** and **wa**.
 
-You can use any word as a modifier and when it's tacked onto a head word, it means that the **modifier** word is an _attribute_ of the head word. In other words, the head word now has some kind of relation to the modifier. 
+You can use any word as a modifier and when it's tacked onto a head word, it means that the **modifier** word is an _attribute_ of the head word. In other words, the head word now has some kind of relation to the modifier. 
 
 > All content words can be used as modifiers. Check out our [Word Derivations](./word-derivations.md) guide for more info.
 
-Modifiers can affect other modified phrases, connecting together to form modifier chains. When modifiers are chained, each modifier affects the head **noun**/**verb** and all of the **modifiers** that have already been associated with that head **noun**/**verb**. The combination of the head **noun**/**verb** plus all chained modifiers is known as a **phrase** (**noun phrase** or a **verb** **phrase**).
+Modifiers can affect other modified phrases, connecting together to form modifier chains. When modifiers are chained, each modifier affects the head **noun**/**verb** and all of the **modifiers** that have already been associated with that head **noun**/**verb**. The combination of the head **noun**/**verb** plus all chained modifiers is known as a **phrase** (**noun phrase** or a **verb phrase**).
 
 $pawo **$cenpo** **$mi** $le $tope.<br>
 "**My** **big** dog is good."
@@ -21,22 +21,22 @@ $pawo **$cenpo** **$mi** $le $tope.<br>
 
 **Noun phrase**: *pawo cenpo mi*
 
-$in $makan $satu $canu $cenpo $le $makan.<br>
-"A **large** **ice** cream is eaten."  
+$in $makan $satu $canu $cenpo $le $makan.<br>
+"A **large** **ice** cream is eaten."  
 
-> in (((makan satu) canu) cenpo) le makan.
+> in (((makan satu) canu) cenpo) le makan.
 
 **Noun phrase**: *makan satu canu cenpo*
 
-Modifiers chain together and are attributes for the **entire preceding phrase**, not just the previous modifier. *satu* applies to *makan*, *canu* applies to *makan **satu***, so now *cenpo* applies to the entire phrase *makan satu canu*, not just to *canu*.
+Modifiers chain together and are attributes for the **entire preceding phrase**, not just the previous modifier. *satu* applies to *makan*, *canu* applies to *makan **satu***, so now *cenpo* applies to the entire phrase *makan satu canu*, not just to *canu*.
 
-Another way to think of this is that each modifier individually applies to the head noun. So the modifiers in the phrase *makan satu canu cenpo*, are all saying that the *makan* is *satu*, *canu*, and *cenpo*.
+Another way to think of this is that each modifier individually applies to the head noun. So the modifiers in the phrase *makan satu canu cenpo* are all saying that the *makan* is *satu*, *canu*, and *cenpo*.
 
 So how would you instead say "a _very cold_ candy"? For that, we need to _regroup_ the modifiers using the **base-modifier forcing derivational marker** $wi.
 
 ### wi Regrouping
 
-The derivational marker $wi is used to convert words into a base modifier, and have the meaning of that base modifier be the modifier meaning of the base word. This is already explained on [$wi's page](./special-words/wi.md), so it will not be explained in detail here. However, another ability of $wi is the ability to regroup modifiers. Any words that modify the word that comes after $wi, first apply to the $wi word, get converted into their modifier meaning, and then get applied to the rest of the phrase. What this means is that you can modify modifiers with what are essentially adverbs, as they form a single unit which modifies the adjective that is getting applied to the noun phrase.
+The derivational marker $wi is used to convert words into a base modifier, and have the meaning of that base modifier be the modifier meaning of the base word. This is already explained on [$wi's page](./special-words/wi.md), so it will not be explained in detail here. However, another ability of $wi is the ability to regroup modifiers. Any words that modify the word that comes after $wi apply first to the $wi word, get converted into their modifier meaning, and then get applied to the rest of the phrase. What this means is that you can modify modifiers with what are essentially adverbs, as they form a single unit which modifies the adjective that is getting applied to the noun phrase.
 
 Therefore, the grouping for a sentence like:
 $mi $in $sin $wi $tope $lan $le $suki.
@@ -45,7 +45,7 @@ $mi $in $sin $wi $tope $lan $le $suki.
 Would be this:
 > mi in (sin (wi tope (lan))) le suki.
 
-This allows quantity words to be able to define the intensity of certain adjectives. Here are a few examples:
+This allows quantity words to define the intensity of certain adjectives. Here are a few examples:
 
 | Likanu | Latin script | English |
 | --- | --- | --- |
@@ -59,13 +59,13 @@ This kind of modification may also be done with $je, the genitive marker. In a v
 
 $sin $je $tope $lan, while grammatically meaning "the thing of much goodness", semantically is basically the same as saying $sin **$wi** $tope $lan, but just with a different particle.
 
-However, if a quantity word does *not* come after a word after $je, it is not interpreted as this way. $je is not just a regrouping particle, but is instead also a genitive marker.
+However, if a quantity word does *not* come after a word after $je, it is not interpreted in this way. $je is not just a regrouping particle, but is instead also a genitive marker.
 
 ### Genitive Marker
 
-The **genitive** marker $je is used for **genitive** relationships. Think of the **genitive** as relating one thing as an attribute to another. The best equivalence in English is the word "of". The words that are directly after the marker are a new **noun phrase** that is some kind of attribute of the **noun phrase** directly preceding the marker. For this reason, the **genitive** marker is also considered a **regrouping** marker.
+The **genitive** marker $je is used for **genitive** relationships. Think of the **genitive** as relating one thing as an attribute to another. The best equivalence in English is the word "of". The words that are directly after the marker are a new **noun phrase** that is some kind of attribute of the **noun phrase** directly preceding the marker. For this reason, the **genitive** marker is also considered a **regrouping** marker.
 
-$lan $nin $tope - "many good people"
+$lan $nin $tope - "many good people"
 
 $nin $je $tope $lan - literally "person of much goodness", or "a very good person"
 
@@ -75,7 +75,7 @@ By using $je, the word $tope becomes a **head** **noun** meaning _goodness_ whic
 
 ### Kinds of Genitive Attribution
 
-Using the genitive marker is also good for creating many different relationships between two **noun phrases**. What these relationships are differs depending on the context and the words chosen. All of the below genitive relationships were gathered from various forms of genitive attribution from around the world. Not every example is directly translated into English and often English makes use of alternative prepositions like "with", "by", and "for". Kokanu only has those kinds of prepositions attached to a main or subordinate clause of a sentence (essentially, they must be tied to a verb). But equipped with the simple $je marker, context and supporting word choices, you can effectively communicate all of these genitive relations. If after all of that, your listener/reader still does not understand, you can make use of clarifying words to clarify the specific meaning you were trying to achieve.
+Using the genitive marker is also good for creating many different relationships between two **noun phrases**. What these relationships are differs depending on the context and the words chosen. All of the below genitive relationships were gathered from various forms of genitive attribution from around the world. Not every example is directly translated into English and often English makes use of alternative prepositions like "with", "by", and "for". Kokanu only has those kinds of prepositions attached to a main or subordinate clause of a sentence (essentially, they must be tied to a verb). But equipped with the simple $je marker, context and supporting word choices, you can effectively communicate all of these genitive relations. If after all of that, your listener/reader still does not understand, you can make use of clarifying words to clarify the specific meaning you were trying to achieve.
 
 #### Descriptive Genitive
 
@@ -93,7 +93,7 @@ Specifies the preceding phrase as being owned or possessed by the attached genit
 
 $mu $sema $je $canwa "ear belonging to an animal" (lit. ear of animal)
 
-You can clarify that a genitive relationship is descriptive by using $han:
+You can clarify that a genitive relationship is possessive by using $han:
 
 $mu $sema $je $han $je $canwa (lit. ear of possession of animal)
 
@@ -103,19 +103,19 @@ Specifies the preceding phrase as having a familial relationship with the attach
 
 $matuwa $je $matuwa $mi "mother related to my mother" (lit. mother of my mother)
 
-You can clarify a genitive relationship is familial by using $lije:
+You can clarify that a genitive relationship is familial by using $lije:
 
 $matuwa $je $lije $je $matuwa $mi (lit. mother of relation of my mother)
 
 #### Partitive Genitive
 
-Specifies the preceding phrase as being part of some larger whole or set. "Which is part of" is an equivalent expression in English. Sometimes the preceding phrase only contains a quantity word or $osa.
+Specifies the preceding phrase as being part of some larger whole or set. "which is part of" is an equivalent English expression. Sometimes the preceding phrase only contains a quantity word or $osa.
 
 $jati $je $makan "some which is part of the food" (lit. some of food)  
   
 $osa $wan $je $ha "first part which is part of two" (lit. first part of two)
 
-You can clarify a genitive relationship is partitive by using $osa:
+You can clarify that a genitive relationship is partitive by using $osa:
 
 $jati $je $osa $je $makan (lit. some of the parts of food)
 
@@ -123,11 +123,11 @@ $jati $je $osa $je $makan (lit. some of the parts of food)
 
 Specifies the attached genitive phrase as being an attribute or innate quality of the preceding phrase. Semantically similar to regular modifier usage but more emphatic in its attribution.
 
-$insu $je $hela "sacred building" (lit. building of sacredness) 
+$insu $je $hela "sacred building" (lit. building of sacredness) 
 
-You can clarify a genitive relationship is attributive by using $kun alone or $han and $kun:
+You can clarify that a genitive relationship is attributive by using $kun alone or $han and $kun:
 
-$insu $je $han $je $kun $je $hela (lit. building of possession of quality of sacredness)
+$insu $je $han $je $kun $je $hela (lit. building of possession of quality of sacredness)
 
 #### Attributed Genitive
 
@@ -135,17 +135,17 @@ Specifies the preceding phrase as being an attribute or innate quality of the at
 
 $uli $je $niku "weakness attributed to muscles" (lit. weakness of muscles)
 
-You could clarify this genitive relationship using $lije again although some directional ambiguity would remain:
+You could clarify this genitive relationship using $lije again although some directional ambiguity would remain:
 
-$uli $je $lije $je $niku (lit. weakness of relation of muscles)
+$uli $je $lije $je $niku (lit. weakness of relation of muscles)
 
-You could clarify this genitive relationship using $kun again although some directional ambiguity would remain:
+You could clarify this genitive relationship using $kun again although some directional ambiguity would remain:
 
-$uli $je $kun $je $niku (lit. weakness of quality of muscles)
+$uli $je $kun $je $niku (lit. weakness of quality of muscles)
 
 You could clarify this genitive relationship using $se $limijen:
 
-$uli $je $se $limijen $je $niku (lit. weakness of inner existence of muscles)
+$uli $je $se $limijen $je $niku (lit. weakness of inner existence of muscles)
 
 #### Genitive of Material
 
@@ -153,19 +153,19 @@ Specifies the preceding phrase as being made of a material. "made out of" or "co
 
 $lantan $je $namu $kijeta "vehicle made out of hard wood" (lit. vehicle of hard wood)
 
-You can clarify a genitive relationship is material by using $niju:
+You can clarify that a genitive relationship is material by using $niju:
 
 $lantan $je $niju $je $namu $kijeta (lit. vehicle of material of hard wood)
 
 #### Genitive of Content
 
-Specifies the preceding phrase as containing within itself the attached genitive phrase. "full of" or "containing" or equivalent English expressions. Similar to the Material Genitive but the contents are a separate entity from the material of the container.
+Specifies the preceding phrase as containing within itself the attached genitive phrase. "full of" or "containing" are equivalent English expressions. Similar to the Material Genitive but the contents are a separate entity from the material of the container.
 
 $non $pani $je $micin "lake containing fish" (lit. water body of fish)
 
-You can clarify a genitive relationship is material by using $han $limijen:
+You can clarify that a genitive relationship is content by using $han $limijen:
 
-$non $pani $je $han $limijen $je $micin (lit. water body of inner possession of fish)
+$non $pani $je $han $limijen $je $micin (lit. water body of inner possession of fish)
 
 #### Epexegetical Genitive
 
@@ -207,21 +207,21 @@ Specifies that the preceding phrase is a producer of the attached genitive phras
 
 $tasuwi $lo $je $osole "movie which produces fear" (lit. moving picture of fear)
 
-You can clarify that a genitive relationship is Product by using $mu $pon:
+You can clarify that a genitive relationship is product by using $mu $pon:
 
-$tasuwi $lo $je $mu $pon $je $osole (lit. moving picture of causer of fear)
+$tasuwi $lo $je $mu $pon $je $osole (lit. moving picture of causer of fear)
 
-Or by using a subordinate clause
+Or by using a subordinate clause:
 
-$tasuwi $lo ($je)* $te $pon $in $osole (lit. moving picture that causes fear)
+$tasuwi $lo ($je) $te $pon $in $osole (lit. moving picture that causes fear)
 
-*je doesn't change the meaning much semantically, but may change it pragmatically. Adding "je" has the connotation of the moving picture generally causing fear, whereas dropping "te" has more of a connotation that the moving picture is causing fear *right now*, or at some other referenced point of time within the conversation (whatever that might be without the context). This is a general rule that applies to "je te" vs just "te" formations when using subordinate clauses on a noun phrase
+je doesn't change the meaning much semantically, but may change it pragmatically. Adding "je" has the connotation of the moving picture generally causing fear, whereas dropping "je" has more of a connotation that the moving picture is causing fear *right now*, or at some other referenced point of time within the conversation (whatever that might be without the context). This is a general rule that applies to "je te" vs just "te" formations when using subordinate clauses on a noun phrase.
 
 #### Genitive of Separation
 
-Specifies that the preceding phrase is separate from the attached genitive phrase. "out of", "away from" ,or simply "from" are equivalent English expressions.
+Specifies that the preceding phrase is separate from the attached genitive phrase. "out of", "away from", or simply "from" are equivalent English expressions.
 
-$tula $tula $je $ja "far from them" (lit. far distance of them)  
+$tula $tula $je $ja "far from them" (lit. far distance of them)  
   
 $lipan $je $ukama $honja "clear from wild plants" (lit. absence of wild plants)
 
@@ -233,23 +233,23 @@ $lipan $je $te $pijen $sun $ukama $honja (lit. absence of which is becoming from
 
 Specifies the origin of the preceding phrase. "out of", "derived from", "dependent on" are equivalent English expressions. This genitive can often be better expressed using the $sun thematic role marker.
 
-$pani $nase $hunsi $je $pumi Chanpen "wine out of Champagne" (lit. red intoxicated liquid of land Champagne)  
+$pani $nase $hunsi $je $pumi Chanpen "wine out of Champagne" (lit. red intoxicated liquid of land Champagne)  
   
 $namu $je $insu $cune "wood derived from the old building" (lit. wood of old building)
 
-You can clarify that a genitive relationship is Source by using a subordinate clause with se and $sun:
+You can clarify that a genitive relationship is source by using a subordinate clause with $se and $sun:
 
 $namu $te $sun $insu $cune (lit. wood of which is from old building)
 
 #### Genitive of Price/Value
 
-Specifies the price or value of the preceding phrase. "for", "worth" are an equivalent English expressions. The attached genitive phrase must contain concepts of money, value or amount.
+Specifies the price or value of the preceding phrase. "for", "worth" are equivalent English expressions. The attached genitive phrase must contain concepts of money, value or amount.
 
-$makan $satu $je $ha $mani "candy for two dollars" (lit. sweet food of two monies)  
+$makan $satu $je $ha $mani "candy for two dollars" (lit. sweet food of two monies)  
   
 $san $neje $je $tiju $jone "three horses worth ten goats" (lit. three horses of ten goats)
 
-You can clarify that a genitive relationship is Price/Value by using $mita:
+You can clarify that a genitive relationship is price/value by using $mita:
 
 $san $neje $je $mita $je $tiju $jone (lit. three horses of value of ten goats)
 
@@ -261,7 +261,7 @@ $tun $je $etu $osa $kin "work for eight hours" (lit. action of eight day parts)
   
 $ten $te $makan, $je $osa $setan "breakfast at seven o'clock" (lit. time of eating of the seventh hour)  
 
-You can clarify that a genitive relationship is Time by using ten:
+You can clarify that a genitive relationship is time by using $ten:
 
 $tun $je $ten $je $etu $osa $kin (lit. action of time of eight day parts)
 
@@ -275,21 +275,21 @@ $lo $je $te $pi $ten $nelo $je $kin (lit. movement of which is at the dark time 
 
 Specifies a vague local relation to the preceding phrase. "in", "at", "through", "over" are equivalent English expressions. The attached genitive phrase must contain concepts of location. Often uses the words $opotu or $sekano.
 
-$niwa $je $honja "cabin in the woods" (lit. residence of the wilderness)  
+$niwa $je $honja "cabin in the woods" (lit. residence of the wilderness)  
   
-$mi $le $lo $wija $pumi $pani $ki $sinsi "I travel through the marsh to the city" (lit. I am moving via wet land to the city)
+$mi $le $lo $wija $pumi $pani $ki $sinsi "I travel through the marsh to the city" (lit. I am moving via wet land to the city)
 
-You can clarify that a genitive relationship is Place by using $jan:
+You can clarify that a genitive relationship is place by using $jan:
 
-$niwa $je $jan $je $honja (lit. residence of place of wilderness)
+$niwa $je $jan $je $honja (lit. residence of place of wilderness)
 
 You can also clarify this relationship using a subordinate clause and $pi:
 
-$niwa $je $te $pi $honja (lit. residence of which is at the wilderness)
+$niwa $je $te $pi $honja (lit. residence of which is at the wilderness)
 
 #### Genitive of Means
 
-Specifies the manner of the preceding phrase. "by", "by means of" are equivalent English expressions. This genitive can often be better expressed using the $wija thematic role marker.
+Specifies the manner of the preceding phrase. "by", "by means of" are equivalent English expressions. This genitive can often be better expressed using the $wija thematic role marker.
 
 $pilu $je $tun $katin "achievement by hard work" (lit. victory of hard work)
 
@@ -309,13 +309,13 @@ $tun $takaha $je $te $wija $hoton $cenpo $nelo (lit. violent action of which is 
 
 #### Genitive of Reference
 
-Specifies a reference entity that helps better explain the preceding phrase. "with reference to" or "with respect to" are equivalent English expressions. This genitive can often be bettered expressed using the so thematic role marker.
+Specifies a reference entity that helps better explain the preceding phrase. "with reference to" or "with respect to" are equivalent English expressions. This genitive can often be better expressed using the $so thematic role marker.
 
 $mese $ten $je $ikasi $mi "more time with respect to my studies" (lit. more time of my study)
 
-You can clarify this relationship using a subordinate clause and so:
+You can clarify this relationship using a subordinate clause and $so:
 
-$mese $ten $te $po $ikasi $mi $so $tun $sone  (lit. more time that is for my studies compared to other work)
+$mese $ten $te $po $ikasi $mi $so $tun $sone  (lit. more time that is for my studies compared to other work)
 
 #### Subjective Genitive
 
@@ -323,7 +323,7 @@ Specifies or describes the subject of the preceding phrase when the preceding ph
 
 $kota $je $nin $mu $hapijo "speech of the announcer" (lit. speech of the announcer person)  
   
-$lo $je $micin $cenpo "movement of whales" (lit. movement of big sea creatures)
+$lo $je $micin $cenpo "movement of whales" (lit. movement of big sea creatures)
 
 You can clarify this genitive relationship by replacing the whole relation with a noun phrase and a subordinate clause:
 
@@ -331,11 +331,11 @@ $lo $te $nenka $micin $cenpo, ... (lit. movement that is because of big sea crea
 
 You can also clarify this genitive relationship with $pon:
 
-$lo $je $pon $je $micin $cenpo (lit. movement of result of big sea creatures)
+$lo $je $pon $je $micin $cenpo (lit. movement of result of big sea creatures)
 
 #### Objective Genitive
 
-Specifies or describes the object of the preceding phrase when the preceding phrase is a transitive verb phrase or a noun phrase that contains a transitive action. "for", "about", "concerning", "towards", "against" are English equivalent expressions. This genitive can always be converted into a sentence where the genitive noun phrase is the object of the action.
+Specifies or describes the object of the preceding phrase when the preceding phrase is a transitive verb phrase or a noun phrase that contains a transitive action. "for", "about", "concerning", "towards", "against" are equivalent English expressions. This genitive can always be converted into a sentence where the genitive noun phrase is the object of the action.
 
 $mi $le $kota $je $meja "we talked about cats" (lit. we talked of cats) 
 
@@ -343,7 +343,7 @@ You can clarify this genitive relationship by replacing the whole relation with 
 
 $mi $le $kota $in $sin $je $meja (lit. we said things of cats) 
   
-Or by using $husu
+Or by using $husu.
 
 $mi $le $kota $je $husu $je $meja (lit. we said the topic of cats)
 
@@ -361,15 +361,15 @@ $te $amo, $ta $ocota $le $pon $in (lit. loving that god causes)
 
 ### Chains of je
 
-Unlike modifiers, a noun phrase containing multiple genitive markers do not chain onto each other from _left to right_. It is considered an _immediate_ relationship between the two noun phrases on either side of the marker and so chaining occurs from _right to left_ with each successive completed je-phrase being attached to the noun or $je within the outer phrase (to the left).
+Unlike modifiers, a noun phrase containing multiple genitive markers does not chain onto each other from _left to right_. It is considered an _immediate_ relationship between the two noun phrases on either side of the marker and so chaining occurs from _right to left_ with each successive completed je-phrase being attached to the noun or $je within the outer phrase (to the left).
 
-$niwa $je $matuwa $je $matuwa $mi - "My grandparent's house", grouped as "(house of (the parent of my parent))"  
+$niwa $je $matuwa $je $matuwa $mi - "My grandparent's house", grouped as "(house of (the parent of my parent))"  
   
-$pawo $je $wala $je $matuwa $je $matuwa $mi \- "My great-aunt's dog", grouped as "(dog of (the sibling of (the parent of my parent)))"  
+$pawo $je $wala $je $matuwa $je $matuwa $mi - "My great-aunt's dog", grouped as "(dog of (the sibling of (the parent of my parent)))"  
   
-$jan $je $insu $je $makan - "restaurant location", grouped as "(place of (the house of food))"
+$jan $je $insu $je $makan - "restaurant location", grouped as "(place of (the house of food))"
 
-When using je after a verb, the je\-phrase acts like an **adverbial phrase**, just like any other modifier would on a verb. Adverbial phrases can be used to describe several different genitive relationships.
+When using je after a verb, the je-phrase acts like an **adverbial phrase**, just like any other modifier would on a verb. Adverbial phrases can be used to describe several different genitive relationships.
 
 $mi $le $kota $je $sema $lan - "I talk **loudly**", literally "I talk **of much volume**"
 
@@ -377,21 +377,21 @@ Due to context playing a major part in our understanding of Kokanu sentences, th
 
 $mi $le $kota $je $husu $je $sema $lan (lit. I talk of concern of much volume)
 
-Reminder that $je $sema $lan could always be replaced with $wi $sema $lan to remove ambiguity
+Reminder that $je $sema $lan could always be replaced with $wi $sema $lan to remove ambiguity.
 
 ### Collapsing Noun Phrases
 
-The way $je chains isn't an issue for the statement $niwa $je $matuwa $je $matuwa $mi, as it still translates to a phrase that roughly means "my grandparent's house", however there are some cases where it can cause issues.
+The way $je chains isn't an issue for the statement $niwa $je $matuwa $je $matuwa $mi, as it still translates to a phrase that roughly means "my grandparent's house"; however, there are some cases where it can cause issues.
 
-$insu $je $makan - "restaurant"  
+$insu $je $makan - "restaurant"  
   
-$jan $je $kawa - "bathroom"  
+$jan $je $kawa - "bathroom"  
   
-$jan $je $kawa $je $insu $je $makan - "place of restaurant garbage"...?
+$jan $je $kawa $je $insu $je $makan - "place of restaurant garbage"...?
 
 Grouped as "place of (dirtiness of (building of food))"
 
-There's another particle called the noun phrase collapsing particle: $wa. It can be used to resolve this problem. $wa _collapses_ the part of a noun phrase before it and treats it as if it is one complete noun phrase. This means that adding modifiers, genitive markers, and anything else that you can do with a regular noun phrase, you can do with a noun phrase collapsed by $wa. $wa can also do this with $wi.
+There's another particle called the noun phrase collapsing particle: $wa. It can be used to resolve this problem. $wa _collapses_ the part of a noun phrase before it and treats it as if it is one complete noun phrase. This means that adding modifiers, genitive markers, and anything else that you can do with a regular noun phrase, you can do with a noun phrase collapsed by $wa. $wa can also do this with $wi.
 
 There are a few rules that you must understand to make proper usage of wa:
 
@@ -402,18 +402,18 @@ There are a few rules that you must understand to make proper usage of wa:
 *   This marker _does not regroup_ like the genitive marker.
 *   You cannot negate a $wa particle just as you cannot insert negations inside of a modifier chain.
 
-$jan $je $kawa $wa $je $insu $je $makan - "restaurant bathroom" ((place of dirtiness) of (building of food))
+$jan $je $kawa $wa $je $insu $je $makan - "restaurant bathroom" ((place of dirtiness) of (building of food))
 
 Here's a larger example of this interplay between the two particles.
 $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa $ta $mi $le $suki $in $ja 
 1. $insu $je $makan 'restaurant' (lit. place of food)
-2.  $insu $je $makan $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa
-3.  $insu $je $makan $wa $cenpo 'big restaurant', as $cenpo _sees_ insu-je-makan-wa  
+2.  $insu $je $makan $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa
+3.  $insu $je $makan $wa $cenpo 'big restaurant', as $cenpo _sees_ insu-je-makan-wa  
     **Note:** $insu $je $makan $cenpo is 'place of big food', which is not the same
 4.  $insu $je $makan $wa $cenpo $hunsi 'red big restaurant', as $hunsi _sees_ insu-je-makan-wa $cenpo
-5.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan 'very-good red big restaurant', as $je $tope $lan _sees_ insu-je-makan-wa $cenpo $hunsi and acts on all of it because from its perspective, it's only acting on one chain (like how $je $tope $lan would also act on meja $cenpo $hunsi as that is only one chain)
+5.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan 'very-good red big restaurant', as $je $tope $lan _sees_ insu-je-makan-wa $cenpo $hunsi and acts on all of it because from its perspective, it's only acting on one chain (like how $je $tope $lan would also act on meja $cenpo $hunsi as that is only one chain)
 6.  $insu $je $makan $wa $cenpo $hunsi $je $tope $lan $wa, for the sake of the words after it, can be thought of as insu-je-makan-wa-cenpo-hunsi-je-tope-lan-wa
-7.  $mi $le $suki $in $ja _sees_ insu-je-makan-wa-cenpo-hunsi-je-tope-lan-wa
+7.  $mi $le $suki $in $ja _sees_ insu-je-makan-wa-cenpo-hunsi-je-tope-lan-wa
 
 $wa can be thought of as collapsing the entire phrase into one noun, that can work like any other noun. Due to this, modifiers that provide extra information about a noun phrase are often placed after $wa if the previous $je chains existed for the purpose of disambiguating a specific concept that the speaker wished to discuss.
 
