@@ -170,7 +170,7 @@ Clauses can be closed in multiple ways, sometimes stacking multiple closers to a
 | Kokanu phrase (variants)                                               | Meaning                                  |
 |------------------------------------------------------------------------|------------------------------------------|
 | **nenka ta tu le cuma hon ta mi le koman, men mi le kujo**                  | I am sad because you leave when I come   |
-| **nenka ta tu le cuma hon ta mi le koman,, men mi le kujo**             | (same, but multiple , used)        |
+| **nenka ta tu le cuma hon ta mi le koman,, men mi le kujo**             | (same, but multiple commas used)        |
 | **nenka ta tu le cuma hon ta mi le koman hu, men mi le kujo**             | (same, but hu used)        |
 | **nenka ta tu le cuma hon ta mi le koman hu hu men mi le kujo**             | (same, but multiple hu used)        |
 

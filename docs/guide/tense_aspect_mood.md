@@ -27,9 +27,9 @@ For explicit marking, Kokanu uses **three tense modifiers**:
 | **pawo le jatan melon in niku** | the dog will find the meat |
 | **tu le sema matin in mi**      | you heard me        |
 
-Instead of adding the time as a sort-of adverb, it works like this using a pi-clause:
+Instead of adding the time as a sort of adverb, it works like this using a pi-clause:
 
-- **tu le teka in mi pi matin** - you saw me / you see me in the past
+- **tu le teka in mi pi matin** → you saw me / you see me in the past
 
 ::: tip New Words
 - **matin** = past  
@@ -121,7 +121,7 @@ The particle **o** is very versatile:
 | Kokanu phrase           | Meaning                        |
 |--------------------------|--------------------------------|
 | **o sema ki mi**         | listen to me! (imperative)      |
-| **mi o jatan in meja mi**    | lets find my cat/ we should find my cat (suggestive) |
+| **mi o jatan in meja mi**    | let's find my cat/ we should find my cat (suggestive) |
 | **o tope pi melon**      | may you be fine in the future (optative) |
 
 ::: tip New Words
@@ -130,7 +130,7 @@ The particle **o** is very versatile:
 
 #### Other mood markers
 
-- **hon** — context / if → used for **conditionals** (chapter 5.3)  
+- **hon** — context / if → used for **conditionals** (chapter 7.1)  
 - **kate** — hypothetical (“as if”, counterfactual)  
 - **hakiki** — authentic, realis (“indeed, actually”)  
 

@@ -48,7 +48,7 @@ le jatan in talika je te tasuwi in kosan tajali cenpo
 
 wija lipu haja, le lun malo in kosan<br>
 ta ja o no se conca melon,<br>
-wa je lipu  ta le lun lisi le lun pa le lun<br>
+wa je lipu ta le lun lisi le lun pa le lun<br>
 wi apaki wija tijante in,
 
 te pijen pon in pa tu.

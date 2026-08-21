@@ -1,6 +1,6 @@
 # pan
 
-The derivational marker **pan** turns the following word into a noun that is a causative agent, meaning it causes or allows another entity to do that verb.
+The derivational marker **pan** turns the following word into a noun that is a causative agent, meaning it causes or allows another entity to do that verb.
 Compare this to $mu, which refers to something that itself is doing the action:
 
 $mu $ikasi - "entity that learns", "learner"
@@ -22,4 +22,4 @@ It also works with base modifiers and base nouns (intransitive verbs):
 
 **pan** $tiku - "killer" (thing that causes others to die)
 
-**pan** $pani - "thing that makes others liquid" eg. a blender
+**pan** $pani - "thing that makes others liquid", e.g. a blender

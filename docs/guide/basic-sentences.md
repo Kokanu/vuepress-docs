@@ -12,7 +12,7 @@ In Kokanu, all **content words** belong to one of three categories:
 
 Although a word’s category and its usage don’t always have to match (verbs can be used as nouns, etc. — see Chapter 3), here we will start using them in their **base form**.  
 
-The main verb in a sentence is usually marked by **le** (exceptions in 2.2 and 5.4). In the simplest case, the **subject** goes right before it.  
+The main verb in a sentence is usually marked by **le** (exceptions in 2.3 and 5.4). In the simplest case, the **subject** goes right before it.  
 
 **Examples:**
 
@@ -93,7 +93,7 @@ The Kokanu dictionary shows this explicitly:
 
 ### 1.4 Modifiers
 
-The last word type are **modifiers**. As the name suggests, they **modify other words**.  
+The last word type is **modifiers**. As the name suggests, they **modify other words**.  
 
 - They can act on both **verbs** and **nouns**.  
 - In English terms, they are both **adjectives** and **adverbs**.  

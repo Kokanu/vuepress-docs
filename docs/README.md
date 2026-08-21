@@ -14,11 +14,11 @@ actions:
   - text: Texts
     link: /texts/
     type: secondary
-  
+
   - text: Dictionary
     link: https://dictionary.kokanu.com/
     type: secondary
-  
+
   - text: Discord
     link: https://discord.gg/fMAfGRkGvQ
     type: secondary

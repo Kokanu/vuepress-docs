@@ -12,6 +12,7 @@ Some words in Kokanu have special functions.
 * [ka - interrogative particle](ka.md)
 * [la - exclamation](la.md)
 * [peko - please](peko.md)
+* [hu - clause closer](hu.md)
 
 ## Derivational markers
 * [lun - causative](lun.md)

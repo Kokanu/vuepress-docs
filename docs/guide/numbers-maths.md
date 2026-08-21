@@ -13,9 +13,9 @@ Conditionals are formed by ***hon*** statements, where the verb is modified by *
 ::: tip New Words
 
 * **nan** = to be able (an ability)
-  :::
+:::
 
-The *kate* is not necessary, it just indicates that something is hypothetical. If in a certain situation it feels more natural without *kate*, that is fine too.
+The *kate* is not necessary; it just indicates that something is hypothetical. If in a certain situation it feels more natural without *kate*, that is fine too.
 
 ## 7.2 Abstract Amounts
 
@@ -96,7 +96,7 @@ The number *sijen* and *con* can also be compound numbers.
 | setan sijen ha tiju nanku         | seven hundred and twenty-four; 724                  |
 | lima con loku sijen san tiju loku | five thousand and six hundred and thirty-six; 5,636 |
 
-::: warning The number before ***tiju***, ***sijen*** and ***con*** can **not** be compound numbers and must be a **digit**. Unlike in english, a number like "twenty thousand" with the intuitive translation *ha tiju con* is not possible.
+::: warning The number before ***tiju***, ***sijen*** and ***con*** can **not** be compound numbers and must be a **digit**. Unlike in English, a number like "twenty thousand" with the intuitive translation *ha tiju con* is not possible.
 :::
 
 ---
@@ -123,7 +123,7 @@ This can again be multiplied by a number placed before *hen*.
 | etu hen nanku | 8\*10^4; 80,000    |
 | lima hen loku | 5\*10^6; 5,000,000 |
 
-After the *hen*-expression we can also add something. For this purpose a *hu* or comma comes after the exponent of *hen*.
+After the *hen*-expression we can also add something. For this purpose, a *hu* or a comma comes after the exponent of *hen*.
 
 **Examples:**
 

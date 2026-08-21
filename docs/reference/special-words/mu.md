@@ -1,6 +1,6 @@
 # mu
 
-The derivational marker **mu** turns the following word into a noun that is the agent (doer) of that verb. It can be compared to the "-er" suffix in English.
+The derivational marker **mu** turns the following word into a noun that is the agent (doer) of that verb. It can be compared to the "-er" suffix in English.
 
 **mu** $makan - "entity that eats", "eater"
 
@@ -37,7 +37,7 @@ $te $konkulen - "to compete"
 
 $mu $konkulen - "competitor"
 
-The infinitive verbs refer to the general ocurrence of an action. For example, $te $konkulen refers to the act of competing, not a specific competition.
+The infinitive verbs refer to the general occurrence of an action. For example, $te $konkulen refers to the act of competing, not a specific competition.
 The construction "$tun **mu**" can be used to indicate a singular action:
 
 $te $konkulen, $le $tope - "competing is good"

@@ -29,7 +29,7 @@ The consonants are pronounced like this:
 * **j** — like in **y**es
 * **w** — like in **w**e
 
-The Vowels are pronounced like this:
+The vowels are pronounced like this:
 
 * **i** — like in s**ee**
 * **e** — like in dr**e**ss
@@ -37,7 +37,7 @@ The Vowels are pronounced like this:
 * **o** — like in th**ou**ght
 * **u** — like in b**oo**t
 
-For people familiar with it read up on the IPA symbols below.
+For people familiar with it, read up on the IPA symbols below.
 
 <details>
   <summary><strong>International Phonetic Alphabet (IPA)</strong></summary>
@@ -102,13 +102,12 @@ There are **no** consonant clusters and **no** final consonants other than **n**
 | **w**      | wi | we | wa | wo |    | win | wen | wan | won |     |
 
 ::: warning
-*ji*, *jin*, *wu*, and *wun* are invalid syllables to avoid difficulties in pronounciation.
+*ji*, *jin*, *wu*, and *wun* are invalid syllables to avoid difficulties in pronunciation.
 :::
 
 ---
 
 ### Examples
-----------
 
 Here are some Kokanu words **borrowed from English**. They’re not identical to English pronunciation, but they keep it close enough to feel familiar:
 
@@ -125,5 +124,5 @@ Here are some Kokanu words **borrowed from English**. They’re not identical to
 | **oke**    | okay     | **OH-keh** /o.ke/ — two clean syllables                                     |
 
 ::: warning
-A words meaning in Kokanu might slightly differ from it's original meaning. ***oke*** for example in it's base form means "to accept" not "okay".
+A word's meaning in Kokanu might slightly differ from its original meaning. ***oke***, for example, in its base form means "to accept" not "okay".
 :::

@@ -1,6 +1,6 @@
 # hon
 
-This particle is used to attach context phrases to your sentences. With **hon**, you can place your context in any location within the sentence just like all of the other thematic relation markers. "Context" can be a wide variety of things. We will discuss using this marker for specifying a relative time for the entire sentence, evidentiality, and conditionals. 
+This particle is used to attach context phrases to your sentences. With **hon**, you can place your context in any location within the sentence just like all of the other thematic relation markers. "Context" can be a wide variety of things. We will discuss using this marker for specifying a relative time for the entire sentence, evidentiality, and conditionals. 
 
 ### Relative Time
 
@@ -19,15 +19,15 @@ Times are not _always_ relative to simple ideas like "today", "tomorrow", or "in
 
 Keep in mind, any references to time can also be made with the preposition $pi. This is especially true when referencing specific times that things happened.
 
-For example the most natural translation for the sentence:
+For example, the most natural translation for the sentence:
 
-"When I saw her, I knew that she had stole my cookies"
+"When I saw her, I knew that she had stolen my cookies"
 
 Would be:
 
 $pi $ta $mi $le $teka $in $ja, $mi $le $wisan $ta $ja $le $alu $in $makan $satu $mi
 
-Using $hon in this sentence would actually have a different meaning, more akin to "*Given* that I saw her, I knew that she had stole my cookies".
+Using $hon in this sentence would actually have a different meaning, more akin to "*Given* that I saw her, I knew that she had stolen my cookies".
 
 Since $hon can always be replaced with $pi if time is being specified, depending on the context, using $hon instead of $pi can signify that you're talking *about* the time rather than putting the statement in the context *of* the time. However, in most situations, it's clear from context whether someone is putting the specific time as a topic of the sentence, or putting the sentence in the context of it.
 
@@ -57,7 +57,7 @@ The tense of this sentence is unspecified, and the $hon statement is more saying
 
 **pi** $ta $lantan $le $hunsi, $men $mi $le $lun $nile $in $ja - "When the car is red, I will paint it blue"
 
-Whether or not this statement is hypotethetical is ambiguous and up to context.
+Whether or not this statement is hypothetical is ambiguous and up to context.
 
 If you want to say *given* something, you would use $hon without $kate.
 
@@ -67,10 +67,10 @@ Keep in mind that this statement could be in any tense. It could be "Given that 
 
 ### Examples
 
-**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want go to the restaurant, then I want to go with you"
+**hon** $ta $tu $le $ju $kate $te $lo $ki $insu $je $makan,, $men $mi $le $ju $te $lo $kan $tu - "If you want to go to the restaurant, then I want to go with you"
 
 **hon** $ta $na $le $sankan, $men $lan $mi $o $kosan $in $pan $tuntan $te $po $na $pan $katin - "Given that that's important, we should create a solution for that problem"
 
 $Inkilisi $le $katin **hon** $nin $Nihon - "English is hard for Japanese people"
 
-**hon** $ten $nelo $melon $men $mi $le $ju $konen $te $no $lo $ki $jan $enteken - "Tonight I'll probably not want to go the park"
+**hon** $ten $nelo $melon $men $mi $le $ju $konen $te $no $lo $ki $jan $enteken - "Tonight I'll probably not want to go to the park"
