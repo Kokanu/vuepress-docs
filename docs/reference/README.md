@@ -58,7 +58,7 @@ This is a rather vague principle, but essentially this boils down to: the langua
 To see how this principle is exercised, check out the [Vocabulary Principles](#vocabulary-principles) section
 
 ## Vocabulary Principles
-Derived from the Kokanu principles listed above, most notably the Minimalism and Practicality principles, to add a new word in Kokanu, people must give a justification using these principles. A justification is to be given relative to the minimal precedent already present in the language, something like if X word already exists, this rule should also make Y word exist since the rule applies more to it than X does.
+Derived from the Kokanu principles listed above, most notably the Minimalism and Practicality principles, to add a new word in Kokanu, people must give a justification using these principles. A justification is to be given relative to the minimal precedent already present in the language, something like if X word already exists, this rule should also make Y word exist since the rule applies more to Y than it does to X.
 
 These discussions are still very subjective, but these rules give a structure to discussion.
 
