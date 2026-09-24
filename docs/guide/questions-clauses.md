@@ -92,7 +92,7 @@ Yes–no questions are formed with **ka**. It can appear at the start, end, or b
 ### **Adverbial Clauses**
 
 Placed after a preposition, a *ta*-clause behaves like a main clause.  
-When a *ta*-clause directly follow the verb of the sentence as the direct object, you may drop *in*.
+When a *ta*-clause directly follows the verb of the sentence as the direct object, you may drop *in*.
 
 **Examples:**
 
@@ -216,7 +216,7 @@ If your sentence ends with **ka** at the end of a *ta*-clause, some ambiguity ca
 ### **Adverbial Clauses**
 
 As an adverbial clause, *te* acts like an infinitive clause in English.
-Like with *ta*, when a *te*-clause directly follow the verb of the sentence as the direct object, you may drop *in*.
+Like with *ta*, when a *te*-clause directly follows the verb of the sentence as the direct object, you may drop *in*.
 
 | Kokanu phrase                     | Meaning              |
 |-----------------------------------|----------------------|
