@@ -218,12 +218,12 @@ As an adverbial clause, *te* acts like an infinitive clause in English:
 
 | Kokanu phrase                     | Meaning              |
 |-----------------------------------|----------------------|
-| **mi le ju (in) te makan**        | I like to eat        |
+| **mi le ju (in) te makan**        | I want to eat        |
 | **te pata, le tope**              | To read is good / Reading is good |
 | **te makan in kuwosi, le tope**   | Eating fruits is good |
 
 ::: tip New Words
-- **ju** = to want / to like  
+- **ju** = to want
 - **pata** = to read  
 - **kuwosi** = fruit  
 :::
