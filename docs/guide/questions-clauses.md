@@ -91,7 +91,8 @@ Yes–no questions are formed with **ka**. It can appear at the start, end, or b
 
 ### **Adverbial Clauses**
 
-Placed after a preposition, a *ta*-clause behaves like a main clause.
+Placed after a preposition, a *ta*-clause behaves like a main clause.  
+When a *ta*-clause directly follow the verb of the sentence as the direct object, you may drop *in*.
 
 **Examples:**
 
@@ -203,7 +204,7 @@ If your sentence ends with **ka** at the end of a *ta*-clause, some ambiguity ca
 
 ### **Relative Clauses**
 
-*te* is equivalent to *ta ja le*:
+*te* is equivalent to *ta ja le* in this case.
 
 | Kokanu phrase                            | Meaning                      |
 |------------------------------------------|------------------------------|
@@ -214,7 +215,8 @@ If your sentence ends with **ka** at the end of a *ta*-clause, some ambiguity ca
 
 ### **Adverbial Clauses**
 
-As an adverbial clause, *te* acts like an infinitive clause in English:
+As an adverbial clause, *te* acts like an infinitive clause in English.
+Like with *ta*, when a *te*-clause directly follow the verb of the sentence as the direct object, you may drop *in*.
 
 | Kokanu phrase                     | Meaning              |
 |-----------------------------------|----------------------|
