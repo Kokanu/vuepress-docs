@@ -19,13 +19,13 @@ When a **modifier** follows a verb marker (like **le** or **o**), it effectively
 
 ::: tip New Words
 - **antomi** = asleep (modifier)  
-- **cenpo** = big  
+- **cina** = small
 - **lijule** = laughing  
 - **momu** = bovine  
 :::
 
 ::: warning
-Here, **le** is not a “to be” verb. The modifier itself becomes a verb when used in this position.
+Here, **le** is not a “to be” verb, it only marks what part of the sentence is actually the verb. The modifier itself becomes the verb when used in this position.
 :::
 
 ---
@@ -67,10 +67,11 @@ A **modifier** used as a noun becomes the abstract concept of “[modifier]-ness
 - **pilu** = victorious / successful  
 - **ikasi** = to learn  
 - **tonko** = hurting / suffering  
+- **wija** = through/via/by means of
 :::
 
 ::: warning
-Kokanu often favors conceptual nuance over literal one-to-one translation. Literal renderings can sound verbose in English.
+Kokanu often favors conceptual nuance over literal one-to-one translation. Literal renderings can often sound verbose in English.
 :::
 
 ---
@@ -99,7 +100,7 @@ Remember Chapter 1.3: Kokanu’s **direct object** usage may differ from English
 
 In Kokanu, when used as nouns, *lika* is more often used to communicate literal text, while *pata* is more often used to communicate a document or page (so a collection of text).
 
-The dictionary lists all noun/verb/modifier forms explicitly.
+[The dictionary](https://dictionary.kokanu.com/) lists all noun/verb/modifier forms explicitly.
 :::
 
 ---
@@ -112,12 +113,13 @@ A **noun** used as a modifier means “[noun]-related,” often broadly.
 
 | Kokanu phrase                 | Meaning                        |
 |-------------------------------|--------------------------------|
-| **insu neje le hunsi**        | the stable is red           |
+| **insu neje le hunsi**        | the stable (literally "horse building") is red           |
 | **mi le onton in onton sila** | I wear head-related clothing   |
 
 ::: tip New Words
 - **onton** = to wear (clothing)  
 - **sila** = head  
+- **hunsi** = red
 :::
 
 ---
@@ -130,10 +132,12 @@ A **verb** as a modifier means “-able” (something that can be verb-ed), or �
 
 | Kokanu phrase                 | Meaning                       |
 |-------------------------------|-------------------------------|
+| **sin makan**                 | an edible thing               |
 | **talika ikasi**              | a learnable method            |
 | **luwa ocota**                | a god-like ghost          |
 
 ::: tip New Words
+- **sin** = thing
 - **talika** = method  
 - **luwa** = ghost/spirit  
 - **ocota** = to worship/idolize/god → a god/deity
@@ -143,10 +147,10 @@ A **verb** as a modifier means “-able” (something that can be verb-ed), or �
 
 ### Overview Table
 
-| Base form     | Verb meaning             | Noun meaning                   | Modifier meaning         |
-|---------------|---------------------------|--------------------------------|--------------------------|
-| **Modifier**  | be [modifier]             | [modifier]-ness                | —                        |
-| **Noun**      | be [noun]                 | —                              | [noun]-related           |
-| **Verb**      | —                         | generic object (e.g. food)     | verb-able / verb-like    |
+| Base form     | Noun meaning             | Modifier meaning                   | Verb meaning          |
+|---------------|----------------------------|--------------------------------|--------------------------|
+| **Noun**      | —                          | [noun]-related                 | be [noun]                |
+| **Modifier**  | [modifier]-ness            | —                              | be [modifier]            |
+| **Verb**      | generic object (e.g. food) | verb-able / verb-like          | —                        |
 
 Use this as a quick reference when exploring or building Kokanu vocabulary!
