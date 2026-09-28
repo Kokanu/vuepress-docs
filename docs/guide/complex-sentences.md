@@ -78,20 +78,26 @@ In Kokanu, **ki** often marks the **recipient** (the indirect object).
 | **ja le tene in mani ki nin**      | they give money to the person / they give the person money |
 
 ::: tip New Words
-- **ki** = towards (particle)
+- **ki** = towards (preposition)
 - **insu** = building
+- **mani** = money
+- **tene** = to give (a gift)
+- **nin** = person
 :::
 
 ---
 
-### 2.3 Imperative
+### 2.3 Imperatives and Suggestions
 
 To form an imperative:  
-- Drop the **men** clause  
+- Drop the subject
 - Replace **le** with **o**  
 
-**Example:**
-- **o kota ki mi** → talk to me!  
+**Examples:**
+- **tu le kota ki mi** → you talk to me
+- **o kota ki mi** → talk to me! 
+- **tu le tene in na ki mi** → you give that to me
+- **o tene in na ki mi** → give that to me!
 
 To specify who is addressed, use **he**:  
 
@@ -99,10 +105,24 @@ To specify who is addressed, use **he**:
 |------------------------------------|-------------------|
 | **he neje o kota ki mi**           | horse, talk to me! |
 
+Another use of **o** is to say how things oughta be. In other words, **o** can be used to make **suggestions**.
+
+| Kokanu sentence                    | English meaning   |
+|------------------------------------|-------------------|
+| **mi o makan in ne**           | I should eat this |
+| **ja o tene in neje ja ki mi** | they should give me their horse |
+| **nin o se pi insu tu**        | people should exist at your building |
+
+In these cases, **o** translates roughly to English "should".
+
 ::: tip New Words
-- **o** = imperative marker (particle)  
-- **he** = vocative marker (particle, repeated here)  
-- **neje** = horse  
+- **o** = imperative/suggestion marker (particle)  
+- **he** = vocative marker (preposition)  
+- **neje** = horse
+- **ne** = this
+- **na** = that
+- **pi** = at/on/in (locative preposition)
+- **se** = existant
 :::
 
 ---
@@ -118,24 +138,64 @@ Kokanu has **four conjunctions**:
 | tan         | then |
 | lekin       | but |
 
-They can connect **words**, **phrases**, or **sentences**.  
+They can connect **words**, **phrases**, or **sentences**.
+
+In English, in order to list multiple subjects, verbs, objects, etc. the word "and" must be used. In Kokanu, something similar is often done.
+
+| Kokanu sentence                              | English meaning                         |
+|----------------------------------------------|-----------------------------------------|
+| **mi un tu le kela**                        | me and you play                        |
+| **neje le wisan un suki in kuwosi**         | horses know and like fruit |
+| **mi le teka in insu un nin**               | i see a building and a person                  |
+
+However, this is not the only way to chain multiple noun phrases. There are three total methods:
+
+| Kokanu sentence                              | English meaning                         |
+|----------------------------------------------|-----------------------------------------|
+| **mi le makan in kuwosi in ukama**           | I eat fruits and plants (no use of **un**)      |
+| **mi le makan in kuwosi un in ukama**        | I eat fruits and plants      |
+| **mi le makan in kuwosi un ukama**           | I eat fruits and plants      |
+
+There is no difference in meaning between any of these constructions. They are just different ways of saying the same thing.
+
+Additionally, **un** can be used to chain multiple sentences together.
+
+| Kokanu sentence                              | English meaning                         |
+|----------------------------------------------|-----------------------------------------|
+| **mi le makan in kuwosi, un ja le wisan in ne**       | I eat fruit, and they know this     |
+| **ukiki le teka in mi, un mi le teka in ja**          | A monkey sees me, and I see it      |
+
+**ili**, meaning "or", can be used in all the same ways that **un** can be. It just means "or" instead of "and".
+
+| Kokanu sentence                              | English meaning                         |
+|----------------------------------------------|-----------------------------------------|
+| **le ju men mi in micin ili kuwosi**         | I want fish or fruit     |
+| **in na o kela men mi ili men tu**           | me or you should play that      |
+
+The other two conjunctions are **tan** and **lekin**, meaning "then" and "but" respectively. They both act similarily, and can only connect full phrases.
 
 **Examples:**
 
 | Kokanu sentence                              | English meaning                         |
 |----------------------------------------------|-----------------------------------------|
-| **mi un tu le kela**                        | me and you play                        |
-| **nin le ju in neje cenpo ili in meja cina** | a person wants a big horse or a small cat |
+| **le kota men mi men tu kan usen, lekin le no wisan men mi in tu** | we talked with each other, but I don't know you |
 | **tu le pata, tan tu le lika**              | you read, then you write                  |
+| **ja in meja le suki, tan ja in pawo le suki** | they liked cats, then they liked dogs |
 
 ::: tip New Words
-- **un** = and (conjunction)  
-- **ili** = or (conjunction)  
-- **tan** = then (conjunction)  
-- **lekin** = but (conjunction)  
-- **cina** = small  
-- **meja** = cat  
-- **ju** = to want  
-- **pata** = to read  
-- **lika** = to write  
+- **un** = and
+- **ili** = or
+- **kuwosi** = fruit
+- **ukama** = plant
+- **kela** = to play (a game)
+- **wisan** = to know (information)
+- **suki** = to like (a preferred thing)
+- **ju** = to want (a desired thing)
+- **lekin** = but
+- **tan** = then
+- **kan** = with (preposition)
+- **pata** = to read (a document)
+- **lika** = to write (text)
+- **meja** = cat
+- **pawo** = dog
 :::
