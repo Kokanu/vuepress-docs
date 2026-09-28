@@ -1,0 +1,13 @@
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true
+minimumReleaseAgeExclude:
+  - '@vuepress/plugin-back-to-top@2.0.0-rc.137'
+  - '@vuepress/plugin-copy-code@2.0.0-rc.137'
+  - '@vuepress/plugin-git@2.0.0-rc.137'
+  - '@vuepress/plugin-markdown-hint@2.0.0-rc.137'
+  - '@vuepress/plugin-markdown-tab@2.0.0-rc.137'
+  - '@vuepress/plugin-prismjs@2.0.0-rc.137'
+  - '@vuepress/plugin-seo@2.0.0-rc.137'
+  - '@vuepress/plugin-sitemap@2.0.0-rc.137'
+  - '@vuepress/theme-default@2.0.0-rc.137'
