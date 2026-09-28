@@ -13,23 +13,23 @@ But this is not required.
 
 | Kokanu sentence                   | Meaning                |
 |-----------------------------------|------------------------|
-| mi le amo in pawo mi             | I love my dog          |
-| mi in pawo mi le amo             | I love my dog          |
+| mi le amo in pawo             | I love dogs          |
+| mi in pawo le amo             | I love dogs          |
 
 However, if we continue to not mark the subject, when the **subject is not first**, ambiguity arises:
 
-- **le amo in pawo mi mi**
-- **in pawo mi mi le amo**
-- (*Are you saying "my" twice?*)
+- **le amo in pawo mi**
+- **in pawo mi le amo**
+- (*Are you saying "my dog is loved" or "i love dogs"?*)
 
 To avoid this, the subject *must* be marked with **men** when it is not in the first position:
 
-- **in pawo mi le amo men mi**  
-- **le amo men mi in pawo mi**  
-- (*I love my dog*)
+- **in pawo le amo men mi**  
+- **le amo men mi in pawo**  
+- (*I love dogs*)
 
 It is also allowed at the start:  
-- **men mi le amo in pawo mi**
+- **men mi le amo in pawo**
 
 All of these have the same literal meaning. Word order in Kokanu is a **rhetorical choice** and can be used to stress certain parts of the sentence.
 
@@ -75,22 +75,11 @@ In Kokanu, **ki** often marks the **recipient** (the indirect object).
 
 | Kokanu sentence                    | English meaning               |
 |------------------------------------|-------------------------------|
-| **ja le tene in mani ki nin**      | they give money to the person / they give the person the money |
+| **ja le tene in mani ki nin**      | they give money to the person / they give the person money |
 
 ::: tip New Words
-- **in** = direct object marker (particle)  
-- **pi** = at/during (particle)  
-- **kan** = with (particle)  
-- **sun** = from (particle)  
-- **po** = for (particle)  
-- **he** = vocative marker (particle)  
-- **nenka** = because (particle)  
-- **hon** = context / conditional (particle)  
-- **wija** = via/through/using (particle)  
-- **ki** = towards (particle)  
-- **mani** = money  
-- **nin** = person  
-- **tene** = to give  
+- **ki** = towards (particle)
+- **insu** = building
 :::
 
 ---
