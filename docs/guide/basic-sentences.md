@@ -66,7 +66,7 @@ If the direct object is not a **base noun**, it will be converted into a noun, w
 |--------------------------------|--------------------------|
 | **tu le makan in kuwosi**      | you eat a fruit          |
 | **ja le teka in kuku**         | they see a bird          |
-| **mi le makan in pani**        | I drink (lit. eat liquid)|
+| **mi le makan in pani**        | I consume liquid |
 | **ukiki le suki in tu**        | the monkey likes you     |
 
 ::: tip New Words
