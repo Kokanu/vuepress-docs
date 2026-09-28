@@ -34,7 +34,7 @@ The vowels are pronounced like this:
 * **i** — like in s**ee**
 * **e** — like in dr**e**ss
 * **a** — like in c**a**t
-* **o** — like in th**ou**ght
+* **o** — like in th**ou**ght (in non-North American dialects) and like in m**oa**t (in North American dialects)
 * **u** — like in b**oo**t
 
 For people familiar with it, read up on the IPA symbols below.
