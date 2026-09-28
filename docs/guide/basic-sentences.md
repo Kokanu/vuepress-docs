@@ -100,6 +100,12 @@ The last word type is **modifiers**. As the name suggests, they **modify other w
 - A chain of modifiers collectively modifies the preceding word.  
 - A pronoun used as a modifier becomes a **possessive pronoun**.  
 
+Something important to note is that modifiers always come **after** the things that they modify. This is the opposite of English.
+
+In English, adjectives always come **before** the things that they modify. You would say a "ball red", you'd say a "red ball".
+
+But in Kokanu, you *would* say "ball red", because the modifier "red" is modifying the noun "ball", therefore it must come **after**.
+
 **Examples:**
 
 | Kokanu sentence                         | English meaning           |
@@ -117,5 +123,3 @@ The last word type is **modifiers**. As the name suggests, they **modify other w
 - **cenpo** = big  
 - **insu** = building  
 :::
-
----
