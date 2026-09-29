@@ -161,8 +161,7 @@ If one wants to have **lun pansin** mean "to make into a rectangle", then it wou
 ::: warning
 When using base verbs with **lun**, it does *not* carry the same meaning as English "to make [something] [verb]".
 A sentence like "**ja le lun makan in nin**" does *not* mean "they cause someone to eat". Instead, it would mean "they make someone edible".
-To translate the sentence "**to cause (one) to [verb]**", you may use the following construction
-**le pon ta ja le [verb]** → “to cause that they do [verb].”
+To translate the sentence "**to cause (one) to [verb]**", you may use the following construction: **le pon ta ja le [verb]** → “to cause that they do [verb].”
 :::
 
 ---
@@ -194,7 +193,6 @@ Keep in mind that there is no one way to say things in Kokanu, and that everythi
 
 ::: tip New Words
 - **kosan** = to build  
-- **pasan** = happy  
 - **osole** = afraid  
 :::
 
