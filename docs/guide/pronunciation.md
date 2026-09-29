@@ -1,13 +1,13 @@
 # 0. Phonology and Spelling
 
-Kokanu’s phonology is built for **global accessibility** while staying **very minimal**.
+Kokanu's phonology tries to stay **minimal** and **globally accessible**.
 It has **11 consonants** and **5 vowels**:
 
 ```p, t, k, c, w, l, j, m, n, s, h```
 
 ```a, i, e, o, u```
 
-Every syllable is short and easy to pronounce for most people, no matter their native language.
+The phonological inventory and phonotactics is restrained so that every sound remains relatively easy to pronounce for most speakers of most languages around the world. Kokanu allows a large amount of flexibility in how sounds are pronounced in order to make it as easy as possible to speak for all people, regardless of native language.
 
 If you want to jump straight into speaking, scroll down to [**Examples**](#examples) and give them a try!
 
@@ -42,24 +42,26 @@ For people familiar with it, read up on the IPA symbols below.
 <details>
   <summary><strong>International Phonetic Alphabet (IPA)</strong></summary>
 
-Each letter has a preferred IPA value, but variation is allowed to make Kokanu friendly to a wide range of native-language accents:
+Each letter has a preferred IPA value, but variation is allowed. In general, Kokanu phonotactics is strict, while its allophony is lax:
 
-* **⟨m⟩** – /m/
-* **⟨n⟩** – /n/
-* **⟨p⟩** – /p/
-* **⟨t⟩** – /t/ \[tʰ] or \[d] allowed
-* **⟨k⟩** – /k/ \[kʰ] or \[g] allowed
-* **⟨s⟩** – /s/ \[ʃ], \[z], \[ʒ] allowed
-* **⟨c⟩** – /t͡ʃ/, also \[t͡s] or \[d͡ʒ]
-* **⟨h⟩** – /h/ \[x] allowed
-* **⟨l⟩** – /l/
-* **⟨j⟩** – /j/
-* **⟨w⟩** – /w/ \[v], \[β], or \[ʋ] allowed
-* **⟨i⟩** – /i/ \[ɪ] allowed
-* **⟨e⟩** – /e̞/ \[e] or \[ɛ] allowed
-* **⟨a⟩** – /ä/ \[a], \[ɑ], \[æ], \[ɐ] allowed
-* **⟨o⟩** – /o̞/ \[o] or \[ɔ] allowed
-* **⟨u⟩** – /u/ \[ʊ], \[ɯ], or \[ʉ] allowed
+* **⟨m⟩** – \[m]
+* **⟨n⟩** – \[n]
+* **⟨p⟩** – \[p]
+* **⟨t⟩** – \[t]; \[d] allowed
+* **⟨k⟩** – \[k]; \[g] allowed
+* **⟨s⟩** – \[s]; \[ʃ], \[z], and \[ʒ] allowed
+* **⟨c⟩** – \[t͡ʃ]; \[t͡s] and \[d͡ʒ] allowed
+* **⟨h⟩** – \[h]; \[x], \[ʁ], \[ʔ], \[∅], etc. allowed
+* **⟨l⟩** – \[l]
+* **⟨j⟩** – \[j]
+* **⟨w⟩** – \[w]; \[v], \[β], and \[ʋ] allowed
+* **⟨i⟩** – \[i]; \[ɪ] allowed
+* **⟨e⟩** – \[e̞]; \[e] and \[ɛ] allowed
+* **⟨a⟩** – \[ä]; \[a], \[ɑ], \[æ], and \[ɐ] allowed
+* **⟨o⟩** – \[o̞]; \[o] and \[ɔ] allowed
+* **⟨u⟩** – \[u]; \[ʊ], \[ɯ], and \[ʉ] allowed
+
+This is by no means a complete list of what allophony is acceptable. In general, if it can distinguish a minimal pair without creating ambiguity, then it's acceptable.
 
 Some vowel or consonant pairs that sound very similar across languages are never used to distinguish words in the Kokanu dictionary.
 </details>
