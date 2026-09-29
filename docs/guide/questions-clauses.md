@@ -66,6 +66,7 @@ A possible answer to "pawo le antomi pi **ci jan**" would be "pi insu" (at a bui
 Whereas a possible answer to "pawo le antomi pi **jan ci**" would be "pi jan tope" (in a good place).
 
 ::: tip New Words
+- **nenka** = because (causative preposition)
 - **loso** = bad  
 - **jan** = place  
 - **ten** = time  
