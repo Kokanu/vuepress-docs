@@ -1,5 +1,7 @@
 # lun
 
+::: warning This page is inaccurate. See [the corresponding poll](https://discord.com/channels/845822437434196048/845822572599443456/1317210704608104539). :::
+
 **lun** is a particle that turns words into a verb meaning "to \<word\>-ify X" or "to make X into \<word\>".
 
 ### Use
